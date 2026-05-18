@@ -5,7 +5,7 @@
   🌐 Tapmad Auto Update Playlist 🌐
   <br>
 </h1>
-<h2 align="center">A Script to trigger the GitHub Actions every 1 hours to update the AynaOTT App Channels Link and Cookie </h2>
+<h2 align="center">A Script to trigger the GitHub Actions every 30 minute to update the Tapco Channels Link and Cookie </h2>
 
 <p align="center">
   <a href="https://www.python.org/">
@@ -15,8 +15,8 @@
   <a href="https://saythanks.io/to/monirulislam007@gmail.com">
       <img src="https://img.shields.io/badge/Team_X_SM-%E2%98%BC-green.svg">
   </a>
-  <a href="https://play.google.com/store/apps/details?id=com.aynaott.apps">
-    <img src="https://img.shields.io/badge/App-AynaOTT-purple">
+  <a href="https://play.google.com/store/apps/details?id=com.tapmad.tapmadtv">
+    <img src="https://img.shields.io/badge/App-Tapmad-purple">
   </a>
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"></a>
@@ -24,12 +24,12 @@
 
 
 <h1 align="center">
- <a href="www.aynaott.com"><img src="https://github.com/sm-monirulislam/AynaOTT-auto-update-playlist/blob/main/image/aynaott_banner.jpeg"></a>
+ <a href="https://www.tapmad.com/"><img src="https://github.com/sm-monirulislam/AynaOTT-auto-update-playlist/blob/main/image/aynaott_banner.jpeg"></a>
 </h1>
 
 
 # 📕Introdicton 
-* [AynaoOTT](https://play.google.com/store/apps/details?id=com.aynaott.apps) is the number One paid IPTV app in Bangladesh.The script can get the channel’s HLS M3U8 link by breaking through the website’s security, and then transform it into JSON and playlist formats.
+* [Tapmad](https://play.google.com/store/apps/details?id=com.tapmad.tapmadtv) is the number One paid IPTV app in Bangladesh.The script can get the channel’s HLS M3U8 link by breaking through the website’s security, and then transform it into JSON and playlist formats.
 
 
 # 🛡️Key Features
@@ -54,7 +54,7 @@
 
 Enjoy 😊
 
-**🙂 Use AynaOTT Json 🙂**
+**🙂 Use Tapmad Json 🙂**
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.json)
 
  
