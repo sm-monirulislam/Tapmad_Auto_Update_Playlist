@@ -24,7 +24,7 @@
 
 
 <h1 align="center">
- <a href="https://www.tapmad.com/"><img src="https://github.com/sm-monirulislam/AynaOTT-auto-update-playlist/blob/main/image/aynaott_banner.jpeg"></a>
+ <a href="https://www.tapmad.com/"><img src="https://github.com/sm-monirulislam/Tapmad_Auto_Update_Playlist/blob/main/image/unnamed.webp"></a>
 </h1>
 
 
