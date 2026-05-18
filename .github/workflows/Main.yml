@@ -36,7 +36,7 @@ jobs:
       # Run Private Script
       - name: Run Script
         run: |
-          python private_repo/main.py
+          python private_repo/tapmad_sm.py
 
       # Push Generated Playlist
       - name: Commit & Push Playlist
