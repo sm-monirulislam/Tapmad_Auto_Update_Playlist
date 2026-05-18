@@ -13,16 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Public Repo Checkout
+      # Checkout Public Repo
       - name: Checkout Public Repo
         uses: actions/checkout@v4
 
-      # Private Repo Clone
+      # Clone Private Repo
       - name: Clone Private Repo
         run: |
-          git clone https://${{ secrets.PRIVATE_TOKEN }}@github.com/sm-monirulislam/SM-Live-TV-Secret-Project-EXP.git private_repo
+          git clone https://${{ secrets.PRIVATE_TOKEN }}@github.com/${{ secrets.PRIVATE_REPO }}.git private_repo
 
-      # Python Setup
+      # Setup Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -36,16 +36,16 @@ jobs:
       # Run Private Script
       - name: Run Script
         run: |
-          python private_repo/tapmad_sm.py
+          python private_repo/main.py
 
-      # Push Generated Playlist
-      - name: Commit & Push Playlist
+      # Commit & Push Playlist
+      - name: Commit and Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
           git add Tapmad_sm.m3u
 
-          git commit -m "Auto Update Playlist" || echo "No changes"
+          git commit -m "Auto Update Tapmad Playlist" || echo "No changes"
 
           git push
