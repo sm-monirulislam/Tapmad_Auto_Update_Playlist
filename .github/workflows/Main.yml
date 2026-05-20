@@ -1,7 +1,9 @@
 name: Auto Update Tapmad Playlist
 
 on:
-  
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
@@ -27,7 +29,7 @@ jobs:
           python-version: "3.11"
 
       # Install Dependencies
-      - name: Install Requests
+      - name: Install Dependencies
         run: |
           pip install requests
 
@@ -36,14 +38,14 @@ jobs:
         run: |
           python private_repo/tapmad_sm.py
 
-      # Commit & Push Playlist
+      # Commit & Push Updated Playlist
       - name: Commit and Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add Tapmad_sm.m3u
+          git add .
 
-          git commit -m "Auto Update Tapmad Playlist" || echo "No changes"
+          git commit -m "Auto Update Tapmad Playlist" || echo "No changes to commit"
 
           git push
