@@ -2,10 +2,12 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-05-23 21:54:41 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-05-23 22:50:17 (BD Time)
+#  Channels Count: 2
 #=================================
 
 
 #EXTINF:-1 tvg-id="tapmad-13784" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17795344691020x576.jpg" group-title="Football", Finals Day Live | Amateur Cup Finals Day 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779552306~acl=/hls/*~hmac=380049e2124f23a4538ff934824625823b3746153e95496d46d2995c3abe3ef0
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1779555314~acl=/hls/*~hmac=88c9da2a8220e9b0b491af6b5d1f250f01a4c4acb5d4f358f23cb938dd45f664
+#EXTINF:-1 tvg-id="tapmad-13406" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17792624521020x576.jpg" group-title="Mma", Habirora vs Henderson | PFL 2026
+https://tapmad.sm-monirul.top/2107108/PSLE_tapmad2026-Backup/master.m3u8
