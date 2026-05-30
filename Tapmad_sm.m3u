@@ -2,8 +2,8 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-05-30 16:20:58 (BD Time)
-#  Channels Count: 7
+#  Last Updated: 2026-05-30 17:49:26 (BD Time)
+#  Channels Count: 8
 #=================================
 
 
@@ -20,4 +20,6 @@ https://tapmad.sm-monirul.top/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13576" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800089681020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - Philippe Chatrier Live | French Open 2026
 https://tapmad.sm-monirul.top/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-12996" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17796943161020x576.jpg" group-title="Mma", Song vs Figueiredo | UFC 2026
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780136706~acl=/hls/*~hmac=a7e77a59247b903dc01b95feb2c506b9d4b1f2bbddfad096d842e663cfb93205
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780141515~acl=/hls/*~hmac=39a34179d15356e53b43efeb5b58d848615ab7ac113d2e077ec4fb4f2012be95
+#EXTINF:-1 tvg-id="tapmad-13485" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg" group-title="Cricket", Pakistan vs Australia Live | Australia Tour of Pakistan 2026
+https://tapmad.sm-monirul.top/2107108/Tapmad-PaKvZIm/master.m3u8
