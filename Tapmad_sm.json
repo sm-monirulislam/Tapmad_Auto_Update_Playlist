@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 4,
+    "channels_amount": 5,
     "last_update": "2026-07-07",
     "response": [
         {
@@ -32,6 +32,13 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833353841020x576.jpg",
             "group": "E Sports",
             "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-352fi78/master.m3u8"
+        },
+        {
+            "id": "tapmad-14827",
+            "name": "Valorant Day 6 | Esports World Cup 2026 (EWC)",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833317001020x576.jpg",
+            "group": "E Sports",
+            "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         }
     ]
 }
