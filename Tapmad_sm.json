@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 7,
+    "channels_amount": 6,
     "last_update": "2026-07-09",
     "response": [
         {
@@ -46,13 +46,6 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835060441020x576.jpg",
             "group": "E Sports",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8"
-        },
-        {
-            "id": "tapmad-14924",
-            "name": "Cycling Day 2 - Bad Kleinkirchheim Live | LIDL Tour of Austria 75 - 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835052321020x576.jpg",
-            "group": "Racing",
-            "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         }
     ]
 }
