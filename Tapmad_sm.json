@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 4,
+    "channels_amount": 7,
     "last_update": "2026-07-09",
     "response": [
         {
@@ -13,11 +13,11 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-14896",
-            "name": "Dota 2 - Day 3 - Feed 3 | Esports World Cup 2026 (EWC)",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835058111020x576.jpg",
-            "group": "E Sports",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/Tap2534789Mad2026/master.m3u8"
+            "id": "tapmad-14753",
+            "name": "Ladies' Singles Semi-Finals & Mixed Doubles Final | Wimbledon 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835079871020x576.jpg",
+            "group": "Tennis",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
         },
         {
             "id": "tapmad-14894",
@@ -32,6 +32,27 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835057671020x576.jpg",
             "group": "E Sports",
             "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
+        },
+        {
+            "id": "tapmad-14896",
+            "name": "Dota 2 - Day 3 - Feed 3 | Esports World Cup 2026 (EWC)",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835058111020x576.jpg",
+            "group": "E Sports",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/Tap2534789Mad2026/master.m3u8"
+        },
+        {
+            "id": "tapmad-14828",
+            "name": "Valorant Day 7 | Esports World Cup 2026 (EWC)",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835060441020x576.jpg",
+            "group": "E Sports",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8"
+        },
+        {
+            "id": "tapmad-14924",
+            "name": "Cycling Day 2 - Bad Kleinkirchheim Live | LIDL Tour of Austria 75 - 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835052321020x576.jpg",
+            "group": "Racing",
+            "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         }
     ]
 }
