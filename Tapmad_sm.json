@@ -2,15 +2,29 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 3,
+    "channels_amount": 6,
     "last_update": "2026-07-10",
     "response": [
+        {
+            "id": "tapmad-14754",
+            "name": "Gentlemen's Singles Semi-Finals | Wimbledon 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835080501020x576.jpg",
+            "group": "Tennis",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
+        },
         {
             "id": "tapmad-14899",
             "name": "Dota 2 - Day 4 - Feed 3 | Esports World Cup 2026 (EWC)",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835809081020x576.jpg",
             "group": "E Sports",
             "url": "https://saseries.akamaized.net/hls/live/2110097/Tap2534789Mad2026/master.m3u8"
+        },
+        {
+            "id": "tapmad-14897",
+            "name": "Dota 2 - Day 4 - Feed 1 | Esports World Cup 2026 (EWC)",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835807981020x576.jpg",
+            "group": "E Sports",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         },
         {
             "id": "tapmad-14898",
@@ -20,11 +34,18 @@
             "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
         },
         {
-            "id": "tapmad-14897",
-            "name": "Dota 2 - Day 4 - Feed 1 | Esports World Cup 2026 (EWC)",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835807981020x576.jpg",
+            "id": "tapmad-14829",
+            "name": "Valorant Day 8 | Esports World Cup 2026 (EWC)",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835803251020x576.jpg",
             "group": "E Sports",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8"
+        },
+        {
+            "id": "tapmad-14930",
+            "name": "Cycling Day 3 - Lienz Live | LIDL Tour of Austria 75 - 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835817901020x576.jpg",
+            "group": "Racing",
+            "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         }
     ]
 }
