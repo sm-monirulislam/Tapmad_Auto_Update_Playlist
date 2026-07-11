@@ -2,29 +2,15 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 3,
+    "channels_amount": 1,
     "last_update": "2026-07-12",
     "response": [
         {
-            "id": "tapmad-14800",
-            "name": "England vs India | India Tour of England 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17835780441020x576.jpg",
+            "id": "tapmad-15065",
+            "name": "West Indies vs New Zealand | New Zealand Tour of West Indies 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836660251020x576.jpg",
             "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-14755",
-            "name": "Ladies' Singles Final & Gentlemen's Doubles Final | Wimbledon 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836888691020x576.jpg",
-            "group": "Tennis",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
-        },
-        {
-            "id": "tapmad-14830",
-            "name": "Valorant Day 9 | Esports World Cup 2026 (EWC)",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836685761020x576.jpg",
-            "group": "E Sports",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         }
     ]
 }
