@@ -2,16 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 2,
+    "channels_amount": 1,
     "last_update": "2026-07-13",
     "response": [
-        {
-            "id": "tapmad-14756",
-            "name": "Gentlemen's Singles Final & Ladies' Doubles Final | Wimbledon 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836889241020x576.jpg",
-            "group": "Tennis",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
-        },
         {
             "id": "tapmad-13464",
             "name": "Somerset vs Worcestershire Live | Vitality Blast Men 2026",
