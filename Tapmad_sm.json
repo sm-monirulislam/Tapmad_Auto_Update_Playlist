@@ -2,9 +2,16 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 1,
+    "channels_amount": 2,
     "last_update": "2026-07-12",
     "response": [
+        {
+            "id": "tapmad-14993",
+            "name": "Japan Cup Race 2 | GT World Challenge EU & Asia 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836832411020x576.jpg",
+            "group": "Racing",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
+        },
         {
             "id": "tapmad-15017",
             "name": "Individual Race - Stage 2 - Huangyuan - Menyuan Live | Tour of Magnificent Qinghai 2026",
