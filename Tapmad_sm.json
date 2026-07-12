@@ -6,11 +6,11 @@
     "last_update": "2026-07-12",
     "response": [
         {
-            "id": "tapmad-14905",
-            "name": "Dota 2 - Day 6 - Feed 3 | Esports World Cup 2026 (EWC)",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836913431020x576.jpg",
-            "group": "E Sports",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+            "id": "tapmad-14756",
+            "name": "Gentlemen's Singles Final & Ladies' Doubles Final | Wimbledon 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836889241020x576.jpg",
+            "group": "Tennis",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
         },
         {
             "id": "tapmad-14904",
@@ -27,18 +27,18 @@
             "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         },
         {
-            "id": "tapmad-14831",
-            "name": "Valorant Day 10 | Esports World Cup 2026 (EWC)",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836895121020x576.jpg",
-            "group": "E Sports",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        },
-        {
             "id": "tapmad-14942",
             "name": "Cycling Day 5 - Langenlois Live | LIDL Tour of Austria 75 - 2026",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836919411020x576.jpg",
             "group": "Racing",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
+        },
+        {
+            "id": "tapmad-14831",
+            "name": "Valorant Day 10 | Esports World Cup 2026 (EWC)",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836895121020x576.jpg",
+            "group": "E Sports",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         }
     ]
 }
