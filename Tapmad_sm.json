@@ -2,8 +2,8 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 4,
-    "last_update": "2026-07-12",
+    "channels_amount": 3,
+    "last_update": "2026-07-13",
     "response": [
         {
             "id": "tapmad-14756",
@@ -13,18 +13,11 @@
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
         },
         {
-            "id": "tapmad-14975",
-            "name": "Round 9 Race - Vila Real (POR) | Kumho FIA TCR World Tour Euro Series 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17838235981020.jpg",
-            "group": "Racing",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "id": "tapmad-14903",
-            "name": "Dota 2 - Day 6 - Feed 1 | Esports World Cup 2026 (EWC)",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836912571020x576.jpg",
-            "group": "E Sports",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+            "id": "tapmad-13464",
+            "name": "Somerset vs Worcestershire Live | Vitality Blast Men 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836885041020x576.jpg",
+            "group": "Cricket",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
             "id": "tapmad-14831",
