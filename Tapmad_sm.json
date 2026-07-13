@@ -2,15 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 1,
+    "channels_amount": 0,
     "last_update": "2026-07-13",
-    "response": [
-        {
-            "id": "tapmad-15023",
-            "name": "Individual Race - Stage 3 - Menyuan - Huzhu Live | Tour of Magnificent Qinghai 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17836879161020x576.jpg",
-            "group": "Racing",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        }
-    ]
+    "response": []
 }
