@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 3,
+    "channels_amount": 2,
     "last_update": "2026-07-14",
     "response": [
         {
@@ -18,13 +18,6 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17839260941020x576.jpg",
             "group": "E Sports",
             "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
-        },
-        {
-            "id": "tapmad-14907",
-            "name": "Dota 2 - Day 7 - Feed 2 | Esports World Cup 2026 (EWC)",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17839261461020x576.jpg",
-            "group": "E Sports",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         }
     ]
 }
