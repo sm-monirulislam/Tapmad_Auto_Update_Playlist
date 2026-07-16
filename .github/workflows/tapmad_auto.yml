@@ -53,6 +53,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "⚡ Tapmad Playlist & JSON Auto-updated"
+            git commit -m "🔁 Tapmad Playlist & JSON Auto-updated"
             git push origin HEAD
           fi
