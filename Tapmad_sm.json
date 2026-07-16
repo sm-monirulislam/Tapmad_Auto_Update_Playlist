@@ -3,7 +3,7 @@
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
     "channels_amount": 2,
-    "last_update": "2026-07-16",
+    "last_update": "2026-07-17",
     "response": [
         {
             "id": "tapmad-14802",
@@ -13,11 +13,11 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-15080",
-            "name": "FreeFire - Day 2 | Esports World Cup 2026 (EWC)",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841050281020x576.jpg",
-            "group": "E Sports",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
+            "id": "tapmad-15067",
+            "name": "West Indies vs New Zealand | New Zealand Tour of West Indies 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17840212771020x576.jpg",
+            "group": "Cricket",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8"
         }
     ]
 }
