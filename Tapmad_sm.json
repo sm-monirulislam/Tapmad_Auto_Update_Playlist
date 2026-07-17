@@ -6,13 +6,6 @@
     "last_update": "2026-07-17",
     "response": [
         {
-            "id": "tapmad-15094",
-            "name": "Session 1 - Q1 - Live | E1 Series 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841965001020x576.jpg",
-            "group": "Boat Racing",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
             "id": "tapmad-13469",
             "name": "Surrey Women vs The Blaze Women Live | Vitality Blast Women 2026",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17840151291020x576.jpg",
@@ -32,6 +25,13 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841069611020x576.jpg",
             "group": "E Sports",
             "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        },
+        {
+            "id": "tapmad-14911",
+            "name": "Dota 2 - Day 10 | Esports World Cup 2026 (EWC)",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841068061020x576.jpg",
+            "group": "E Sports",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
         }
     ]
 }
