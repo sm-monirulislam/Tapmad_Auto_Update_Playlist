@@ -2,7 +2,15 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 0,
+    "channels_amount": 1,
     "last_update": "2026-07-17",
-    "response": []
+    "response": [
+        {
+            "id": "tapmad-15094",
+            "name": "Session 1 - Q1 - Live | E1 Series 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841965001020x576.jpg",
+            "group": "Boat Racing",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        }
+    ]
 }
