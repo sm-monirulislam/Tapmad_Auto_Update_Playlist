@@ -6,13 +6,6 @@
     "last_update": "2026-07-17",
     "response": [
         {
-            "id": "tapmad-13469",
-            "name": "Surrey Women vs The Blaze Women Live | Vitality Blast Women 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17840151291020x576.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8"
-        },
-        {
             "id": "tapmad-14778",
             "name": "Zimbabwe vs Bangladesh | Bangladesh Tour of Zimbabwe 2026",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841054231020x576.jpg",
@@ -25,6 +18,13 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842030181020x576.jpg",
             "group": "Boat Racing",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+            "id": "tapmad-13470",
+            "name": "Hampshire Women vs Durham Women Live | Vitality Blast Women 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17840152851020x576.jpg",
+            "group": "Cricket",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8"
         },
         {
             "id": "tapmad-15081",
