@@ -2,16 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 5,
+    "channels_amount": 3,
     "last_update": "2026-07-18",
     "response": [
-        {
-            "id": "tapmad-15114",
-            "name": "Session 5 - Finals - Live | E1 Series 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842041231020x576.jpg",
-            "group": "Boat Racing",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
         {
             "id": "tapmad-13473",
             "name": "Hampshire vs Nottinghamshire Live | Vitality Blast Men 2026",
@@ -32,13 +25,6 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841080291020x576.jpg",
             "group": "E Sports",
             "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        },
-        {
-            "id": "tapmad-15082",
-            "name": "FreeFire - Day 4 | Esports World Cup 2026 (EWC)",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841081481020x576.jpg",
-            "group": "E Sports",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         }
     ]
 }
