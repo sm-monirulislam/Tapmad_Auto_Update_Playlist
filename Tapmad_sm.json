@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 2,
+    "channels_amount": 4,
     "last_update": "2026-07-18",
     "response": [
         {
@@ -18,6 +18,20 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841080291020x576.jpg",
             "group": "E Sports",
             "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        },
+        {
+            "id": "tapmad-15082",
+            "name": "FreeFire - Day 4 | Esports World Cup 2026 (EWC)",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841081481020x576.jpg",
+            "group": "E Sports",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        },
+        {
+            "id": "tapmad-15273",
+            "name": "GT2 European Race  Live | GT World Challenge EU & Asia 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842747061020x576.jpg",
+            "group": "Racing",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
         }
     ]
 }
