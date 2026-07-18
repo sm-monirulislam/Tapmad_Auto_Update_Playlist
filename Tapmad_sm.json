@@ -2,7 +2,15 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 0,
+    "channels_amount": 1,
     "last_update": "2026-07-18",
-    "response": []
+    "response": [
+        {
+            "id": "tapmad-15104",
+            "name": "Session 3 - Group Races - Live | E1 Series 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17842034151020x576.jpg",
+            "group": "Boat Racing",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        }
+    ]
 }
