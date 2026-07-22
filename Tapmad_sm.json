@@ -2,7 +2,15 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 0,
+    "channels_amount": 1,
     "last_update": "2026-07-22",
-    "response": []
+    "response": [
+        {
+            "id": "tapmad-15406",
+            "name": "Kazakhstan vs Sri Lanka | CAVA Men's Volleyball Championship 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17845541231020x576.jpg",
+            "group": "Volleyball",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        }
+    ]
 }
