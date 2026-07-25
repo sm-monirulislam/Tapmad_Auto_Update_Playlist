@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 4,
+    "channels_amount": 2,
     "last_update": "2026-07-26",
     "response": [
         {
@@ -13,25 +13,11 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-14954",
-            "name": "Ankalaev vs Guskov | UFC 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847974191020x576.jpg",
-            "group": "Mma",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
             "id": "tapmad-15188",
             "name": "Welsh Fire vs MI London | The Hundred Men's Competition 2026",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848779031020x576men.jpg",
             "group": "Cricket",
             "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        },
-        {
-            "id": "tapmad-15384",
-            "name": "EA Sports FC 26 - Day 4 | Esports World Cup 2026 (EWC)",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848783901020x576.jpg",
-            "group": "E Sports",
-            "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         }
     ]
 }
