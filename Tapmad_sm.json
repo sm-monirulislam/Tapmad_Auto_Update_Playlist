@@ -2,9 +2,23 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 1,
+    "channels_amount": 3,
     "last_update": "2026-07-25",
     "response": [
+        {
+            "id": "tapmad-15221",
+            "name": "Sunrisers Leeds vs Southern Brave - Women | The Hundred Women's Competition 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848753681020x576women.jpg",
+            "group": "Cricket",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        },
+        {
+            "id": "tapmad-15344",
+            "name": "Women's Semi Final A Session - World Championships Kaunas, Lithuania Live | UIPM 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847994121020x576.jpg",
+            "group": "Multisports",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
+        },
         {
             "id": "tapmad-15472",
             "name": "Sri Lanka Women vs Pakistan Women | Pakistan Women Tour of Sri Lanka 2026",
