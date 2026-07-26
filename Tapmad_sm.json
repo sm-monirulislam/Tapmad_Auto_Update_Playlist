@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 1,
+    "channels_amount": 2,
     "last_update": "2026-07-26",
     "response": [
         {
@@ -11,6 +11,13 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849888241020x576.jpg",
             "group": "Racing",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+            "id": "tapmad-15464",
+            "name": "Jean vs Musaev | PFL 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848793661020x576.jpg",
+            "group": "Mma",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BK-TesT/master.m3u8"
         }
     ]
 }
