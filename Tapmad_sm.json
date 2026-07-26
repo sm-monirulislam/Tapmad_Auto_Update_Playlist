@@ -3,7 +3,7 @@
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
     "channels_amount": 3,
-    "last_update": "2026-07-26",
+    "last_update": "2026-07-27",
     "response": [
         {
             "id": "tapmad-15335",
@@ -13,9 +13,9 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-15189",
-            "name": "Manchester Super Giants vs Birmingham Pheonix | The Hundred Men's Competition 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848901421020x576men.jpg",
+            "id": "tapmad-15190",
+            "name": "Trent Rockets vs London Spirit | The Hundred Men's Competition 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848910051020x576men.jpg",
             "group": "Cricket",
             "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
