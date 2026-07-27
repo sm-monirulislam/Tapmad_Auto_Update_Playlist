@@ -2,9 +2,16 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 1,
+    "channels_amount": 2,
     "last_update": "2026-07-27",
     "response": [
+        {
+            "id": "tapmad-15374",
+            "name": "Men's Final Session - World Championships Kaunas, Lithuania Live | UIPM 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851383621020x576.jpg",
+            "group": "Multisports",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
         {
             "id": "tapmad-15420",
             "name": "Pakistan vs Kazakhstan | CAVA Men's Volleyball Championship 2026",
