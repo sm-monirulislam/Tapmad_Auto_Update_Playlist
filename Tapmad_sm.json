@@ -6,13 +6,6 @@
     "last_update": "2026-08-01",
     "response": [
         {
-            "id": "tapmad-15481",
-            "name": "Sri Lankan lions vs Bangladesh Tigers | Asian Legends League 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854900531020x576.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
             "id": "tapmad-15197",
             "name": "Birmingham Pheonix vs Welsh Fire | The Hundred Men's Competition 2026",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854833191020x576men.jpg",
@@ -25,6 +18,13 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854835001020x576women.jpg",
             "group": "Cricket",
             "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        },
+        {
+            "id": "tapmad-15640",
+            "name": "France - Champion, MitJet and Tourism Live | GT World Challenge EU & Asia 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17855006591020x576.jpg",
+            "group": "Racing",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         }
     ]
 }
