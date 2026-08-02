@@ -2,16 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 3,
-    "last_update": "2026-08-02",
+    "channels_amount": 2,
+    "last_update": "2026-08-03",
     "response": [
-        {
-            "id": "tapmad-15199",
-            "name": "Trent Rockets vs Sunrisers Leeds | The Hundred Men's Competition 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856017491020x576men.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
         {
             "id": "tapmad-15336",
             "name": "West indies vs Pakistan | Pakistan Tour of West Indies 2026",
@@ -20,11 +13,11 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-15676",
-            "name": "France - MitJet and Tourism Live | GT World Challenge EU & Asia 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856085101020x576.jpg",
-            "group": "Racing",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            "id": "tapmad-15200",
+            "name": "MI London vs Manchester Super Giants | The Hundred Men's Competition 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856021921020x576men.jpg",
+            "group": "Cricket",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
 }
