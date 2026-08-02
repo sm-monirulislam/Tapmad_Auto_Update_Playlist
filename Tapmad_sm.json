@@ -2,16 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 2,
+    "channels_amount": 1,
     "last_update": "2026-08-02",
     "response": [
-        {
-            "id": "tapmad-15475",
-            "name": "Sri Lanka Women vs Pakistan Women | Pakistan Women Tour of Sri Lanka 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853991961020x576.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
-        },
         {
             "id": "tapmad-15652",
             "name": "France - Champion, MitJet and Tourism Live | GT World Challenge EU & Asia 2026",
