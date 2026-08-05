@@ -2,9 +2,11 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-08-05 17:00:19 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-08-05 18:00:26 (BD Time)
+#  Channels Count: 2
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-15237" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17859079721020x576women.jpg" group-title="Cricket", Manchester Super Giants vs Welsh Fire - Women | The Hundred Women's Competition 2026
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15700" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857453641020x576.jpg" group-title="E Sports", Tekken 8 - Day 1 | Esports World Cup 2026 (EWC)
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
