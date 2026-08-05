@@ -2,16 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 3,
+    "channels_amount": 2,
     "last_update": "2026-08-06",
     "response": [
-        {
-            "id": "tapmad-15336",
-            "name": "West indies vs Pakistan | Pakistan Tour of West Indies 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853997271020x576.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
-        },
         {
             "id": "tapmad-15204",
             "name": "Trent Rockets vs Birmingham Pheonix | The Hundred Men's Competition 2026",
