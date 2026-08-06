@@ -2,29 +2,15 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 3,
-    "last_update": "2026-08-06",
+    "channels_amount": 1,
+    "last_update": "2026-08-07",
     "response": [
         {
-            "id": "tapmad-15239",
-            "name": "London Spirits vs MI London - Women | The Hundred Women's Competition 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17859163661020x576women.jpg",
+            "id": "tapmad-15205",
+            "name": "London Spirits vs MI London | The Hundred Men's Competition 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17859166311020x576men.jpg",
             "group": "Cricket",
             "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-15713",
-            "name": "PUBG Mobile - Day 1 | Esports World Cup 2026 (EWC)",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857609431020x576.jpg",
-            "group": "E Sports",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
-        {
-            "id": "tapmad-15701",
-            "name": "Tekken 8 - Day 2 | Esports World Cup 2026 (EWC)",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857606101020x576.jpg",
-            "group": "E Sports",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
         }
     ]
 }
