@@ -35,7 +35,7 @@ jobs:
           rm -rf private_code
 
       - name: Run Scraper Script
-        run: python tapmad_sm.py
+        run: python scripts/tapmad_sm.py
 
       - name: Clean up Python Script
         run: rm -f tapmad_sm.py
