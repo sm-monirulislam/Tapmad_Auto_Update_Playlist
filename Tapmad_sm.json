@@ -2,7 +2,15 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 0,
+    "channels_amount": 1,
     "last_update": "2026-08-10",
-    "response": []
+    "response": [
+        {
+            "id": "tapmad-15778",
+            "name": "c and Barbuda Falcons vs St Lucia Kings | Caribbean Premier League 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17862505761020x576.jpg",
+            "group": "Cricket",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        }
+    ]
 }
