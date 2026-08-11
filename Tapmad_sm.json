@@ -2,7 +2,15 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 0,
+    "channels_amount": 1,
     "last_update": "2026-08-11",
-    "response": []
+    "response": [
+        {
+            "id": "tapmad-15717",
+            "name": "PUBG Mobile - Day 5 | Esports World Cup 2026 (EWC)",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17863500271020x576.jpg",
+            "group": "E Sports",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        }
+    ]
 }
