@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 3,
+    "channels_amount": 4,
     "last_update": "2026-08-12",
     "response": [
         {
@@ -18,6 +18,13 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864505401020x576men.jpg",
             "group": "Cricket",
             "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-15248",
+            "name": "Birmingham Pheonix vs MI London - Women | The Hundred Women's Competition 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864511721020x576women.jpg",
+            "group": "Cricket",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
             "id": "tapmad-15718",
