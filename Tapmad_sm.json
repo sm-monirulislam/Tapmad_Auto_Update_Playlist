@@ -2,22 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 2,
+    "channels_amount": 0,
     "last_update": "2026-08-14",
-    "response": [
-        {
-            "id": "tapmad-15965",
-            "name": "Al-Shabab vs Al Qadsiah | Saudi Pro League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17866168841020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-15966",
-            "name": "Diriyah vs Al-Ahli | Saudi Pro League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17866169701020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        }
-    ]
+    "response": []
 }
