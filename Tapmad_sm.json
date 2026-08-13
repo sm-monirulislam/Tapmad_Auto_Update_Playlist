@@ -2,15 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 1,
-    "last_update": "2026-08-13",
-    "response": [
-        {
-            "id": "tapmad-15961",
-            "name": "Preview Show Live | FA Community Shield 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865301471020x576.jpg",
-            "group": "Football",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-        }
-    ]
+    "channels_amount": 0,
+    "last_update": "2026-08-14",
+    "response": []
 }
