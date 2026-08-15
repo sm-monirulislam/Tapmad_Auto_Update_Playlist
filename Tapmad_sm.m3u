@@ -10,3 +10,14 @@
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15925" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg" group-title="Cricket", Sri Lanka vs India | India Tour of Sri Lanka 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTM3U
+#=================================
+# Developed by: Monirul Islam
+# Telegram group : https://t.me/sm_iptv_bd
+# Last Updated: 09:02:46 AM 15-08-2026 (BD Time)
+# Live Match : 2
+#=================================
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Tennis",World Feed
+https://fancode-bd.sm-monirul.top/4248110/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248288_53026_SLK_ABF_FC-Web.png" group-title="Cricket",Antigua & Barbuda Falcons vs Saint Lucia Kings
+https://fancode-bd.sm-monirul.top/4248288/index.m3u8
