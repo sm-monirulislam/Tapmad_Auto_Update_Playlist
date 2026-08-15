@@ -2,9 +2,11 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-08-15 06:01:00 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-08-15 07:00:58 (BD Time)
+#  Channels Count: 2
 #=================================
 
+#EXTINF:-1 tvg-id="tapmad-15958" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="Cricket", Australia vs Bangladesh | Bangladesh Tour of Australia 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15782" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867325191020x576.jpg" group-title="Cricket", St Lucia Kings vs Antigua and Barbuda Falcons | Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
