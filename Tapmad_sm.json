@@ -2,23 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 4,
+    "channels_amount": 2,
     "last_update": "2026-08-16",
     "response": [
-        {
-            "id": "tapmad-15250",
-            "name": "Trent Rockets vs Sunrisers Leeds - Women | The Hundred Women's Competition 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867594911020x576women.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-15963",
-            "name": "Arsenal vs Manchester City Live | FA Community Shield 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868388721020x576.jpg",
-            "group": "Football",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
-        },
         {
             "id": "tapmad-15957",
             "name": "Game Changer Lions vs Aussie Mavericks Jaguars | World Padel League 2026",
@@ -27,11 +13,11 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-15721",
-            "name": "PUBG Mobile - Day 9 | Esports World Cup 2026 (EWC)",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868384181020x576.jpg",
-            "group": "E Sports",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+            "id": "tapmad-15216",
+            "name": "Trent Rockets vs Manchester Super Giants | The Hundred Men's Competition 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867599901020x576men.jpg",
+            "group": "Cricket",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
 }
