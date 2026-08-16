@@ -6,13 +6,6 @@
     "last_update": "2026-08-16",
     "response": [
         {
-            "id": "tapmad-15956",
-            "name": "Aussie Mavericks Jaguars vs VB Realty Cheetahs | World Padel League 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868707321020x576.jpg",
-            "group": "Padel",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
             "id": "tapmad-15250",
             "name": "Trent Rockets vs Sunrisers Leeds - Women | The Hundred Women's Competition 2026",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867594911020x576women.jpg",
@@ -25,6 +18,13 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868388721020x576.jpg",
             "group": "Football",
             "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-15957",
+            "name": "Game Changer Lions vs Aussie Mavericks Jaguars | World Padel League 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868901271020x576.jpg",
+            "group": "Padel",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         },
         {
             "id": "tapmad-15721",
