@@ -13,11 +13,11 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-16123",
-            "name": "Group Stage Draw Live | AFC Champions League Two 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17869638001020x576.jpg",
-            "group": "Football",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+            "id": "tapmad-16140",
+            "name": "New Zealand vs Japan | FIH Hockey World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17869748101020x576.jpg",
+            "group": "Hockey",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         }
     ]
 }
