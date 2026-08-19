@@ -13,11 +13,11 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-16150",
-            "name": "England vs Wales | FIH Hockey World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870499701020x576MEN.jpg",
+            "id": "tapmad-16151",
+            "name": "United States vs Germany - W | FIH Hockey World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871313501020x576WOMEN.jpg",
             "group": "Hockey",
-            "url": "https://wcemeabackup.akamaized.net/hls/live/2103768/ucl-3tap293/master.m3u8"
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         }
     ]
 }
