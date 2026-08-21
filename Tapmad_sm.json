@@ -2,20 +2,27 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 2,
+    "channels_amount": 3,
     "last_update": "2026-08-21",
     "response": [
         {
-            "id": "tapmad-15933",
-            "name": "England vs Pakistan | Pakistan Tour of England 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865273991020x576.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+            "id": "tapmad-16169",
+            "name": "Germany vs Spain | FIH Hockey World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872940921020x576MEN.jpg",
+            "group": "Hockey",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
-            "id": "tapmad-16168",
-            "name": "China vs Australia - W | FIH Hockey World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873097391020x576WOMEN.jpg",
+            "id": "tapmad-15974",
+            "name": "Al-Riyadh vs Al-Nassr | Saudi Pro League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872290901020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16170",
+            "name": "Netherlands vs India - W | FIH Hockey World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873098451020x576WOMEN.jpg",
             "group": "Hockey",
             "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         }
