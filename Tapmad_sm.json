@@ -3,22 +3,8 @@
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
     "channels_amount": 4,
-    "last_update": "2026-08-22",
+    "last_update": "2026-08-23",
     "response": [
-        {
-            "id": "tapmad-16098",
-            "name": "Athletic vs Sevilla | Laliga 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873104241020x576.jpg",
-            "group": "Football",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16177",
-            "name": "Germany vs Belgium - W | FIH Hockey World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873443111020x576WOMEN.jpg",
-            "group": "Hockey",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
         {
             "id": "tapmad-15978",
             "name": "Al Fateh vs Al-Ettifaq | Saudi Pro League 2026/27",
@@ -32,6 +18,20 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874125691020x576MEN.jpg",
             "group": "Hockey",
             "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16099",
+            "name": "Valencia vs Celta | Laliga 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873105091020x576.jpg",
+            "group": "Football",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-15980",
+            "name": "Al-Ahli vs Abha | Saudi Pro League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874160741020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
 }
