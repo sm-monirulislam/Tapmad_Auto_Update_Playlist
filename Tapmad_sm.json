@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 1,
+    "channels_amount": 3,
     "last_update": "2026-08-22",
     "response": [
         {
@@ -11,6 +11,20 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873436421020x576WOMEN.jpg",
             "group": "Hockey",
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16237",
+            "name": "Euro Kabaddi Mens and Womens | Euro Beach Kabaddi Championship 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872966291020x576.jpg",
+            "group": "Kabaddi",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+            "id": "tapmad-16174",
+            "name": "Pakistan vs Japan | FIH Hockey World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873429811020x576MEN.jpg",
+            "group": "Hockey",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
         }
     ]
 }
