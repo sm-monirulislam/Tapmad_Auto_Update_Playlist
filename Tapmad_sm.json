@@ -6,18 +6,18 @@
     "last_update": "2026-08-22",
     "response": [
         {
-            "id": "tapmad-15959",
-            "name": "Australia vs Bangladesh | Bangladesh Tour of Australia 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870481021020x576.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+            "id": "tapmad-16172",
+            "name": "New Zealand vs Wales | FIH Hockey World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873425781020x576MEN.jpg",
+            "group": "Hockey",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-15918",
-            "name": "Watch Free - Australia vs Bangladesh | Bangladesh Tour of Australia 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873567261020x576.jpg",
-            "group": "Cricket",
-            "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/ucl-5tap347/master.m3u8"
+            "id": "tapmad-16234",
+            "name": "Poland vs Hungary | Euro Beach Kabaddi Championship 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872965611020x576.jpg",
+            "group": "Kabaddi",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         }
     ]
 }
