@@ -6,13 +6,6 @@
     "last_update": "2026-08-22",
     "response": [
         {
-            "id": "tapmad-16173",
-            "name": "Ireland vs Scotland - W | FIH Hockey World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873436421020x576WOMEN.jpg",
-            "group": "Hockey",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
             "id": "tapmad-16237",
             "name": "Euro Kabaddi Mens and Womens | Euro Beach Kabaddi Championship 2026",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872966291020x576.jpg",
@@ -25,6 +18,13 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873429811020x576MEN.jpg",
             "group": "Hockey",
             "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16175",
+            "name": "USA vs New Zealand - W | FIH Hockey World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873440931020x576WOMEN.jpg",
+            "group": "Hockey",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         }
     ]
 }
