@@ -2,23 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 4,
+    "channels_amount": 2,
     "last_update": "2026-08-23",
     "response": [
-        {
-            "id": "tapmad-16099",
-            "name": "Valencia vs Celta | Laliga 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873105091020x576.jpg",
-            "group": "Football",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-15980",
-            "name": "Al-Ahli vs Abha | Saudi Pro League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874160741020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
         {
             "id": "tapmad-16179",
             "name": "Argentina vs Spain - W | FIH Hockey World Cup 2026",
