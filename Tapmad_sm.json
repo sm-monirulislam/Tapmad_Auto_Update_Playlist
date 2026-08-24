@@ -3,15 +3,8 @@
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
     "channels_amount": 4,
-    "last_update": "2026-08-24",
+    "last_update": "2026-08-25",
     "response": [
-        {
-            "id": "tapmad-16193",
-            "name": "Spain vs Germany - W | FIH Hockey World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875568081020x576WOMEN.jpg",
-            "group": "Hockey",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
         {
             "id": "tapmad-16286",
             "name": "Men's & Women's Singles Qualifying | US Open 2026",
@@ -31,7 +24,14 @@
             "name": "Neom vs Al Qadsiah | Saudi Pro League 2026/27",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875581851020x576.jpg",
             "group": "Football",
-            "url": "https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8"
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16104",
+            "name": "Osasuna vs Levante | Laliga 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875577421020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         }
     ]
 }
