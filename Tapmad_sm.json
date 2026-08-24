@@ -6,18 +6,18 @@
     "last_update": "2026-08-24",
     "response": [
         {
-            "id": "tapmad-16192",
-            "name": "Argentina vs India | FIH Hockey World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875538911020x576MEN.jpg",
-            "group": "Hockey",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
-        },
-        {
             "id": "tapmad-16193",
             "name": "Spain vs Germany - W | FIH Hockey World Cup 2026",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875568081020x576WOMEN.jpg",
             "group": "Hockey",
             "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "id": "tapmad-16286",
+            "name": "Men's & Women's Singles Qualifying | US Open 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873140601020x576.jpg",
+            "group": "Tennis",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         }
     ]
 }
