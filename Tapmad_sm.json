@@ -6,18 +6,18 @@
     "last_update": "2026-08-24",
     "response": [
         {
-            "id": "tapmad-16191",
-            "name": "Ireland vs USA - W | FIH Hockey World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875567391020x576WOMEN.jpg",
-            "group": "Hockey",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
-        },
-        {
             "id": "tapmad-16192",
             "name": "Argentina vs India | FIH Hockey World Cup 2026",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875538911020x576MEN.jpg",
             "group": "Hockey",
             "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16193",
+            "name": "Spain vs Germany - W | FIH Hockey World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875568081020x576WOMEN.jpg",
+            "group": "Hockey",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
 }
