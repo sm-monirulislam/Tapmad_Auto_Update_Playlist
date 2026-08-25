@@ -2,7 +2,15 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 0,
+    "channels_amount": 1,
     "last_update": "2026-08-25",
-    "response": []
+    "response": [
+        {
+            "id": "tapmad-16287",
+            "name": "Men's & Women's Singles Qualifying | US Open 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875731721020x576.jpg",
+            "group": "Tennis",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+        }
+    ]
 }
