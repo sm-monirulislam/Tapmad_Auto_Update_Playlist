@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 5,
+    "channels_amount": 4,
     "last_update": "2026-08-26",
     "response": [
         {
@@ -11,13 +11,6 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875731721020x576.jpg",
             "group": "Tennis",
             "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-        },
-        {
-            "id": "tapmad-15986",
-            "name": "Al-Ettifaq vs Al-Nassr | Saudi Pro League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876394061020x576.jpg",
-            "group": "Football",
-            "url": "https://tapmad-live.cdn.vustreams.com/live/6efd72d6-21db-4cf1-aa76-5b1252422d05/live.isml/.m3u8"
         },
         {
             "id": "tapmad-16088",
