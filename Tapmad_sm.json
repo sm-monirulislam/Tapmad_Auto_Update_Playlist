@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 6,
+    "channels_amount": 5,
     "last_update": "2026-08-26",
     "response": [
         {
@@ -11,13 +11,6 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875731721020x576.jpg",
             "group": "Tennis",
             "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-        },
-        {
-            "id": "tapmad-16087",
-            "name": "Sabah vs H. Beer-Sheva | UEFA Champions League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875672671020x576.jpg",
-            "group": "Football",
-            "url": "https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8"
         },
         {
             "id": "tapmad-15986",
@@ -38,7 +31,7 @@
             "name": "LASK vs Celtic | UEFA Champions League 2026/27",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875676351020x576.jpg",
             "group": "Football",
-            "url": "https://tapmad-live.cdn.vustreams.com/live/4fd42f58-615d-4df3-bf89-c76079b1150e/live.isml/.m3u8"
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
         },
         {
             "id": "tapmad-16106",
