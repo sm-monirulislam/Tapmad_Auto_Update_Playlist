@@ -2,16 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 2,
-    "last_update": "2026-08-26",
+    "channels_amount": 1,
+    "last_update": "2026-08-27",
     "response": [
-        {
-            "id": "tapmad-16688",
-            "name": "Rotterdam Dockers vs Amsterdam Flames | European T20 Premier League 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876649911020x576.jpg",
-            "group": "Cricket",
-            "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
-        },
         {
             "id": "tapmad-16288",
             "name": "Men's & Women's Singles Qualifying | US Open 2026",
