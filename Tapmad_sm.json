@@ -6,13 +6,6 @@
     "last_update": "2026-08-27",
     "response": [
         {
-            "id": "tapmad-16689",
-            "name": "Belfast Wolves vs Dublin Guardians | European T20 Premier League 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876652061020x576.jpg",
-            "group": "Cricket",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        },
-        {
             "id": "tapmad-15934",
             "name": "England vs Pakistan | Pakistan Tour of England 2026",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg",
@@ -32,6 +25,13 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878109261020x576WOMEN.jpg",
             "group": "Hockey",
             "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        },
+        {
+            "id": "tapmad-16690",
+            "name": "Edinburgh Castle Rockers vs Glasgow Cosmic | European T20 Premier League 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878145551020x576.jpg",
+            "group": "Cricket",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         }
     ]
 }
