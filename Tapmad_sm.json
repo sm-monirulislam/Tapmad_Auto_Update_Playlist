@@ -2,23 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 5,
+    "channels_amount": 4,
     "last_update": "2026-08-27",
     "response": [
-        {
-            "id": "tapmad-15926",
-            "name": "Sri Lanka vs India | India Tour of Sri Lanka 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873126201020x576.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16197",
-            "name": "Chile vs New Zealand - W | FIH Hockey World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878105971020x576WOMEN.jpg",
-            "group": "Hockey",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
         {
             "id": "tapmad-16689",
             "name": "Belfast Wolves vs Dublin Guardians | European T20 Premier League 2026",
@@ -39,6 +25,13 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878107161020x576WOMEN.jpg",
             "group": "Hockey",
             "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        },
+        {
+            "id": "tapmad-16199",
+            "name": "England vs USA - W | FIH Hockey World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878108291020x576WOMEN.jpg",
+            "group": "Hockey",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
 }
