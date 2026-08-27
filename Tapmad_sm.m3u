@@ -2,7 +2,11 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-08-28 04:00:45 (BD Time)
-#  Channels Count: 0
+#  Last Updated: 2026-08-28 05:00:41 (BD Time)
+#  Channels Count: 2
 #=================================
 
+#EXTINF:-1 tvg-id="tapmad-16291" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876425141020x576.jpg" group-title="Tennis", Stars of the Open | US Open 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15793" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878161841020x576.jpg" group-title="Cricket", St Kitts and Nevis Patriots vs Jamaica Kingsmen | Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
