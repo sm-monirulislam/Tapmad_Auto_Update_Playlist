@@ -2,9 +2,11 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-08-27 05:00:43 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-08-27 06:00:41 (BD Time)
+#  Channels Count: 2
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-15792" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876380711020x576.jpg" group-title="Cricket", Trinbago Knight Riders vs St Lucia Kings | Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16289" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876416771020x576.jpg" group-title="Tennis", Mixed Doubles Semifinals & Championship | US Open 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
