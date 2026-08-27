@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 5,
+    "channels_amount": 6,
     "last_update": "2026-08-27",
     "response": [
         {
@@ -11,13 +11,6 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg",
             "group": "Cricket",
             "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
-        },
-        {
-            "id": "tapmad-16200",
-            "name": "India vs Germany - W | FIH Hockey World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878109261020x576WOMEN.jpg",
-            "group": "Hockey",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         },
         {
             "id": "tapmad-16690",
@@ -39,6 +32,20 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876419801020x576.jpg",
             "group": "Tennis",
             "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16202",
+            "name": "Netherlands vs Belgium - W | FIH Hockey World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878111221020x576WOMEN.jpg",
+            "group": "Hockey",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        },
+        {
+            "id": "tapmad-16845",
+            "name": "League Phase Draw | UEFA Champions League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878275031020x576.jpg",
+            "group": "Football",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         }
     ]
 }
