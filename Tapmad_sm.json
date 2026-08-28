@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 4,
+    "channels_amount": 5,
     "last_update": "2026-08-28",
     "response": [
         {
@@ -13,13 +13,6 @@
             "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
         },
         {
-            "id": "tapmad-16781",
-            "name": "Maheshate vs Flowers | UFC 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878304861020x576.jpg",
-            "group": "Mma",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
             "id": "tapmad-16207",
             "name": "New Zealand vs Ireland | FIH Hockey World Cup 2026",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878181421020x576MEN.jpg",
@@ -27,11 +20,25 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-16381",
-            "name": "Latvia vs Australia Live | Socca World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878242531020x576.jpg",
+            "id": "tapmad-16208",
+            "name": "England vs Australia | FIH Hockey World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878183761020x576MEN.jpg",
+            "group": "Hockey",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16384",
+            "name": "Belgium vs Turkiye Live | Socca World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878244781020x576.jpg",
             "group": "Football",
             "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16691",
+            "name": "Amsterdam Flames vs Edinburgh Castle Rockers | European T20 Premier League 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878268761020x576.jpg",
+            "group": "Cricket",
+            "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         }
     ]
 }
