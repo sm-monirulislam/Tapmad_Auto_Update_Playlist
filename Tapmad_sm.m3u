@@ -2,12 +2,10 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-08-29 01:00:36 (BD Time)
+#  Last Updated: 2026-08-29 02:00:40 (BD Time)
 #  Channels Count: 5
 #=================================
 
-#EXTINF:-1 tvg-id="tapmad-16110" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878212411020x576.jpg" group-title="Football", Racing Santander vs Elche | Laliga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15992" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879208161020x576.jpg" group-title="Football", Al-Nassr vs Al-Taawoun | Saudi Pro League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15993" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879208831020x576.jpg" group-title="Football", Al-Khaleej vs Al-Hilal | Saudi Pro League 2026/27
@@ -16,3 +14,5 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16396" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879133661020x576.jpg" group-title="Football", Romania vs Spain Live | Socca World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16111" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879247771020x576.jpg" group-title="Football", Alaves vs Villarreal | Laliga 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
