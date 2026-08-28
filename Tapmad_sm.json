@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 2,
+    "channels_amount": 4,
     "last_update": "2026-08-28",
     "response": [
         {
@@ -13,11 +13,25 @@
             "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
         },
         {
-            "id": "tapmad-16390",
-            "name": "Kazakhstan vs Iraq Live | Socca World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878249551020x576.jpg",
+            "id": "tapmad-16209",
+            "name": "Netherlands vs Spain | FIH Hockey World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878186851020x576MEN.jpg",
+            "group": "Hockey",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16210",
+            "name": "India vs Belgium | FIH Hockey World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878189041020x576MEN.jpg",
+            "group": "Hockey",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16110",
+            "name": "Racing Santander vs Elche | Laliga 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878212411020x576.jpg",
             "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         }
     ]
 }
