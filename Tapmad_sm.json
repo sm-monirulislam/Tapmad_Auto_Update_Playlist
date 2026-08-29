@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 7,
+    "channels_amount": 5,
     "last_update": "2026-08-29",
     "response": [
         {
@@ -13,25 +13,11 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-16810",
-            "name": "Lamborghini Super Trofeo - Race 1 | GT World Challenge EU & Asia 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879529591020-23andlast.jpg",
-            "group": "Racing",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
-        },
-        {
             "id": "tapmad-16693",
             "name": "Rotterdam Dockers vs Belfast Wolves | European T20 Premier League 2026",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879083581020x576.jpg",
             "group": "Cricket",
             "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16213",
-            "name": "Netherlands vs Argentina - W | FIH Hockey World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880110461020.jpg",
-            "group": "Hockey",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
         },
         {
             "id": "tapmad-16112",
@@ -41,18 +27,18 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         },
         {
-            "id": "tapmad-16426",
-            "name": "Croatia vs Afghanistan Live | Socca World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879177311020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
             "id": "tapmad-15994",
             "name": "Al Kholood vs Al-Ahli | Saudi Pro League 2026/27",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879209561020x576.jpg",
             "group": "Football",
             "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "id": "tapmad-16113",
+            "name": "Real Sociedad vs Espanyol | Laliga 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879249411020x576.jpg",
+            "group": "Football",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
         }
     ]
 }
