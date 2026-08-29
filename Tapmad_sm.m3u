@@ -2,7 +2,7 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-08-29 17:00:36 (BD Time)
+#  Last Updated: 2026-08-29 18:00:39 (BD Time)
 #  Channels Count: 5
 #=================================
 
@@ -12,7 +12,7 @@ https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15577" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875729211020x576.jpg" group-title="Mma", Nurmagomedov vs Song | UFC 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16414" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879152081020x576.jpg" group-title="Football", Colombia vs Syria Live | Socca World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16798" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879510551020-23andlast.jpg" group-title="Racing", Mazda MX-5 Cup Benelux - Race 1 | GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-id="tapmad-16212" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/1788002838102023last.jpg" group-title="Hockey", Belgium vs Australia - W | FIH Hockey World Cup 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16804" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879521231020-23andlast.jpg" group-title="Racing", GT3 Revival Series - Race 1 | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
