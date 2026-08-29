@@ -2,13 +2,13 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-08-30 01:00:37 (BD Time)
+#  Last Updated: 2026-08-30 02:00:35 (BD Time)
 #  Channels Count: 3
 #=================================
 
-#EXTINF:-1 tvg-id="tapmad-16113" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879249411020x576.jpg" group-title="Football", Real Sociedad vs Espanyol | Laliga 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15996" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879210911020x576.jpg" group-title="Football", Al Fateh vs Al-Ittihad | Saudi Pro League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16432" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879182641020x576.jpg" group-title="Football", Poland vs Kosovo Live | Socca World Cup 2026
+#EXTINF:-1 tvg-id="tapmad-16435" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880119431020x576.jpg" group-title="Football", Albania vs Uruguay Live | Socca World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16114" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879250281020x576.jpg" group-title="Football", Sevilla vs Athletico Madrid | Laliga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
