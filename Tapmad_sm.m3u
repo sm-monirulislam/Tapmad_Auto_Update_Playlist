@@ -2,17 +2,13 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-08-30 00:00:38 (BD Time)
-#  Channels Count: 5
+#  Last Updated: 2026-08-30 01:00:37 (BD Time)
+#  Channels Count: 3
 #=================================
 
-#EXTINF:-1 tvg-id="tapmad-15934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg" group-title="Cricket", England vs Pakistan | Pakistan Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15994" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879209561020x576.jpg" group-title="Football", Al Kholood vs Al-Ahli | Saudi Pro League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16113" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879249411020x576.jpg" group-title="Football", Real Sociedad vs Espanyol | Laliga 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16429" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879180341020x576.jpg" group-title="Football", Bulgaria vs India Live | Socca World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15996" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879210911020x576.jpg" group-title="Football", Al Fateh vs Al-Ittihad | Saudi Pro League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16432" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879182641020x576.jpg" group-title="Football", Poland vs Kosovo Live | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
