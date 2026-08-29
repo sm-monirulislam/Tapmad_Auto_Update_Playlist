@@ -2,15 +2,29 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 1,
+    "channels_amount": 3,
     "last_update": "2026-08-29",
     "response": [
         {
-            "id": "tapmad-16405",
-            "name": "Denmark vs Slovenia Live | Socca World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879141531020x576.jpg",
+            "id": "tapmad-16408",
+            "name": "Hungary vs Nigeria Live | Socca World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879144241020x576.jpg",
             "group": "Football",
             "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16348",
+            "name": "Women's Semi Final B Session - Guiyang, China Live | UIPM 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879033361020x576.jpg",
+            "group": "Multisports",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+            "id": "tapmad-16792",
+            "name": "GT World Challenge powered by AWS - Practice | GT World Challenge EU & Asia 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879496901020-23andlast.jpg",
+            "group": "Racing",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
         }
     ]
 }
