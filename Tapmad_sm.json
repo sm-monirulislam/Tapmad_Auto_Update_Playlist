@@ -2,43 +2,36 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 5,
-    "last_update": "2026-08-30",
+    "channels_amount": 4,
+    "last_update": "2026-08-31",
     "response": [
-        {
-            "id": "tapmad-15934",
-            "name": "England vs Pakistan | Pakistan Tour of England 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16840",
-            "name": "GT World Challenge powered by AWS - Race | GT World Challenge EU & Asia 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880152261020-23andlast.jpg",
-            "group": "Racing",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
-        },
-        {
-            "id": "tapmad-16215",
-            "name": "Spain vs Germany | FIH Hockey World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880226891020x576MEN.jpg",
-            "group": "Hockey",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-16115",
-            "name": "Real Madrid vs Malaga | Laliga 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879270271020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
         {
             "id": "tapmad-16292",
             "name": "Men's & Women's Singles 1st Round | US Open 2026",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880183251020x576.jpg",
             "group": "Tennis",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
+        },
+        {
+            "id": "tapmad-16465",
+            "name": "Uzbekistan vs Spain Live | Socca World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880221581020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16116",
+            "name": "Deportivo vs Valencia | Laliga 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879271561020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        },
+        {
+            "id": "tapmad-15998",
+            "name": "Al Qadsiah vs Al-Faisaly | Saudi Pro League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879212251020x576.jpg",
+            "group": "Football",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
         }
     ]
 }
