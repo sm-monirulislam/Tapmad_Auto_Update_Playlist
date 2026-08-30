@@ -2,15 +2,11 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-08-30 17:00:37 (BD Time)
-#  Channels Count: 4
+#  Last Updated: 2026-08-30 18:00:38 (BD Time)
+#  Channels Count: 2
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-15934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg" group-title="Cricket", England vs Pakistan | Pakistan Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16360" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879077941020x576.jpg" group-title="Multisports", Women's Final Session - Guiyang, China Live | UIPM 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16694" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879085931020x576.jpg" group-title="Cricket", Amsterdam Flames vs Belfast Wolves | European T20 Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16450" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880137071020x576.jpg" group-title="Football", Libya vs Latvia Live | Socca World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
