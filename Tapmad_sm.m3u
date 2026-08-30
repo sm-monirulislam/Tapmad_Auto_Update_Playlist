@@ -2,17 +2,19 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-08-30 20:00:39 (BD Time)
-#  Channels Count: 5
+#  Last Updated: 2026-08-30 21:00:41 (BD Time)
+#  Channels Count: 6
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-15934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg" group-title="Cricket", England vs Pakistan | Pakistan Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16214" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880225791020x576MEN.jpg" group-title="Hockey", Netherlands vs Argentina | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16456" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880142361020x576.jpg" group-title="Football", Pakistan vs Ukraine Live | Socca World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16840" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880152261020-23andlast.jpg" group-title="Racing", GT World Challenge powered by AWS - Race | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16695" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879089601020x576.jpg" group-title="Cricket", Edinburgh Castle Rockers vs Dublin Guardians | European T20 Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16215" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880226891020x576MEN.jpg" group-title="Hockey", Spain vs Germany | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16115" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879270271020x576.jpg" group-title="Football", Real Madrid vs Malaga | Laliga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16462" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880147801020x576.jpg" group-title="Football", Lebanon vs Georgia Live | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
