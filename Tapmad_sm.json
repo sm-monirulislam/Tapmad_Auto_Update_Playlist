@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 4,
+    "channels_amount": 3,
     "last_update": "2026-08-31",
     "response": [
         {
@@ -13,25 +13,18 @@
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
         },
         {
-            "id": "tapmad-15998",
-            "name": "Al Qadsiah vs Al-Faisaly | Saudi Pro League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879212251020x576.jpg",
-            "group": "Football",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16471",
-            "name": "Czechia vs Germany Live | Socca World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880157671020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
             "id": "tapmad-16117",
             "name": "Celta vs Athletic | Laliga 2026/27",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879272721020x576.jpg",
             "group": "Football",
             "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        },
+        {
+            "id": "tapmad-16474",
+            "name": "Brazil vs Luxembourg Live | Socca World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880159601020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         }
     ]
 }
