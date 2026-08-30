@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 6,
+    "channels_amount": 7,
     "last_update": "2026-08-30",
     "response": [
         {
@@ -39,6 +39,13 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879270271020x576.jpg",
             "group": "Football",
             "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        },
+        {
+            "id": "tapmad-16292",
+            "name": "Men's & Women's Singles 1st Round | US Open 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880183251020x576.jpg",
+            "group": "Tennis",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
         },
         {
             "id": "tapmad-16462",
