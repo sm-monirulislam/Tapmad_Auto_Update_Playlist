@@ -2,9 +2,11 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-08-31 21:00:44 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-08-31 22:00:40 (BD Time)
+#  Channels Count: 2
 #=================================
 
-#EXTINF:-1 tvg-id="tapmad-16495" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881564461020x576.jpg" group-title="Football", Kosovo vs Chile Live | Socca World Cup 2026
+#EXTINF:-1 tvg-id="tapmad-5693" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881642271020x576.jpg" group-title="Tennis", Men's & Women's Singles 1st Round | US Open 2026
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16498" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881566501020x576.jpg" group-title="Football", Syria vs Ireland Live | Socca World Cup 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
