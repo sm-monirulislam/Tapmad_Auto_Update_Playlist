@@ -2,13 +2,13 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 2,
+    "channels_amount": 3,
     "last_update": "2026-09-01",
     "response": [
         {
-            "id": "tapmad-16525",
-            "name": "France vs Latvia Live | Socca World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882425981020x576.jpg",
+            "id": "tapmad-16528",
+            "name": "Argentina vs Czechia Live | Socca World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882428321020x576.jpg",
             "group": "Football",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
@@ -18,6 +18,13 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881712711020x576.jpg",
             "group": "Cricket",
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16531",
+            "name": "Kazakhstan vs Belgium Live | Socca World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882438151020x576.jpg",
+            "group": "Football",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         }
     ]
 }
