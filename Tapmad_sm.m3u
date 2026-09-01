@@ -2,9 +2,11 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-09-01 15:00:41 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-09-01 16:00:42 (BD Time)
+#  Channels Count: 2
 #=================================
 
-#EXTINF:-1 tvg-id="tapmad-16516" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882400471020x576.jpg" group-title="Football", Romania vs Uzbekistan Live | Socca World Cup 2026
+#EXTINF:-1 tvg-id="tapmad-16519" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882407341020x576.jpg" group-title="Football", Serbia vs Luxembourg Live | Socca World Cup 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16522" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882422331020x576.jpg" group-title="Football", Pakistan vs Lebanon Live | Socca World Cup 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
