@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 2,
+    "channels_amount": 3,
     "last_update": "2026-09-02",
     "response": [
         {
@@ -13,9 +13,16 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-16567",
-            "name": "Croatia vs Italy Live | Socca World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883431921020x576.jpg",
+            "id": "tapmad-16298",
+            "name": "Men's & Women's Singles 2nd Round | US Open 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882465431020x576.jpg",
+            "group": "Tennis",
+            "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+        },
+        {
+            "id": "tapmad-16570",
+            "name": "Greece vs Syria Live | Socca World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883288021020x576.jpg",
             "group": "Football",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         }
