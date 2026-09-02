@@ -6,18 +6,18 @@
     "last_update": "2026-09-02",
     "response": [
         {
-            "id": "tapmad-16564",
-            "name": "China vs Denmark Live | Socca World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883283811020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
             "id": "tapmad-16698",
             "name": "Belfast Wolves vs Edinburgh Castle Rockers | European T20 Premier League 2026",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882502261020x576.jpg",
             "group": "Cricket",
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16567",
+            "name": "Croatia vs Italy Live | Socca World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883431921020x576.jpg",
+            "group": "Football",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         }
     ]
 }
