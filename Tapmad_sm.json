@@ -2,16 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 2,
+    "channels_amount": 1,
     "last_update": "2026-09-03",
     "response": [
-        {
-            "id": "tapmad-15799",
-            "name": "Trinbago Knight Riders vs Antigua and Barbuda Falcons | Caribbean Premier League 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882574311020x576.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
         {
             "id": "tapmad-16299",
             "name": "Men's & Women's Singles 2nd Round | US Open 2026",
