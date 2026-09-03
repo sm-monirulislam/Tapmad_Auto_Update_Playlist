@@ -2,9 +2,13 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-09-03 18:01:00 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-09-03 19:01:25 (BD Time)
+#  Channels Count: 3
 #=================================
 
-#EXTINF:-1 tvg-id="tapmad-16586" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884164721020x576.jpg" group-title="Football", Oman vs Peru Live | Socca World Cup 2026
+#EXTINF:-1 tvg-id="tapmad-16909" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884236661020x576.jpg" group-title="Multisports", 400m OCR - Beijing, China Live | UIPM 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16589" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884167241020x576.jpg" group-title="Football", Morocco vs Australia Live | Socca World Cup 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16699" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882641981020x576.jpg" group-title="Cricket", Amsterdam Flames vs Glasgow Cosmic | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
