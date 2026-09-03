@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 3,
+    "channels_amount": 1,
     "last_update": "2026-09-04",
     "response": [
         {
@@ -11,20 +11,6 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882634231020x576.jpg",
             "group": "Tennis",
             "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-        },
-        {
-            "id": "tapmad-16937",
-            "name": "Real Sociedad vs Celta | LaLiga 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882511501020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16607",
-            "name": "Georgia vs Syria Live | Socca World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884223341020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
 }
