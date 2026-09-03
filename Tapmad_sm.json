@@ -2,7 +2,15 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 0,
+    "channels_amount": 1,
     "last_update": "2026-09-03",
-    "response": []
+    "response": [
+        {
+            "id": "tapmad-16586",
+            "name": "Oman vs Peru Live | Socca World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884164721020x576.jpg",
+            "group": "Football",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        }
+    ]
 }
