@@ -2,29 +2,22 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 3,
+    "channels_amount": 2,
     "last_update": "2026-09-03",
     "response": [
-        {
-            "id": "tapmad-16909",
-            "name": "400m OCR - Beijing, China Live | UIPM 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884236661020x576.jpg",
-            "group": "Multisports",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "id": "tapmad-16589",
-            "name": "Morocco vs Australia Live | Socca World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884167241020x576.jpg",
-            "group": "Football",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
         {
             "id": "tapmad-16699",
             "name": "Amsterdam Flames vs Glasgow Cosmic | European T20 Premier League 2026",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882641981020x576.jpg",
             "group": "Cricket",
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16592",
+            "name": "Bulgaria vs Albania Live | Socca World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884171571020x576.jpg",
+            "group": "Football",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         }
     ]
 }
