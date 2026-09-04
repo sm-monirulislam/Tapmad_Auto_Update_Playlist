@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 2,
+    "channels_amount": 3,
     "last_update": "2026-09-04",
     "response": [
         {
@@ -13,9 +13,16 @@
             "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
         },
         {
-            "id": "tapmad-16616",
-            "name": "Greece vs Oman Live | Socca World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885121001020x576.jpg",
+            "id": "tapmad-16302",
+            "name": "Men's & Women's Singles 3rd Round | US Open 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884404471020x576.jpg",
+            "group": "Tennis",
+            "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+        },
+        {
+            "id": "tapmad-16619",
+            "name": "France vs Romania Live | Socca World Cup 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885123381020x576.jpg",
             "group": "Football",
             "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
