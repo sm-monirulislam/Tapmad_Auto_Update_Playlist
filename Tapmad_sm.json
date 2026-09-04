@@ -2,15 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 1,
+    "channels_amount": 0,
     "last_update": "2026-09-04",
-    "response": [
-        {
-            "id": "tapmad-16610",
-            "name": "Spain vs Croatia Live | Socca World Cup 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885064211020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        }
-    ]
+    "response": []
 }
