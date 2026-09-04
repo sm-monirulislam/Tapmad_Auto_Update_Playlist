@@ -2,7 +2,11 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-09-04 19:01:06 (BD Time)
-#  Channels Count: 0
+#  Last Updated: 2026-09-04 20:01:04 (BD Time)
+#  Channels Count: 2
 #=================================
 
+#EXTINF:-1 tvg-id="tapmad-16700" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883534141020x576.jpg" group-title="Cricket", Glasgow Cosmic vs Belfast Wolves | European T20 Premier League 2026
+https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-16613" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885118581020x576.jpg" group-title="Football", Poland vs Syria Live | Socca World Cup 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
