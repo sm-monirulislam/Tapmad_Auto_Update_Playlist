@@ -13,11 +13,11 @@
             "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         },
         {
-            "id": "tapmad-16886",
-            "name": "Sailing Day 7 Live | The Ocean Race Atlantic 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887718871020x576.jpg",
-            "group": "Boat Racing",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+            "id": "tapmad-16946",
+            "name": "Getafe vs CELTA | LaLiga 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885308601020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         }
     ]
 }
