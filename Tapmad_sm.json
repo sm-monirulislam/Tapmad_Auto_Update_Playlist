@@ -2,7 +2,22 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 0,
-    "last_update": "2026-09-08",
-    "response": []
+    "channels_amount": 2,
+    "last_update": "2026-09-09",
+    "response": [
+        {
+            "id": "tapmad-15935",
+            "name": "England vs Pakistan | Pakistan Tour of England 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg",
+            "group": "Cricket",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16705",
+            "name": "Dublin Guardians vs Belfast Wolves | European T20 Premier League 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889326131020x576.jpg",
+            "group": "Cricket",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        }
+    ]
 }
