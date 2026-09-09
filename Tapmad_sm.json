@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 8,
+    "channels_amount": 6,
     "last_update": "2026-09-10",
     "response": [
         {
@@ -11,20 +11,6 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17888818291020x576.jpg",
             "group": "Tennis",
             "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
-        },
-        {
-            "id": "tapmad-17019",
-            "name": "Barcelona vs Feyenoord | UEFA Champions League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887847691020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-17020",
-            "name": "VFB Stuttgart vs Viking | UEFA Champions League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887856441020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
             "id": "tapmad-16904",
