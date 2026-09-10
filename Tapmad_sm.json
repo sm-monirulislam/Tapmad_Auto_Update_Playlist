@@ -3,28 +3,28 @@
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
     "channels_amount": 3,
-    "last_update": "2026-09-10",
+    "last_update": "2026-09-11",
     "response": [
-        {
-            "id": "tapmad-15935",
-            "name": "England vs Pakistan | Pakistan Tour of England 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16707",
-            "name": "Belfast Wolves vs Amsterdam Flames | European T20 Premier League 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889408221020x576.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
         {
             "id": "tapmad-16314",
             "name": "Junior & Wheelchair Semifinals | US Open 2026",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889404011020x576.jpg",
             "group": "Tennis",
             "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+        },
+        {
+            "id": "tapmad-17025",
+            "name": "Fenerbahce vs Roma | UEFA Champions League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889437111020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "id": "tapmad-17026",
+            "name": "PSV vs Shakhtar Donetsk | UEFA Champions League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889438811020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         }
     ]
 }
