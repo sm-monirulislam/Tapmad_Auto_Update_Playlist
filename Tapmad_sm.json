@@ -2,9 +2,16 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 1,
+    "channels_amount": 2,
     "last_update": "2026-09-10",
     "response": [
+        {
+            "id": "tapmad-15935",
+            "name": "England vs Pakistan | Pakistan Tour of England 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg",
+            "group": "Cricket",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        },
         {
             "id": "tapmad-16706",
             "name": "Rotterdam Dockers vs Glasgow Cosmic | European T20 Premier League 2026",
