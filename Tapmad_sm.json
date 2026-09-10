@@ -2,9 +2,16 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 3,
+    "channels_amount": 7,
     "last_update": "2026-09-11",
     "response": [
+        {
+            "id": "tapmad-17030",
+            "name": "Man United vs Sabah | UEFA Champions League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890222621020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        },
         {
             "id": "tapmad-16314",
             "name": "Junior & Wheelchair Semifinals | US Open 2026",
@@ -25,6 +32,27 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889438811020x576.jpg",
             "group": "Football",
             "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-17027",
+            "name": "Bayern vs Bodo/Glimt | UEFA Champions League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890217791020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "id": "tapmad-17028",
+            "name": "Slavia Praha vs Lens | UEFA Champions League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890219421020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        },
+        {
+            "id": "tapmad-17029",
+            "name": "Como vs RB Leipzig | UEFA Champions League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890220801020x576.jpg",
+            "group": "Football",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         }
     ]
 }
