@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 2,
+    "channels_amount": 3,
     "last_update": "2026-09-10",
     "response": [
         {
@@ -18,6 +18,13 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889408221020x576.jpg",
             "group": "Cricket",
             "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "id": "tapmad-16314",
+            "name": "Junior & Wheelchair Semifinals | US Open 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889404011020x576.jpg",
+            "group": "Tennis",
+            "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         }
     ]
 }
