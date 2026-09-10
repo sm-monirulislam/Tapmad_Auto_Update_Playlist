@@ -6,18 +6,18 @@
     "last_update": "2026-09-10",
     "response": [
         {
-            "id": "tapmad-16312",
-            "name": "Men's & Women's Singles Quarterfinals | US Open 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17888818291020x576.jpg",
-            "group": "Tennis",
-            "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
-        },
-        {
             "id": "tapmad-15806",
             "name": "Guyana Amazon Warriors vs St Lucia Kings | Caribbean Premier League 2026",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889393571020x576.jpg",
             "group": "Cricket",
             "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        },
+        {
+            "id": "tapmad-16313",
+            "name": "Men's & Women's Singles Quarterfinals | US Open 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889400781020x576.jpg",
+            "group": "Tennis",
+            "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
         }
     ]
 }
