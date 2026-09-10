@@ -2,16 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 2,
+    "channels_amount": 1,
     "last_update": "2026-09-10",
     "response": [
-        {
-            "id": "tapmad-15806",
-            "name": "Guyana Amazon Warriors vs St Lucia Kings | Caribbean Premier League 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889393571020x576.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
         {
             "id": "tapmad-16313",
             "name": "Men's & Women's Singles Quarterfinals | US Open 2026",
