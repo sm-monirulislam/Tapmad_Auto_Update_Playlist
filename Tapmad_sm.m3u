@@ -2,8 +2,8 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-09-12 21:01:26 (BD Time)
-#  Channels Count: 4
+#  Last Updated: 2026-09-12 22:01:54 (BD Time)
+#  Channels Count: 6
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-17142" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890313571020x576.jpg" group-title="Boat Racing", Session 1 - Q1 Live | E1 Series 2026
@@ -14,3 +14,7 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16950" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891565901020x576.jpg" group-title="Football", Osasuna vs Espanyol | LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16319" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890277841020x576.jpg" group-title="Tennis", Junior & Wheelchair Championships | US Open 2026
+https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-17090" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891557791020x576.jpg" group-title="Football", Al-Taawoun vs Al-Hilal | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
