@@ -2,16 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 2,
+    "channels_amount": 1,
     "last_update": "2026-09-13",
     "response": [
-        {
-            "id": "tapmad-15809",
-            "name": "Barbados Tridents vs Jamaica Kingsmen | Caribbean Premier League 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891290981020x576.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-        },
         {
             "id": "tapmad-17209",
             "name": "Suzuka 1000 Race Live | GT World Challenge EU & Asia 2026",
