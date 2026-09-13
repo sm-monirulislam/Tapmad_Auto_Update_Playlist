@@ -2,22 +2,29 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 2,
+    "channels_amount": 3,
     "last_update": "2026-09-13",
     "response": [
-        {
-            "id": "tapmad-17152",
-            "name": "Session 3 - Group Stages Live | E1 Series 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892435821020x576.jpg",
-            "group": "Boat Racing",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
         {
             "id": "tapmad-16953",
             "name": "Celta vs Malaga | LaLiga 2026/27",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892142251020x576.jpg",
             "group": "Football",
             "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        },
+        {
+            "id": "tapmad-16712",
+            "name": "Belfast Wolves vs Glasgow Cosmic | European T20 Premier League 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892921111020x576.jpg",
+            "group": "Cricket",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "id": "tapmad-17470",
+            "name": "India vs Afghanistan | India Tour of Afghanistan 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892481601020x576.jpg",
+            "group": "Cricket",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
         }
     ]
 }
