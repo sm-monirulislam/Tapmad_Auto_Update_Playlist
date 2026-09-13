@@ -2,8 +2,8 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-09-13 21:01:14 (BD Time)
-#  Channels Count: 4
+#  Last Updated: 2026-09-13 22:02:04 (BD Time)
+#  Channels Count: 5
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-16954" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892143281020x576.jpg" group-title="Football", Levante vs Barcelona | LaLiga 2026/27
@@ -14,3 +14,5 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17162" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892440141020x576.jpg" group-title="Boat Racing", Session 5 - Finals Live | E1 Series 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16955" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892144341020x576.jpg" group-title="Football", Getafe vs Deportivo | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
