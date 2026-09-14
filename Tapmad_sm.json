@@ -2,30 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 4,
+    "channels_amount": 1,
     "last_update": "2026-09-15",
     "response": [
-        {
-            "id": "tapmad-17312",
-            "name": "Al Ahli Saudi FC vs Pakhtakor Live | AFC Champions League Elite 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893740871020x576.jpg",
-            "group": "Football",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "id": "tapmad-17317",
-            "name": "Esteghlal FC vs Al Sadd SC Live | AFC Champions League Elite 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893978571020x576.jpg",
-            "group": "Football",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
-        {
-            "id": "tapmad-17322",
-            "name": "Al Qadsiah Club vs Al Wasl FC Live | AFC Champions League Elite 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893735921020x576.jpg",
-            "group": "Football",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
-        },
         {
             "id": "tapmad-16957",
             "name": "Villarreal vs Betis | LaLiga 2026/27",
