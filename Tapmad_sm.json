@@ -2,7 +2,15 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 0,
+    "channels_amount": 1,
     "last_update": "2026-09-14",
-    "response": []
+    "response": [
+        {
+            "id": "tapmad-17297",
+            "name": "PFC Neftchi vs Air Force SC Live | AFC Champions League Elite 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893695951020x576.jpg",
+            "group": "Football",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        }
+    ]
 }
