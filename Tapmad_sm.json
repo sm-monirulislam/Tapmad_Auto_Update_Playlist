@@ -2,16 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 4,
+    "channels_amount": 3,
     "last_update": "2026-09-16",
     "response": [
-        {
-            "id": "tapmad-16958",
-            "name": "Rayo Vallecano vs Espanyol | LaLiga 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893766701020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
         {
             "id": "tapmad-17383",
             "name": "England vs Sri Lanka | Sri Lanka Tour of England 2026",
