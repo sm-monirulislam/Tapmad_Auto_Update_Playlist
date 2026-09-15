@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 6,
+    "channels_amount": 3,
     "last_update": "2026-09-15",
     "response": [
         {
@@ -20,32 +20,11 @@
             "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         },
         {
-            "id": "tapmad-17327",
-            "name": "Kashima Antlers vs Newcastle Jets FC Live | AFC Champions League Elite 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894526861020x576.jpg",
+            "id": "tapmad-17347",
+            "name": "Johor Darul Ta'zim FC vs Buriram United Live | AFC Champions League Elite 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894549001020x576.jpg",
             "group": "Football",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "id": "tapmad-17332",
-            "name": "Daejeon Hana Citizen vs Kyota Sanga F.C Live | AFC Champions League Elite 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894533151020x576.jpg",
-            "group": "Football",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
-        {
-            "id": "tapmad-17337",
-            "name": "Gamba Osaka vs Cong An Ha Noi Live | AFC Champions League Elite 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894538321020x576.jpg",
-            "group": "Football",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
-        },
-        {
-            "id": "tapmad-17342",
-            "name": "Ratchaburi FC vs Shanghai Port FC Live | AFC Champions League Elite 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894543791020x576.jpg",
-            "group": "Football",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
         }
     ]
 }
