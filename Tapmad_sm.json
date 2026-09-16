@@ -2,23 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 4,
+    "channels_amount": 2,
     "last_update": "2026-09-16",
     "response": [
-        {
-            "id": "tapmad-17372",
-            "name": "Port FC vs Vissel Kobe Live | AFC Champions League Elite 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895389651020x576.jpg",
-            "group": "Football",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
-        },
-        {
-            "id": "tapmad-17407",
-            "name": "The Cong - Viettel FC vs Melbourne Victory FC Live | AFC Champions League Two 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895418831020x576.jpg",
-            "group": "Football",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
-        },
         {
             "id": "tapmad-16715",
             "name": "Glasgow Cosmic vs Amsterdam Flames | European T20 Premier League 2026",
