@@ -2,8 +2,8 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-09-16 22:00:31 (BD Time)
-#  Channels Count: 6
+#  Last Updated: 2026-09-16 22:31:01 (BD Time)
+#  Channels Count: 8
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-16715" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894622951020x576.jpg" group-title="Cricket", Glasgow Cosmic vs Amsterdam Flames | European T20 Premier League 2026
@@ -18,3 +18,7 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17427" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895448061020x576.jpg" group-title="Football", Al Nahda Club vs Al Taawoun FC Live | AFC Champions League Two 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17276" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894729601020x576.jpg" group-title="Football", Omonoia vs Celta | UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17277" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894731451020x576.jpg" group-title="Football", Ararat-Armenia vs Sparta Praha | UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8

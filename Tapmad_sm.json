@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 6,
+    "channels_amount": 8,
     "last_update": "2026-09-16",
     "response": [
         {
@@ -46,6 +46,20 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895448061020x576.jpg",
             "group": "Football",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+            "id": "tapmad-17276",
+            "name": "Omonoia vs Celta | UEFA Europa League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894729601020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-17277",
+            "name": "Ararat-Armenia vs Sparta Praha | UEFA Europa League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894731451020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         }
     ]
 }
