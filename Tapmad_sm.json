@@ -2,16 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 8,
+    "channels_amount": 9,
     "last_update": "2026-09-16",
     "response": [
-        {
-            "id": "tapmad-16715",
-            "name": "Glasgow Cosmic vs Amsterdam Flames | European T20 Premier League 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894622951020x576.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-        },
         {
             "id": "tapmad-17057",
             "name": "Barbados Tridents Women vs Guyana Amazon Warriors Women | Women's Caribbean Premier League 2026",
@@ -60,6 +53,20 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894731451020x576.jpg",
             "group": "Football",
             "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16962",
+            "name": "Atletico Madrid vs Osasuna | LaLiga 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894711081020x576.jpg",
+            "group": "Football",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
+        },
+        {
+            "id": "tapmad-16961",
+            "name": "Deportivo vs Sevilla | LaLiga 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894709731020x576.jpg",
+            "group": "Football",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         }
     ]
 }
