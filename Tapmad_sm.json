@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 2,
+    "channels_amount": 6,
     "last_update": "2026-09-16",
     "response": [
         {
@@ -18,6 +18,34 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894619701020x576.jpg",
             "group": "Cricket",
             "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        },
+        {
+            "id": "tapmad-17412",
+            "name": "Al Hussein vs East Bengal FC Live | AFC Champions League Two 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895422821020x576.jpg",
+            "group": "Football",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
+        },
+        {
+            "id": "tapmad-17417",
+            "name": "Al Wahda FC vs Kuwait SC Live | AFC Champions League Two 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895435431020x576.jpg",
+            "group": "Football",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
+        },
+        {
+            "id": "tapmad-17422",
+            "name": "Al Khaldiya SC vs PFC Nasaf Live | AFC Champions League Two 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895444071020x576.jpg",
+            "group": "Football",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        },
+        {
+            "id": "tapmad-17427",
+            "name": "Al Nahda Club vs Al Taawoun FC Live | AFC Champions League Two 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895448061020x576.jpg",
+            "group": "Football",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         }
     ]
 }
