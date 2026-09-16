@@ -6,20 +6,6 @@
     "last_update": "2026-09-17",
     "response": [
         {
-            "id": "tapmad-16961",
-            "name": "Deportivo vs Sevilla | LaLiga 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894709731020x576.jpg",
-            "group": "Football",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        },
-        {
-            "id": "tapmad-16962",
-            "name": "Atletico Madrid vs Osasuna | LaLiga 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894711081020x576.jpg",
-            "group": "Football",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
-        },
-        {
             "id": "tapmad-17432",
             "name": "Al Rayyan SC vs Al Faisaly Live | AFC Champions League Two 2026/27",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895452021020x576.jpg",
@@ -81,6 +67,20 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895531701020x576.jpg",
             "group": "Football",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
+        },
+        {
+            "id": "tapmad-16963",
+            "name": "Levante vs Athletic | LaLiga 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895589261020x576.jpg",
+            "group": "Football",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        },
+        {
+            "id": "tapmad-16964",
+            "name": "Barcelona vs Racing Santander | LaLiga 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895590251020x576.jpg",
+            "group": "Football",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
         }
     ]
 }
