@@ -2,37 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 8,
+    "channels_amount": 6,
     "last_update": "2026-09-17",
     "response": [
-        {
-            "id": "tapmad-17412",
-            "name": "Al Hussein vs East Bengal FC Live | AFC Champions League Two 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895422821020x576.jpg",
-            "group": "Football",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
-        },
-        {
-            "id": "tapmad-17417",
-            "name": "Al Wahda FC vs Kuwait SC Live | AFC Champions League Two 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895435431020x576.jpg",
-            "group": "Football",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
-        },
-        {
-            "id": "tapmad-17422",
-            "name": "Al Khaldiya SC vs PFC Nasaf Live | AFC Champions League Two 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895444071020x576.jpg",
-            "group": "Football",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
-        {
-            "id": "tapmad-17427",
-            "name": "Al Nahda Club vs Al Taawoun FC Live | AFC Champions League Two 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895448061020x576.jpg",
-            "group": "Football",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
         {
             "id": "tapmad-17276",
             "name": "Omonoia vs Celta | UEFA Europa League 2026/27",
@@ -48,6 +20,13 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
+            "id": "tapmad-16961",
+            "name": "Deportivo vs Sevilla | LaLiga 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894709731020x576.jpg",
+            "group": "Football",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        },
+        {
             "id": "tapmad-16962",
             "name": "Atletico Madrid vs Osasuna | LaLiga 2026/27",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894711081020x576.jpg",
@@ -55,11 +34,18 @@
             "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
         },
         {
-            "id": "tapmad-16961",
-            "name": "Deportivo vs Sevilla | LaLiga 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894709731020x576.jpg",
+            "id": "tapmad-17432",
+            "name": "Al Rayyan SC vs Al Faisaly Live | AFC Champions League Two 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895452021020x576.jpg",
             "group": "Football",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+            "id": "tapmad-17437",
+            "name": "Al Shorta vs Al Seeb Club Live | AFC Champions League Two 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895456521020x576.jpg",
+            "group": "Football",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         }
     ]
 }
