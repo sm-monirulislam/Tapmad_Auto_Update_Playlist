@@ -2,8 +2,8 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-09-18 01:30:28 (BD Time)
-#  Channels Count: 9
+#  Last Updated: 2026-09-18 02:00:27 (BD Time)
+#  Channels Count: 10
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-17384" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894714901020x576.jpg" group-title="Cricket", England vs Sri Lanka | Sri Lanka Tour of England 2026
@@ -24,3 +24,5 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17293" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896481641020x576.jpg" group-title="Football", Real Sociedad vs Bournemouth | UEFA Europa League 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-16966" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896460151020x576.jpg" group-title="Football", Malaga vs Villarreal | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
