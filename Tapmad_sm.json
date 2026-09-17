@@ -2,30 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 12,
+    "channels_amount": 9,
     "last_update": "2026-09-18",
     "response": [
-        {
-            "id": "tapmad-17285",
-            "name": "Levski Sofia vs RB Salzburg | UEFA Europa League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895534131020x576.jpg",
-            "group": "Football",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
-        },
-        {
-            "id": "tapmad-17286",
-            "name": "OFI vs Hoffenheim | UEFA Europa League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895566631020x576.jpg",
-            "group": "Football",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
-        },
-        {
-            "id": "tapmad-16965",
-            "name": "Betis vs Getafe | LaLiga 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895591411020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
         {
             "id": "tapmad-17384",
             "name": "England vs Sri Lanka | Sri Lanka Tour of England 2026",
