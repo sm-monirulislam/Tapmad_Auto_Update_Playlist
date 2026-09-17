@@ -13,25 +13,25 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-17442",
-            "name": "Lion City Sailors FC (SGP) vs BG Pathum United (THA) Live | AFC Champions League Two 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896278231020x576.jpg",
+            "id": "tapmad-17457",
+            "name": "Shanghai Shenhua FC (CHN) vs Tampines Rovers FC (SGP) Live | AFC Champions League Two 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896296311020x576.jpg",
             "group": "Football",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         },
         {
-            "id": "tapmad-17447",
-            "name": "Adelaide United FC (AUS) vs Tai Po FC (HKG) Live | AFC Champions League Two 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896282781020x576.jpg",
+            "id": "tapmad-17462",
+            "name": "Kitchee SC (HKG) vs Gangwon FC (KOR) Live | AFC Champions League Two 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896299921020x576.jpg",
             "group": "Football",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
         },
         {
-            "id": "tapmad-17452",
-            "name": "FC Machida Zelvia (JPN) vs Preah Khan Reach Svay Rieng FC (CAM) Live | AFC Champions League Two 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896286361020x576.jpg",
+            "id": "tapmad-17467",
+            "name": "Phnom Penh Crown FC (CAM) vs Kuching City FC (MAS) Live | AFC Champions League Two 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896303281020x576.jpg",
             "group": "Football",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         }
     ]
 }
