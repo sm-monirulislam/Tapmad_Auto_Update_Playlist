@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 1,
+    "channels_amount": 3,
     "last_update": "2026-09-18",
     "response": [
         {
@@ -11,6 +11,20 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895630001020x576.jpg",
             "group": "Cricket",
             "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-17641",
+            "name": "Fortis FC Ltd. vs Chattogram City FC | Bangladesh Football League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897160501020x576.jpg",
+            "group": "Football",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
+        },
+        {
+            "id": "tapmad-17642",
+            "name": "Bangladesh Police FC vs Rahamatgonj MFS | Bangladesh Football League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897161331020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         }
     ]
 }
