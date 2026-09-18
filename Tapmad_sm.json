@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 3,
+    "channels_amount": 1,
     "last_update": "2026-09-18",
     "response": [
         {
@@ -11,20 +11,6 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895630001020x576.jpg",
             "group": "Cricket",
             "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-17643",
-            "name": "Fakirerpool Young Mens Club vs Dhaka Wanderers Club | Bangladesh Football League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897161911020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-17644",
-            "name": "Brothers Union Ltd vs City Club | Bangladesh Football League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897162651020x576.jpg",
-            "group": "Football",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
         }
     ]
 }
