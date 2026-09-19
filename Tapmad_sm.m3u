@@ -2,8 +2,8 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-09-19 19:30:42 (BD Time)
-#  Channels Count: 4
+#  Last Updated: 2026-09-19 20:00:45 (BD Time)
+#  Channels Count: 6
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-16967" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897167661020x576.jpg" group-title="Football", Osasuna vs Rayo Vallecano | LaLiga 2026/27
@@ -14,3 +14,7 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17385" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896740041020x576.jpg" group-title="Cricket", England vs Sri Lanka | Sri Lanka Tour of England 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16968" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897168551020x576.jpg" group-title="Football", Athletic vs Alaves | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17551" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897692321020-23andlast.jpg" group-title="Racing", Porsche Carrera Cup France - Race 1 | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
