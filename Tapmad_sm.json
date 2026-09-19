@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 5,
+    "channels_amount": 4,
     "last_update": "2026-09-19",
     "response": [
         {
@@ -11,13 +11,6 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897340941020x576.jpg",
             "group": "Cricket",
             "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
-        },
-        {
-            "id": "tapmad-17385",
-            "name": "England vs Sri Lanka | Sri Lanka Tour of England 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896740041020x576.jpg",
-            "group": "Cricket",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
         },
         {
             "id": "tapmad-17683",
