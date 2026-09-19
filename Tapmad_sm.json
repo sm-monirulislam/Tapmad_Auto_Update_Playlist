@@ -2,16 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 3,
+    "channels_amount": 2,
     "last_update": "2026-09-19",
     "response": [
-        {
-            "id": "tapmad-17527",
-            "name": "Porsche Carrera Cup France - Qualifying | GT World Challenge EU & Asia 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897653711020-23andlast.jpg",
-            "group": "Racing",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
         {
             "id": "tapmad-17646",
             "name": "Arambagh Krira Shangha vs Bashundhara Kings | Bangladesh Football League 2026/27",
