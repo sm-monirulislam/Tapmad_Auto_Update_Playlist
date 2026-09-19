@@ -2,16 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 2,
-    "last_update": "2026-09-19",
+    "channels_amount": 1,
+    "last_update": "2026-09-20",
     "response": [
-        {
-            "id": "tapmad-17683",
-            "name": "Paris FC vs Strasbourg | French Ligue 1 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898100201020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
         {
             "id": "tapmad-16969",
             "name": "Celta vs Racing Santander | LaLiga 2026/27",
