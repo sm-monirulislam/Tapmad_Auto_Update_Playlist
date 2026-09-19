@@ -2,7 +2,15 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 0,
+    "channels_amount": 1,
     "last_update": "2026-09-19",
-    "response": []
+    "response": [
+        {
+            "id": "tapmad-17515",
+            "name": "GT2 European Series powered by Pirelli - Qualifying 1 & 2 | GT World Challenge EU & Asia 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897631141020-23andlast.jpg",
+            "group": "Racing",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        }
+    ]
 }
