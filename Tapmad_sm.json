@@ -2,7 +2,7 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 5,
+    "channels_amount": 6,
     "last_update": "2026-09-19",
     "response": [
         {
@@ -39,6 +39,13 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898100201020x576.jpg",
             "group": "Football",
             "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-17557",
+            "name": "GT4 European Series - Race 1 | GT World Challenge EU & Asia 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897700091020-23andlast.jpg",
+            "group": "Racing",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         }
     ]
 }
