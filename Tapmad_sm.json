@@ -6,18 +6,18 @@
     "last_update": "2026-09-19",
     "response": [
         {
-            "id": "tapmad-17539",
-            "name": "GT2 European Series powered by Pirelli - Race 1 | GT World Challenge EU & Asia 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897672691020-23andlast.jpg",
-            "group": "Racing",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
             "id": "tapmad-16967",
             "name": "Osasuna vs Rayo Vallecano | LaLiga 2026/27",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897167661020x576.jpg",
             "group": "Football",
             "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "id": "tapmad-17545",
+            "name": "GT World Challenge powered by AWS - Race 1 | GT World Challenge EU & Asia 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897682321020-23andlast.jpg",
+            "group": "Racing",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         }
     ]
 }
