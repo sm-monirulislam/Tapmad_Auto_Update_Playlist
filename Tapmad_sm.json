@@ -2,43 +2,15 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 5,
+    "channels_amount": 1,
     "last_update": "2026-09-27",
     "response": [
         {
-            "id": "tapmad-17844",
-            "name": "Czechia vs Croatia - MATCHDAY 1 - UEFA Nations League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17903329771020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-17845",
-            "name": "North Macedonia vs Switzerland - MATCHDAY 1 - UEFA Nations League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17903330941020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-17846",
-            "name": "England vs Spain - MATCHDAY 1 - UEFA Nations League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17903332151020x576.jpg",
-            "group": "Football",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-17847",
-            "name": "Slovakia vs Moldova - MATCHDAY 1 - UEFA Nations League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17903333311020x576.jpg",
-            "group": "Football",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "id": "tapmad-17848",
-            "name": "Albania vs Belarus - MATCHDAY 1 - UEFA Nations League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17903334311020x576.jpg",
-            "group": "Football",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+            "id": "tapmad-16936",
+            "name": "Rosas Jr. vs Barcelos - Fight Night - UFC 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17902392281020x576.jpg",
+            "group": "Mma",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         }
     ]
 }
