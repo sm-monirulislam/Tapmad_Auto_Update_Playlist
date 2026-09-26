@@ -2,7 +2,17 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-09-27 00:30:39 (BD Time)
-#  Channels Count: 0
+#  Last Updated: 2026-09-27 01:00:36 (BD Time)
+#  Channels Count: 5
 #=================================
 
+#EXTINF:-1 tvg-id="tapmad-17844" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17903329771020x576.jpg" group-title="Football", Czechia vs Croatia - MATCHDAY 1 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17845" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17903330941020x576.jpg" group-title="Football", North Macedonia vs Switzerland - MATCHDAY 1 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17846" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17903332151020x576.jpg" group-title="Football", England vs Spain - MATCHDAY 1 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17847" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17903333311020x576.jpg" group-title="Football", Slovakia vs Moldova - MATCHDAY 1 - UEFA Nations League 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17848" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17903334311020x576.jpg" group-title="Football", Albania vs Belarus - MATCHDAY 1 - UEFA Nations League 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
