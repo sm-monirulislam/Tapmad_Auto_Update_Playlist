@@ -2,30 +2,9 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 7,
+    "channels_amount": 4,
     "last_update": "2026-09-27",
     "response": [
-        {
-            "id": "tapmad-17698",
-            "name": "South Africa vs Australia - 2nd ODI - Australia Tour of South Africa 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900692921020x576.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-17711",
-            "name": "India vs West Indies - 1st ODI - West Indies Tour of India 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17901433451020x576.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-17388",
-            "name": "England vs Sri Lanka - 3rd ODI - Sri Lanka Tour of England 2026",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17899859771020x576.jpg",
-            "group": "Cricket",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
         {
             "id": "tapmad-17850",
             "name": "Denmark vs Wales - MATCHDAY 2 - UEFA Nations League 2026/27",
