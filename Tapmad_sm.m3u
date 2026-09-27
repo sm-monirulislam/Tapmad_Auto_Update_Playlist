@@ -2,8 +2,8 @@
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
-#  Last Updated: 2026-09-27 18:30:22 (BD Time)
-#  Channels Count: 3
+#  Last Updated: 2026-09-27 19:00:55 (BD Time)
+#  Channels Count: 4
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-17698" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900692921020x576.jpg" group-title="Cricket", South Africa vs Australia - 2nd ODI - Australia Tour of South Africa 2026
@@ -12,3 +12,5 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17388" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17899859771020x576.jpg" group-title="Cricket", England vs Sri Lanka - 3rd ODI - Sri Lanka Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17849" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904431811020x576.jpg" group-title="Football", Lithuania vs Azerbaijan - MATCHDAY 2 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
