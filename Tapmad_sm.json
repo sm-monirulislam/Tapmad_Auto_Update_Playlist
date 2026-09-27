@@ -2,7 +2,29 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 0,
+    "channels_amount": 3,
     "last_update": "2026-09-28",
-    "response": []
+    "response": [
+        {
+            "id": "tapmad-17854",
+            "name": "Norway vs Portugal - MATCHDAY 2 - UEFA Nations League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904445191020x576.jpg",
+            "group": "Football",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        },
+        {
+            "id": "tapmad-17855",
+            "name": "Israel vs Ireland - MATCHDAY 2 - UEFA Nations League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904447101020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        },
+        {
+            "id": "tapmad-17856",
+            "name": "Germany vs Greece - MATCHDAY 2 - UEFA Nations League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904449471020x576.jpg",
+            "group": "Football",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
+        }
+    ]
 }
