@@ -2,29 +2,43 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 3,
+    "channels_amount": 5,
     "last_update": "2026-09-29",
     "response": [
         {
-            "id": "tapmad-17857",
-            "name": "Georgia vs Ukraine - MATCHDAY 2 - UEFA Nations League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904472801020x576.jpg",
+            "id": "tapmad-17860",
+            "name": "Romania vs Bosnia and Herzegovina - MATCHDAY 2 - UEFA Nations League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904483411020x576.jpg",
             "group": "Football",
             "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         },
         {
-            "id": "tapmad-17858",
-            "name": "Armenia vs Montenegro - MATCHDAY 2 - UEFA Nations League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904474921020x576.jpg",
+            "id": "tapmad-17861",
+            "name": "Belgium vs France - MATCHDAY 2 - UEFA Nations League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904486951020x576.jpg",
             "group": "Football",
             "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-17859",
-            "name": "Latvia vs Cyprus - MATCHDAY 2 - UEFA Nations League 2026/27",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904481441020x576.jpg",
+            "id": "tapmad-17862",
+            "name": "Northern Ireland vs Hungary - MATCHDAY 2 - UEFA Nations League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904490751020x576.jpg",
             "group": "Football",
             "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "id": "tapmad-17863",
+            "name": "Turkiye vs Italy - MATCHDAY 2 - UEFA Nations League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904492891020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "id": "tapmad-17864",
+            "name": "Sweden vs Poland - MATCHDAY 2 - UEFA Nations League 2026/27",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904494961020x576.jpg",
+            "group": "Football",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         }
     ]
 }
