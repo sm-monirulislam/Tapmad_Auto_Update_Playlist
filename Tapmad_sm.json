@@ -2,7 +2,15 @@
     "status": "success",
     "name": "Tapmad Live Channels",
     "owner": "Monirul Islam",
-    "channels_amount": 0,
+    "channels_amount": 1,
     "last_update": "2026-09-28",
-    "response": []
+    "response": [
+        {
+            "id": "tapmad-17958",
+            "name": "Taiping to Gunung Jerai Live - Stage 2 - Le Tour de Langkawi 2026",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17903207391020x576.jpg",
+            "group": "Cycling",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        }
+    ]
 }
