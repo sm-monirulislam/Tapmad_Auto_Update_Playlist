@@ -3,7 +3,13 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:00:03 PM 29-09-2026 (BD Time)
-# All channel : 0
+# Last Updated: 10:48:04 PM 29-09-2026 (BD Time)
+# All channel : 2
 #=================================
+
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790542383540x302.jpg",Finland vs Belarus
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790542648540x302.jpg",Moldova vs Faroe Islands
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 
