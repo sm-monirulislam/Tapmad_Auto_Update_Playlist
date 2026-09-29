@@ -2,10 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https://t.me/sm_iptv_bd",
-    "last_update_time": "11:58:10 AM 29-09-2026",
+    "last_update_time": "12:00:03 PM 29-09-2026",
     "total_matches": 16,
     "live_match": 1,
-    "upcoming_match": 15,
     "matches": [
         {
             "status": "LIVE",
@@ -19,8 +18,7 @@
             "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790545453540x302.jpg",
             "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790545453540x302.jpg",
             "is_sports": true,
-            "is_channel": true,
-            "stream_link": null
+            "is_channel": true
         },
         {
             "status": "UPCOMING",
@@ -34,8 +32,7 @@
             "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790542383540x302.jpg",
             "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790542383540x302.jpg",
             "is_sports": true,
-            "is_channel": true,
-            "stream_link": null
+            "is_channel": true
         },
         {
             "status": "UPCOMING",
@@ -49,8 +46,7 @@
             "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790542647540x302.jpg",
             "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790542648540x302.jpg",
             "is_sports": true,
-            "is_channel": true,
-            "stream_link": null
+            "is_channel": true
         },
         {
             "status": "UPCOMING",
@@ -64,8 +60,7 @@
             "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790542847540x302.jpg",
             "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790542847540x302.jpg",
             "is_sports": true,
-            "is_channel": true,
-            "stream_link": null
+            "is_channel": true
         },
         {
             "status": "UPCOMING",
@@ -79,8 +74,7 @@
             "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790543041540x302.jpg",
             "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790543041540x302.jpg",
             "is_sports": true,
-            "is_channel": true,
-            "stream_link": null
+            "is_channel": true
         },
         {
             "status": "UPCOMING",
@@ -94,8 +88,7 @@
             "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790543221540x302.jpg",
             "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790543221540x302.jpg",
             "is_sports": true,
-            "is_channel": true,
-            "stream_link": null
+            "is_channel": true
         },
         {
             "status": "UPCOMING",
@@ -109,8 +102,7 @@
             "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790543665540x302.jpg",
             "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790543665540x302.jpg",
             "is_sports": true,
-            "is_channel": true,
-            "stream_link": null
+            "is_channel": true
         },
         {
             "status": "UPCOMING",
@@ -124,8 +116,7 @@
             "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790543893540x302.jpg",
             "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790543893540x302.jpg",
             "is_sports": true,
-            "is_channel": true,
-            "stream_link": null
+            "is_channel": true
         },
         {
             "status": "UPCOMING",
@@ -139,8 +130,7 @@
             "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790544246540x302.jpg",
             "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790544246540x302.jpg",
             "is_sports": true,
-            "is_channel": true,
-            "stream_link": null
+            "is_channel": true
         },
         {
             "status": "UPCOMING",
@@ -154,8 +144,7 @@
             "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790544455540x302.jpg",
             "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790544455540x302.jpg",
             "is_sports": true,
-            "is_channel": true,
-            "stream_link": null
+            "is_channel": true
         },
         {
             "status": "UPCOMING",
@@ -169,8 +158,7 @@
             "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790544643540x302.jpg",
             "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790544643540x302.jpg",
             "is_sports": true,
-            "is_channel": true,
-            "stream_link": null
+            "is_channel": true
         },
         {
             "status": "UPCOMING",
@@ -184,8 +172,7 @@
             "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790631895540x302.jpg",
             "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790631895540x302.jpg",
             "is_sports": true,
-            "is_channel": true,
-            "stream_link": null
+            "is_channel": true
         },
         {
             "status": "UPCOMING",
@@ -199,8 +186,7 @@
             "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790155237540x302.jpg",
             "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790155237540x302.jpg",
             "is_sports": true,
-            "is_channel": true,
-            "stream_link": null
+            "is_channel": true
         },
         {
             "status": "UPCOMING",
@@ -214,8 +200,7 @@
             "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790336865540x302.jpg",
             "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790336866540x302.jpg",
             "is_sports": true,
-            "is_channel": true,
-            "stream_link": null
+            "is_channel": true
         },
         {
             "status": "UPCOMING",
@@ -229,8 +214,7 @@
             "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790632238540x302.jpg",
             "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790632238540x302.jpg",
             "is_sports": true,
-            "is_channel": true,
-            "stream_link": null
+            "is_channel": true
         },
         {
             "status": "UPCOMING",
@@ -244,8 +228,7 @@
             "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790633775540x302.jpg",
             "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790633775540x302.jpg",
             "is_sports": true,
-            "is_channel": true,
-            "stream_link": null
+            "is_channel": true
         }
     ]
 }
