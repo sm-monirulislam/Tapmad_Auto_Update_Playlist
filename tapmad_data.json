@@ -2,12 +2,12 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https://t.me/sm_iptv_bd",
-    "last_update_time": "10:38:46 AM 29-09-2026",
-    "total_matches": 15,
-    "live_match": 0,
+    "last_update_time": "11:00:03 AM 29-09-2026",
+    "total_matches": 16,
+    "live_match": 1,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17964,
             "title": "Sungai Petani to Kuala Kangsar",
             "header_name": "Stage 3 - Le Tour de Langkawi 2026",
@@ -213,6 +213,20 @@
             "category_seo_title": "le-tour-de-langkawi-malaysia-2026",
             "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790632238540x302.jpg",
             "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790632238540x302.jpg",
+            "is_sports": true,
+            "is_channel": true
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17875,
+            "title": "Azerbaijan vs Leichtenstein",
+            "header_name": "MATCHDAY 3 - UEFA Nations League 2026/27",
+            "description": "Watch Azerbaijan vs Leichtenstein live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-02 04:00:00",
+            "seo_title": "azerbaijan-vs-leichtenstein-unl-live-match",
+            "category_seo_title": "azerbaijan-vs-leichtenstein-unl-live-match",
+            "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790633775540x302.jpg",
+            "tv_image": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790633775540x302.jpg",
             "is_sports": true,
             "is_channel": true
         }
