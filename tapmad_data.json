@@ -2,13 +2,28 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:00:06 PM 01-10-2026",
-    "total_matches": 15,
-    "live_match": 0,
+    "last_update_time": "10:00:05 PM 01-10-2026",
+    "total_matches": 17,
+    "live_match": 2,
     "upcoming_match": 15,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
+            "content_entity_id": 18236,
+            "title": "ICC World Cup 2027 Schedule Launch",
+            "header_name": "Show - ICC Cricket World Cup 2027",
+            "description": "Watch the ICC Men’s Cricket World Cup 2027 Schedule Launch LIVE on Tapmad! Get the complete tournament schedule, match dates, venues, and all the latest updates as the road to the World Cup begins.",
+            "start_time_bd": "2026-10-02 02:45:00",
+            "seo_title": "ICC World Cup 2027 Schedule Launch",
+            "category_seo_title": "ICC World Cup 2027 Schedule Launch",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790868707ROUND6DRAWS.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790868707ROUND6DRAWS.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "LIVE",
             "content_entity_id": 17875,
             "title": "Azerbaijan vs Leichtenstein",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -20,7 +35,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790633775540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -228,6 +243,21 @@
             "category_seo_title": "bangladesh-football-league-2026",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790061899540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790061899540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17883,
+            "title": "Kazakhstan vs Moldova",
+            "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
+            "description": "Watch Kazakhstan vs Moldova live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Kazakhstan vs Moldova match will take place on 02-Oct, Friday, at 08:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-03 02:00:00",
+            "seo_title": "kazakhstan-vs-moldova-unl-live-match",
+            "category_seo_title": "kazakhstan-vs-moldova-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790672217540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790672217540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
