@@ -2,13 +2,13 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:00:04 AM 01-10-2026",
-    "total_matches": 15,
-    "live_match": 0,
+    "last_update_time": "10:00:06 AM 01-10-2026",
+    "total_matches": 16,
+    "live_match": 1,
     "upcoming_match": 15,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17976,
             "title": "Tapah to Genting Highlands",
             "header_name": "Stage 5 - Le Tour de Langkawi 2026",
@@ -16,12 +16,12 @@
             "start_time_bd": "2026-10-01 16:30:00",
             "seo_title": "le-tour-de-langkawi-malaysia-2026",
             "category_seo_title": "le-tour-de-langkawi-malaysia-2026",
-            "group_title": "Upcoming",
+            "group_title": "Cycling",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790632238540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790632238540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/tapmad-PAKvsWI-BKd2-TesT\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -243,6 +243,22 @@
             "group_title": "Upcoming",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790061713540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790061713540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17649,
+            "title": "PWD Sports Club vs Brothers Union Ltd",
+            "header_name": "Round 2 - Bangladesh Football League 2026\/27",
+            "description": "Watch PWD Sports Club vs Brothers Union Ltd in the Bangladesh Football League 2026\/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The PWD Sports Club vs Brothers Union Ltd match will take place on 26-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-02 21:00:00",
+            "seo_title": "bangladesh-football-league-2026",
+            "category_seo_title": "bangladesh-football-league-2026",
+            "group_title": "Upcoming",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790061899540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790061899540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
