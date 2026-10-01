@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "11:00:06 PM 01-10-2026",
-    "total_matches": 16,
-    "live_match": 1,
+    "last_update_time": "12:00:12 AM 02-10-2026",
+    "total_matches": 23,
+    "live_match": 8,
     "upcoming_match": 15,
     "matches": [
         {
@@ -20,10 +20,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790633775540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
+            "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17876,
             "title": "Israel vs Kosovo",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -35,10 +35,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790633961540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17877,
             "title": "Greece vs Netherlands",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -50,10 +50,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790634282540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17878,
             "title": "Germany vs Serbia",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -65,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790634444540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17879,
             "title": "Ireland vs Austria",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -80,10 +80,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790634594540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17880,
             "title": "Wales vs Norway",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -95,10 +95,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790634792540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17881,
             "title": "Malta vs Gibraltar",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -110,10 +110,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790635117540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17882,
             "title": "Denmark vs Portugal",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -125,7 +125,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790635367540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -243,6 +243,111 @@
             "category_seo_title": "kazakhstan-vs-moldova-unl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790672217540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790672217540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18073,
+            "title": "Mostafa Neda vs Osama Elsaidy",
+            "header_name": "PFL MENA 11 - PFL 2026",
+            "description": "Watch Mostafa Neda vs Osama Elsaidy live online on tapmad. The PFL 2026 will feature the world's greatest MMA fighters going up against each other on the grandest stage. Enjoy the deadliest knockouts, fierce punches, and match-winning moments in HD and ad-free on tapmad!",
+            "start_time_bd": "2026-10-03 02:00:00",
+            "seo_title": "pfl-2026-Mostafa-Neda-vs-Osama-live",
+            "category_seo_title": "pfl-2026-Mostafa-Neda-vs-Osama-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790678399540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790678399540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17884,
+            "title": "Cyprus vs Armenia",
+            "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
+            "description": "Watch Cyprus vs Armenia live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Cyprus vs Armenia match will take place on 02-Oct, Friday, at 10:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-03 04:00:00",
+            "seo_title": "cyprus-vs-armenia-unl-live-match",
+            "category_seo_title": "cyprus-vs-armenia-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790672494540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790672494540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17885,
+            "title": "Latvia vs Montenegro",
+            "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
+            "description": "Watch Latvia vs Montenegro live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Latvia vs Montenegro match will take place on 02-Oct, Friday, at 10:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-03 04:00:00",
+            "seo_title": "latvia-vs-montenegro-unl-live-match",
+            "category_seo_title": "latvia-vs-montenegro-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790672838540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790672838540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17886,
+            "title": "Poland vs Romania",
+            "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
+            "description": "Watch Poland vs Romania live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Poland vs Romania match will take place on 03-Oct, Saturday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-03 06:45:00",
+            "seo_title": "poland-vs-romania-unl-live-match",
+            "category_seo_title": "poland-vs-romania-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790673176540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790673176540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17887,
+            "title": "Faroe Islands vs Slovakia",
+            "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
+            "description": "Watch Faroe Islands vs Slovakia live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Faroe Islands vs Slovakia match will take place on 03-Oct, Saturday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-03 06:45:00",
+            "seo_title": "faroe islands-vs-slovakia-unl-live-match",
+            "category_seo_title": "faroe islands-vs-slovakia-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790673420540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790673420540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17888,
+            "title": "Belgium vs Turkiye",
+            "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
+            "description": "Watch Belgium vs Turkiye live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Belgium vs Turkiye match will take place on 03-Oct, Saturday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-03 06:45:00",
+            "seo_title": "belgium-vs-turkiye-unl-live-match",
+            "category_seo_title": "belgium-vs-turkiye-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790673614540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790673614540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17889,
+            "title": "Hungary vs Georgia",
+            "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
+            "description": "Watch Hungary vs Georgia live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Hungary vs Georgia match will take place on 03-Oct, Saturday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-03 06:45:00",
+            "seo_title": "hungary-vs-georgia-unl-live-match",
+            "category_seo_title": "hungary-vs-georgia-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790673877540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790673877540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
