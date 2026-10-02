@@ -2,43 +2,13 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "11:00:07 AM 02-10-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "12:00:05 PM 02-10-2026",
+    "total_matches": 16,
+    "live_match": 1,
     "upcoming_match": 15,
     "matches": [
         {
             "status": "LIVE",
-            "content_entity_id": 18007,
-            "title": "Pole Position - Grand Prix of Shanghai China Live",
-            "header_name": "Race - UIM - ABP Aquabike World Championship 2026",
-            "description": "Watch Pole Position - Grand Prix of Shanghai China in the UIM-ABP Aquabike World Championship 2026. The UIM-ABP Aquabike World Championship 2026 brings together elite riders for high-speed international aquabike racing. Featuring powerful watercraft, intense racing battles, technical skill, speed, and spectacular finishes, every round delivers thrilling motorsport action. Watch the UIM-ABP Aquabike World Championship 2026 live in HD on tapmad via app, web, or Smart TV. Catch every race, overtaking battle, and key moment live on tapmad.",
-            "start_time_bd": "2026-10-02 14:15:00",
-            "seo_title": "uim-abp-aquabike-world-championship-2026",
-            "category_seo_title": "uim-abp-aquabike-world-championship-2026",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790680879540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790680879540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/j15klM\/\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 17982,
-            "title": "Pandan Indah to Rembau",
-            "header_name": "Stage 6 - Le Tour de Langkawi 2026",
-            "description": "Le Tour de Langkawi, Malaysia 2026 brings together top cyclists from around the world for an exciting and challenging professional road cycling competition. Featuring demanding routes, high-speed racing, tough climbs, strategic attacks, and thrilling sprint finishes, every stage delivers intense cycling action. Watch Le Tour de Langkawi, Malaysia 2026 live in HD on tapmad via app, web, or Smart TV. Catch every stage, breakaway, climb, sprint, and thrilling finish live on tapmad.",
-            "start_time_bd": "2026-10-02 14:45:00",
-            "seo_title": "le-tour-de-langkawi-malaysia-2026",
-            "category_seo_title": "le-tour-de-langkawi-malaysia-2026",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790677600540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790677600540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/tapmad-PAKvsWI-BKd2-TesT\/master.m3u8"
-        },
-        {
-            "status": "UPCOMING",
             "content_entity_id": 18084,
             "title": "Pakistan U19 vs Bangladesh U19",
             "header_name": "Group Stage - Pakistan Women's Under-19s T20 Tri-Series 2026",
@@ -50,7 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790772798540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/serieAleague.akamaized.net\/hls\/live\/2107107\/Tapmad-KjL52\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -258,6 +228,21 @@
             "category_seo_title": "france-vs-italy-unl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790674509540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790674509540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17892,
+            "title": "Ukraine vs Northern Ireland",
+            "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
+            "description": "Watch Ukraine vs Northern Ireland live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Ukraine vs Northern Ireland match will take place on 03-Oct, Saturday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-03 06:45:00",
+            "seo_title": "ukraine-vs-northern ireland-unl-live-match",
+            "category_seo_title": "ukraine-vs-northern ireland-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790674734540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790674734540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
