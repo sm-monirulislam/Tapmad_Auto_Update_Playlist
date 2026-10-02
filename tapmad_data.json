@@ -2,13 +2,13 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "07:00:05 PM 02-10-2026",
-    "total_matches": 15,
-    "live_match": 0,
+    "last_update_time": "08:00:06 PM 02-10-2026",
+    "total_matches": 17,
+    "live_match": 2,
     "upcoming_match": 15,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17883,
             "title": "Kazakhstan vs Moldova",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -20,10 +20,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790672217540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18073,
             "title": "Mostafa Neda vs Osama Elsaidy",
             "header_name": "PFL MENA 11 - PFL 2026",
@@ -228,6 +228,36 @@
             "category_seo_title": "gtwc-asia-qualification-race-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790774032540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790774032540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18176,
+            "title": "SRO GT CUP - Race 1",
+            "header_name": "Race 1 - GT World Challenge EU & Asia 2026",
+            "description": "The SRO GT CUP - Race 1 match is scheduled to take place on 03-Oct, at 11:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web or smart TV.",
+            "start_time_bd": "2026-10-03 17:00:00",
+            "seo_title": "sro-gt-cup-race-1-live",
+            "category_seo_title": "sro-gt-cup-race-1-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790774807540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790774807540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17988,
+            "title": "Malaka to Batu Pahat Live",
+            "header_name": "Stage 7 - Le Tour de Langkawi 2026",
+            "description": "Le Tour de Langkawi, Malaysia 2026 brings together top cyclists from around the world for an exciting and challenging professional road cycling competition. Featuring demanding routes, high-speed racing, tough climbs, strategic attacks, and thrilling sprint finishes, every stage delivers intense cycling action. Watch Le Tour de Langkawi, Malaysia 2026 live in HD on tapmad via app, web, or Smart TV. Catch every stage, breakaway, climb, sprint, and thrilling finish live on tapmad.",
+            "start_time_bd": "2026-10-03 17:30:00",
+            "seo_title": "le-tour-de-langkawi-malaysia-2026",
+            "category_seo_title": "le-tour-de-langkawi-malaysia-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790754380540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790754380540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
