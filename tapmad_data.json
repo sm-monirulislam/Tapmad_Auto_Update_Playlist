@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "02:00:06 PM 02-10-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "03:00:10 PM 02-10-2026",
+    "total_matches": 20,
+    "live_match": 5,
     "upcoming_match": 15,
     "matches": [
         {
@@ -38,7 +38,7 @@
             "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/j15klM\/\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17647,
             "title": "Fakirerpool Young Mens Club vs Mohammedan SC Ltd",
             "header_name": "Round 2 - Bangladesh Football League 2026\/27",
@@ -50,10 +50,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790061626540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17648,
             "title": "Chattogram City FC vs Bangladesh Police FC",
             "header_name": "Round 2 - Bangladesh Football League 2026\/27",
@@ -65,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790061713540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/d8j84o343a5m2.cloudfront.net\/live\/testtapmad3\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17649,
             "title": "PWD Sports Club vs Brothers Union Ltd",
             "header_name": "Round 2 - Bangladesh Football League 2026\/27",
@@ -80,7 +80,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790061899540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/d8j84o343a5m2.cloudfront.net\/live\/testtapmad4\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -258,6 +258,51 @@
             "category_seo_title": "qualifying-race-inje-south-korea-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790753362540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790753362540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18164,
+            "title": "SRO GT CUP - Qualifying 1",
+            "header_name": "Qualifying 1 - GT World Challenge EU & Asia 2026",
+            "description": "The SRO GT CUP - Qualifying 1 match is scheduled to take place on 03-Oct, at 07:50 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web or smart TV.",
+            "start_time_bd": "2026-10-03 13:50:00",
+            "seo_title": "sro-gt-cup-qualifying-1-live",
+            "category_seo_title": "sro-gt-cup-qualifying-1-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790769296540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790769296540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18019,
+            "title": "Moto 2 - Grand Prix of Shanghai China Live",
+            "header_name": "Race - UIM - ABP Aquabike World Championship 2026",
+            "description": "Watch Moto 2 - Grand Prix of Shanghai China in the UIM-ABP Aquabike World Championship 2026. The UIM-ABP Aquabike World Championship 2026 brings together elite riders for high-speed international aquabike racing. Featuring powerful watercraft, intense racing battles, technical skill, speed, and spectacular finishes, every round delivers thrilling motorsport action. Watch the UIM-ABP Aquabike World Championship 2026 live in HD on tapmad via app, web, or Smart TV. Catch every race, overtaking battle, and key moment live on tapmad.",
+            "start_time_bd": "2026-10-03 14:15:00",
+            "seo_title": "uim-abp-aquabike-world-championship-2026",
+            "category_seo_title": "uim-abp-aquabike-world-championship-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790681873540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790681873540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18170,
+            "title": "GTWC ASIA - Qualification Race",
+            "header_name": "Qualification Race - GT World Challenge EU & Asia 2026",
+            "description": "The GTWC ASIA - Qualification Race match is scheduled to take place on 03-Oct, at 09:45 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web or smart TV.",
+            "start_time_bd": "2026-10-03 15:45:00",
+            "seo_title": "gtwc-asia-qualification-race-live",
+            "category_seo_title": "gtwc-asia-qualification-race-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790774032540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790774032540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
