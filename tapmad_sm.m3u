@@ -3,28 +3,19 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:00:11 AM 03-10-2026 (BD Time)
-# All channel : 7
+# Last Updated: 01:00:09 AM 03-10-2026 (BD Time)
+# All channel : 4
 #=================================
 
-#EXTINF:-1 tvg-id="tapmad-18073" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790678399540x302.jpg" group-title="Mma",Mostafa Neda vs Osama Elsaidy - PFL MENA 11 - PFL 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-17884" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790672494540x302.jpg" group-title="Football",Cyprus vs Armenia - MATCHDAY 3 - UEFA Nations League 2026/27
+#EXTINF:-1 tvg-id="tapmad-17886" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790673176540x302.jpg" group-title="Football",Poland vs Romania - MATCHDAY 3 - UEFA Nations League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-17885" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790672838540x302.jpg" group-title="Football",Latvia vs Montenegro - MATCHDAY 3 - UEFA Nations League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-17886" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790673176540x302.jpg" group-title="Football",Poland vs Romania - MATCHDAY 3 - UEFA Nations League 2026/27
-https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
-
 #EXTINF:-1 tvg-id="tapmad-17888" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790673614540x302.jpg" group-title="Football",Belgium vs Turkiye - MATCHDAY 3 - UEFA Nations League 2026/27
-https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-17889" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790673877540x302.jpg" group-title="Football",Hungary vs Georgia - MATCHDAY 3 - UEFA Nations League 2026/27
-https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-17891" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790674509540x302.jpg" group-title="Football",France vs Italy - MATCHDAY 3 - UEFA Nations League 2026/27
-https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
