@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "11:00:07 PM 02-10-2026",
-    "total_matches": 18,
-    "live_match": 3,
+    "last_update_time": "12:00:11 AM 03-10-2026",
+    "total_matches": 25,
+    "live_match": 10,
     "upcoming_match": 15,
     "matches": [
         {
@@ -53,7 +53,7 @@
             "stream_url": "https:\/\/serieAleague.akamaized.net\/hls\/live\/2107107\/tap-BK-PSL-D1-E\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17886,
             "title": "Poland vs Romania",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -65,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790673176540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17887,
             "title": "Faroe Islands vs Slovakia",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -83,7 +83,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17888,
             "title": "Belgium vs Turkiye",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -95,10 +95,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790673614540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17889,
             "title": "Hungary vs Georgia",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -110,10 +110,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790673877540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17890,
             "title": "Bosnia and Herzegovina vs Sweden",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -128,7 +128,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17891,
             "title": "France vs Italy",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -140,10 +140,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790674509540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17892,
             "title": "Ukraine vs Northern Ireland",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -273,6 +273,111 @@
             "category_seo_title": "pakistan-womens-under-19s-t20-tri-series-2026-27",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790772939540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790772939540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18037,
+            "title": "Round 10 Race - Inje, South Korea Live",
+            "header_name": "Race - Kumho FIA TCR World Tour Euro Series 2026",
+            "description": "Live Stream Round 10 Race - Inje, South Korea Live online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-03 18:05:00",
+            "seo_title": "round-10-race-inje-south-korea-live",
+            "category_seo_title": "round-10-race-inje-south-korea-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790753745540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790753745540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18182,
+            "title": "GTWC ASIA - Race 1",
+            "header_name": "Race 1 - GT World Challenge EU & Asia 2026",
+            "description": "The GTWC ASIA - Race 1 match is scheduled to take place on 03-Oct, at 01:20 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-03 19:20:00",
+            "seo_title": "gtwc-asia-race-1-live",
+            "category_seo_title": "gtwc-asia-race-1-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790775999540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790775999540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18098,
+            "title": "GT World Challenge powered by AWS - Qualifying 1 (Group A & B) Live",
+            "header_name": "Qualifying 1 - GT World Challenge EU & Asia 2026",
+            "description": "The GT World Challenge EU & Asia 2026 GT World Challenge powered by AWS - Qualifying 1 (Group A & B). Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-03 19:50:00",
+            "seo_title": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws-qualifying-1-group-a-&-b-live",
+            "category_seo_title": "gt-world-challenge-eu-&-asia-2026-gt-world-challenge-powered-by-aws-qualifying-1-group-a-&-b-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790759140540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790759140540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18104,
+            "title": "GT3 Revival Series - Qualifying 1 & 2",
+            "header_name": "Qualifying Round 1 & 2 - GT World Challenge EU & Asia 2026",
+            "description": "The  GT3 Revival Series - Qualifying 1 & 2 match is scheduled to take place on 3-Oct, at 14:25 PM. Experience high-speed action, elite drivers and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web or smart TV.",
+            "start_time_bd": "2026-10-03 20:25:00",
+            "seo_title": "gt3-revival-series-qualifying-1-&-2-live",
+            "category_seo_title": "gt3-revival-series-qualifying-1-&-2-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790762179540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790762179540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17713,
+            "title": "India vs West Indies",
+            "header_name": "3rd ODI - West Indies Tour of India 2026",
+            "description": "The West Indies Tour of India 2026 brings two competitive cricket sides together for an exciting international series. The tour features 3 ODIs and 5 T20Is, running from September 27 to October 17, 2026. India’s ODI side will be led by Shubman Gill, while Shreyas Iyer will captain the T20I team. Shai Hope will lead the West Indies across the series. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the tour. Watch India vs West Indies 2026 live in HD on tapmad via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
+            "start_time_bd": "2026-10-03 20:30:00",
+            "seo_title": "west-indies-tour-of-india-2026",
+            "category_seo_title": "west-indies-tour-of-india-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790336435540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790336435540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17650,
+            "title": "Dhaka Wanderers Club vs Abahani Ltd. Dhaka",
+            "header_name": "Round 2 - Bangladesh Football League 2026\/27",
+            "description": "Watch Dhaka Wanderers Club vs Abahani Ltd. Dhaka in the Bangladesh Football League 2026\/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Dhaka Wanderers Club vs Abahani Ltd. Dhaka match will take place on 26-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-03 21:00:00",
+            "seo_title": "bangladesh-football-league-2026",
+            "category_seo_title": "bangladesh-football-league-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790061968540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790061968540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17651,
+            "title": "Arambagh Krira Shangha vs Rahamatgonj MFS",
+            "header_name": "Round 2 - Bangladesh Football League 2026\/27",
+            "description": "Watch Arambagh Krira Shangha vs Rahamatgonj MFS in the Bangladesh Football League 2026\/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Arambagh Krira Shangha vs Rahamatgonj MFS match will take place on 26-Sep, at 03:00 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-03 21:00:00",
+            "seo_title": "bangladesh-football-league-2026",
+            "category_seo_title": "bangladesh-football-league-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790062060540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790062060540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
