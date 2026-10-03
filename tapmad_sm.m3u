@@ -3,18 +3,9 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:00:08 AM 04-10-2026 (BD Time)
-# All channel : 4
+# Last Updated: 03:00:06 AM 04-10-2026 (BD Time)
+# All channel : 1
 #=================================
-
-#EXTINF:-1 tvg-id="tapmad-17898" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790751998540x302.jpg" group-title="Football",Switzerland vs Slovenia - MATCHDAY 3 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-17899" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790752183540x302.jpg" group-title="Football",North Macedonia vs Scotland - MATCHDAY 3 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-17900" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790752296540x302.jpg" group-title="Football",Spain vs Czechia - MATCHDAY 3 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18241" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790924132540x302.jpg" group-title="Horse Riding",FEI NAL - Pueblo, MEX Live - Race - Longines FEI Jumping World Cup 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
