@@ -2,26 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "08:00:08 AM 03-10-2026",
+    "last_update_time": "09:00:08 AM 03-10-2026",
     "total_matches": 18,
     "live_match": 3,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 18031,
-            "title": "Qualifying Race - Inje, South Korea Live",
-            "header_name": "Qualifying Race - Kumho FIA TCR World Tour Euro Series 2026",
-            "description": "Live Stream Qualifying Race - Inje, South Korea Live online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-10-03 12:55:00",
-            "seo_title": "qualifying-race-inje-south-korea-live",
-            "category_seo_title": "qualifying-race-inje-south-korea-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790753362540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790753362540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/j15klM\/\/master.m3u8"
-        },
         {
             "status": "LIVE",
             "content_entity_id": 18164,
@@ -50,10 +35,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790681873540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
+            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/Laliga-2026\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18170,
             "title": "GTWC ASIA - Qualification Race",
             "header_name": "Qualification Race - GT World Challenge EU & Asia 2026",
@@ -65,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790774032540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -273,6 +258,21 @@
             "category_seo_title": "mclaren-trophy-europe-race-1-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790763300540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790763300540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18116,
+            "title": "GT World Challenge powered by AWS - Race 1",
+            "header_name": "Race 1 - GT World Challenge EU & Asia 2026",
+            "description": "The GT World Challenge powered by AWS match is scheduled to take place on 03-Oct, at 06:00 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web or smart TV.",
+            "start_time_bd": "2026-10-04 00:00:00",
+            "seo_title": "gt-world-challenge-powered-by-aws-live",
+            "category_seo_title": "gt-world-challenge-powered-by-aws-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790764457540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790764457540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
