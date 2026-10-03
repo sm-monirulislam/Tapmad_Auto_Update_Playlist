@@ -2,26 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "10:00:07 AM 03-10-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "11:00:08 AM 03-10-2026",
+    "total_matches": 19,
+    "live_match": 4,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 18019,
-            "title": "Moto 2 - Grand Prix of Shanghai China Live",
-            "header_name": "Race - UIM - ABP Aquabike World Championship 2026",
-            "description": "Watch Moto 2 - Grand Prix of Shanghai China in the UIM-ABP Aquabike World Championship 2026. The UIM-ABP Aquabike World Championship 2026 brings together elite riders for high-speed international aquabike racing. Featuring powerful watercraft, intense racing battles, technical skill, speed, and spectacular finishes, every round delivers thrilling motorsport action. Watch the UIM-ABP Aquabike World Championship 2026 live in HD on tapmad via app, web, or Smart TV. Catch every race, overtaking battle, and key moment live on tapmad.",
-            "start_time_bd": "2026-10-03 14:15:00",
-            "seo_title": "uim-abp-aquabike-world-championship-2026",
-            "category_seo_title": "uim-abp-aquabike-world-championship-2026",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790681873540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790681873540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/Laliga-2026\/master.m3u8"
-        },
         {
             "status": "LIVE",
             "content_entity_id": 18170,
@@ -35,10 +20,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790774032540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/tapmad-PAKvsWI-BKd2-TesT\/master.m3u8"
+            "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18176,
             "title": "SRO GT CUP - Race 1",
             "header_name": "Race 1 - GT World Challenge EU & Asia 2026",
@@ -50,10 +35,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790774807540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/tapmad-PAKvsWI-BKd2-TesT\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17988,
             "title": "Malaka to Batu Pahat Live",
             "header_name": "Stage 7 - Le Tour de Langkawi 2026",
@@ -65,10 +50,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790754380540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18025,
             "title": "Moto 3 - Grand Prix of Shanghai China Live",
             "header_name": "Race - UIM - ABP Aquabike World Championship 2026",
@@ -80,7 +65,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790682838540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -258,6 +243,51 @@
             "category_seo_title": "gt-world-challenge-powered-by-aws-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790764457540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790764457540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17893,
+            "title": "Finland vs Albania",
+            "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
+            "description": "Watch Finland vs Albania live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Finland vs Albania match will take place on 03-Oct, Saturday, at 07:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-04 01:00:00",
+            "seo_title": "finland-vs-albania-unl-live-match",
+            "category_seo_title": "finland-vs-albania-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790686080540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790686080540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18122,
+            "title": "GT3 Revival Series - Race 1",
+            "header_name": "Race 1 - GT World Challenge EU & Asia 2026",
+            "description": "The GT3 Revival Series - Race 1 match is scheduled to take place on 03-Oct, at 07:30 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-04 01:30:00",
+            "seo_title": "gt3-revival-series-race-1-live",
+            "category_seo_title": "gt3-revival-series-race-1-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790765573540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790765573540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18128,
+            "title": "Lamborghini Super Trofeo - Race 1",
+            "header_name": "Race 1 - GT World Challenge EU & Asia 2026",
+            "description": "The Lamborghini Super Trofeo - Race 1 match is scheduled to take place on 03-Oct, at 08:50 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web or smart TV.",
+            "start_time_bd": "2026-10-04 02:50:00",
+            "seo_title": "lamborghini-super-trofeo-race-1-live",
+            "category_seo_title": "lamborghini-super-trofeo-race-1-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790767114540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790767114540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
