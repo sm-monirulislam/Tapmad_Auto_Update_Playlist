@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:00:07 PM 03-10-2026",
-    "total_matches": 18,
-    "live_match": 3,
+    "last_update_time": "10:00:09 PM 03-10-2026",
+    "total_matches": 21,
+    "live_match": 6,
     "upcoming_match": 15,
     "matches": [
         {
@@ -24,21 +24,6 @@
         },
         {
             "status": "LIVE",
-            "content_entity_id": 17893,
-            "title": "Finland vs Albania",
-            "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
-            "description": "Watch Finland vs Albania live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Finland vs Albania match will take place on 03-Oct, Saturday, at 07:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-10-04 01:00:00",
-            "seo_title": "finland-vs-albania-unl-live-match",
-            "category_seo_title": "finland-vs-albania-unl-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790686080540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790686080540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/serieAleague.akamaized.net\/hls\/live\/2107107\/A1@25853-tapmad\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
             "content_entity_id": 18128,
             "title": "Lamborghini Super Trofeo - Race 1",
             "header_name": "Race 1 - GT World Challenge EU & Asia 2026",
@@ -53,7 +38,7 @@
             "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/tapmad-PAKvsWI-BKd2-TesT\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17894,
             "title": "Iceland vs Bulgaria",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -65,10 +50,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790686311540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17895,
             "title": "Belarus vs San Marino",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -83,7 +68,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17896,
             "title": "Croatia vs England",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -95,10 +80,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790686708540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/FiFa-3827e1\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17897,
             "title": "Estonia vs Luxembourg",
             "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
@@ -110,7 +95,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790751836540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/56408643-tapMad\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -273,6 +258,66 @@
             "category_seo_title": "round-12-race-inje-south-korea-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790764831540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790764831540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18212,
+            "title": "SRO GT CUP - Race 4",
+            "header_name": "Race 4 - GT World Challenge EU & Asia 2026",
+            "description": "The  SRO GT CUP - Race 4 match is scheduled to take place on 04-Oct, at 12:25 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-04 18:25:00",
+            "seo_title": "-sro-gt-cup---race-4-live",
+            "category_seo_title": "-sro-gt-cup---race-4-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790858901540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790858901540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17994,
+            "title": "Muar to Putrajaya",
+            "header_name": "Stage 8 - Le Tour de Langkawi 2026",
+            "description": "Le Tour de Langkawi, Malaysia 2026 brings together top cyclists from around the world for an exciting and challenging professional road cycling competition. Featuring demanding routes, high-speed racing, tough climbs, strategic attacks, and thrilling sprint finishes, every stage delivers intense cycling action. Watch Le Tour de Langkawi, Malaysia 2026 live in HD on tapmad via app, web, or Smart TV. Catch every stage, breakaway, climb, sprint, and thrilling finish live on tapmad.",
+            "start_time_bd": "2026-10-04 18:30:00",
+            "seo_title": "le-tour-de-langkawi-malaysia-2026",
+            "category_seo_title": "le-tour-de-langkawi-malaysia-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790763337540x302.jpg",
+            "tv_image": "",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18061,
+            "title": "Sprint Race - Shanghai, China Live",
+            "header_name": "Race - UIM F1H2O World Championship 2026",
+            "description": "Watch UIM F1H2O World Championship live on tapmad and experience the excitement of the world’s premier powerboat racing championship. Featuring elite racers, high-speed action, and intense battles on water circuits across the globe, every event delivers nonstop adrenaline and thrilling moments. From dramatic overtakes to championship-defining races, stream all the action live in HD anytime on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-04 19:35:00",
+            "seo_title": "sprint-race-shanghai-china--live",
+            "category_seo_title": "sprint-race-shanghai-china--live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790770062540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790770062540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18134,
+            "title": "GT3 Revival Series - Race 2",
+            "header_name": "Race 2 - GT World Challenge EU & Asia 2026",
+            "description": "The  GT3 Revival Series - Race 2 match is scheduled to take place on 04-Oct, at 02:10 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web or smart TV.",
+            "start_time_bd": "2026-10-04 20:10:00",
+            "seo_title": "gt3-revival-series-race-2-live",
+            "category_seo_title": "gt3-revival-series-race-2-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790840262540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790840262540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
