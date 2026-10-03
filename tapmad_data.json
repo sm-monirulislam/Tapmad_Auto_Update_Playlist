@@ -2,41 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "01:00:12 PM 03-10-2026",
-    "total_matches": 22,
-    "live_match": 7,
+    "last_update_time": "02:00:09 PM 03-10-2026",
+    "total_matches": 20,
+    "live_match": 5,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 18176,
-            "title": "SRO GT CUP - Race 1",
-            "header_name": "Race 1 - GT World Challenge EU & Asia 2026",
-            "description": "The SRO GT CUP - Race 1 match is scheduled to take place on 03-Oct, at 11:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web or smart TV.",
-            "start_time_bd": "2026-10-03 17:00:00",
-            "seo_title": "sro-gt-cup-race-1-live",
-            "category_seo_title": "sro-gt-cup-race-1-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790774807540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790774807540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/tapmad-PAKvsWI-BKd2-TesT\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 17988,
-            "title": "Malaka to Batu Pahat Live",
-            "header_name": "Stage 7 - Le Tour de Langkawi 2026",
-            "description": "Le Tour de Langkawi, Malaysia 2026 brings together top cyclists from around the world for an exciting and challenging professional road cycling competition. Featuring demanding routes, high-speed racing, tough climbs, strategic attacks, and thrilling sprint finishes, every stage delivers intense cycling action. Watch Le Tour de Langkawi, Malaysia 2026 live in HD on tapmad via app, web, or Smart TV. Catch every stage, breakaway, climb, sprint, and thrilling finish live on tapmad.",
-            "start_time_bd": "2026-10-03 17:30:00",
-            "seo_title": "le-tour-de-langkawi-malaysia-2026",
-            "category_seo_title": "le-tour-de-langkawi-malaysia-2026",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790754380540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790754380540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/j15klM\/\/master.m3u8"
-        },
         {
             "status": "LIVE",
             "content_entity_id": 18025,
@@ -69,36 +39,6 @@
         },
         {
             "status": "LIVE",
-            "content_entity_id": 18037,
-            "title": "Round 10 Race - Inje, South Korea Live",
-            "header_name": "Race - Kumho FIA TCR World Tour Euro Series 2026",
-            "description": "Live Stream Round 10 Race - Inje, South Korea Live online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-10-03 18:05:00",
-            "seo_title": "round-10-race-inje-south-korea-live",
-            "category_seo_title": "round-10-race-inje-south-korea-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790753745540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790753745540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/Laliga-2026\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 18182,
-            "title": "GTWC ASIA - Race 1",
-            "header_name": "Race 1 - GT World Challenge EU & Asia 2026",
-            "description": "The GTWC ASIA - Race 1 match is scheduled to take place on 03-Oct, at 01:20 PM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-10-03 19:20:00",
-            "seo_title": "gtwc-asia-race-1-live",
-            "category_seo_title": "gtwc-asia-race-1-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790775999540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790775999540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
             "content_entity_id": 18098,
             "title": "GT World Challenge powered by AWS - Qualifying 1 (Group A & B) Live",
             "header_name": "Qualifying 1 - GT World Challenge EU & Asia 2026",
@@ -113,7 +53,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18104,
             "title": "GT3 Revival Series - Qualifying 1 & 2",
             "header_name": "Qualifying Round 1 & 2 - GT World Challenge EU & Asia 2026",
@@ -128,7 +68,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17713,
             "title": "India vs West Indies",
             "header_name": "3rd ODI - West Indies Tour of India 2026",
@@ -140,7 +80,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790336435540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/306-tapmad\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -333,6 +273,36 @@
             "category_seo_title": "estonia-vs-luxembourg-unl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790751836540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790751836540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17898,
+            "title": "Switzerland vs Slovenia",
+            "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
+            "description": "Watch Switzerland vs Slovenia live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Switzerland vs Slovenia match will take place on 04-Oct, Sunday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-04 06:45:00",
+            "seo_title": "switzerland-vs-slovenia-unl-live-match",
+            "category_seo_title": "switzerland-vs-slovenia-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790751998540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790751998540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17899,
+            "title": "North Macedonia vs Scotland",
+            "header_name": "MATCHDAY 3 - UEFA Nations League 2026\/27",
+            "description": "Watch North Macedonia vs Scotland live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The North Macedonia vs Scotland match will take place on 04-Oct, Sunday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-04 06:45:00",
+            "seo_title": "north macedonia-vs-scotland-unl-live-match",
+            "category_seo_title": "north macedonia-vs-scotland-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790752183540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790752183540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
