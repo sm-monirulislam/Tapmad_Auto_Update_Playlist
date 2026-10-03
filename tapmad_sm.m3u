@@ -3,8 +3,8 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:00:09 PM 03-10-2026 (BD Time)
-# All channel : 5
+# Last Updated: 01:00:12 PM 03-10-2026 (BD Time)
+# All channel : 6
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-18176" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790774807540x302.jpg" group-title="Racing",SRO GT CUP - Race 1 - Race 1 - GT World Challenge EU & Asia 2026
@@ -21,4 +21,7 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18037" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790753745540x302.jpg" group-title="Racing",Round 10 Race - Inje, South Korea Live - Race - Kumho FIA TCR World Tour Euro Series 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18182" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790775999540x302.jpg" group-title="Racing",GTWC ASIA - Race 1 - Race 1 - GT World Challenge EU & Asia 2026
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
 
