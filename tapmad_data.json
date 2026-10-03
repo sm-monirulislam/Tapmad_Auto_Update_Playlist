@@ -2,41 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "03:00:10 PM 03-10-2026",
-    "total_matches": 22,
-    "live_match": 7,
+    "last_update_time": "04:00:10 PM 03-10-2026",
+    "total_matches": 21,
+    "live_match": 6,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 18085,
-            "title": "Pakistan U19 vs Sri Lanka U19",
-            "header_name": "Group Stage - Pakistan Women's Under-19s T20 Tri-Series 2026",
-            "description": "The Pakistan Women's Under-19s T20 Tri-Series 2026\/27 brings together Pakistan, Sri Lanka, and Bangladesh for an exciting U19 T20 cricket competition in Faisalabad. Featuring emerging talent, powerful batting, disciplined bowling, competitive matchups, and thrilling finishes, the tri-series showcases the next generation of women's cricket stars. Watch Pakistan Women's Under-19s T20 Tri-Series 2026\/27 live in HD on tapmad via app, web, or Smart TV. Catch every run, wicket, boundary, partnership, and match-defining moment live on tapmad.",
-            "start_time_bd": "2026-10-03 18:00:00",
-            "seo_title": "pakistan-womens-under-19s-t20-tri-series-2026-27",
-            "category_seo_title": "pakistan-womens-under-19s-t20-tri-series-2026-27",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790772939540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790772939540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/56408643-tapMad\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 18104,
-            "title": "GT3 Revival Series - Qualifying 1 & 2",
-            "header_name": "Qualifying Round 1 & 2 - GT World Challenge EU & Asia 2026",
-            "description": "The  GT3 Revival Series - Qualifying 1 & 2 match is scheduled to take place on 3-Oct, at 14:25 PM. Experience high-speed action, elite drivers and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web or smart TV.",
-            "start_time_bd": "2026-10-03 20:25:00",
-            "seo_title": "gt3-revival-series-qualifying-1-&-2-live",
-            "category_seo_title": "gt3-revival-series-qualifying-1-&-2-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790762179540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790762179540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
         {
             "status": "LIVE",
             "content_entity_id": 17713,
@@ -110,10 +80,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790776702540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
+            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/tapmad-PAKvsWI-BKd2-TesT\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18110,
             "title": "McLaren Trophy Europe - Race 1",
             "header_name": "Race 1 - GT World Challenge EU & Asia 2026",
@@ -125,7 +95,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790763300540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -333,6 +303,21 @@
             "category_seo_title": "sro-gt-cup-qualifying-2-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790851740540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790851740540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18043,
+            "title": "Round 11 Race - Inje, South Korea Live",
+            "header_name": "Race - Kumho FIA TCR World Tour Euro Series 2026",
+            "description": "Live Stream Round 11 Race - Inje, South Korea Live online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-04 13:15:00",
+            "seo_title": "round-11-race-inje-south-korea-live",
+            "category_seo_title": "round-11-race-inje-south-korea-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790764258540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790764258540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
