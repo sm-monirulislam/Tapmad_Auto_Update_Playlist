@@ -2,26 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:00:07 AM 04-10-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "10:00:07 AM 04-10-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 18228,
-            "title": "Silva vs Wang",
-            "header_name": "UFC 332 - UFC 2026",
-            "description": "UFC 332 Live: Watch Silva vs Wang live online on tapmad. Enjoy watching Silva vs Wang live streaming online in Pakistan with full match highlights. The fight will start at 06:00 AM on 04-Oct. Boost your adrenaline by watching the UFC 332 contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Pakistan via app, web, or smart tv.",
-            "start_time_bd": "2026-10-04 12:00:00",
-            "seo_title": "ufc-332-silva-vs-wang-live",
-            "category_seo_title": "ufc-332-silva-vs-wang-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790762736540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790762736540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/306-tapmad\/master.m3u8"
-        },
         {
             "status": "LIVE",
             "content_entity_id": 18200,
@@ -38,7 +23,7 @@
             "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/j15klM\/\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18055,
             "title": "Qualifying - Shanghai, China Live",
             "header_name": "Qualifying Race - UIM F1H2O World Championship 2026",
@@ -50,10 +35,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790769288540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18206,
             "title": "GTWC ASIA - Race 2",
             "header_name": "Race 2 - GT World Challenge EU & Asia 2026",
@@ -258,6 +243,36 @@
             "category_seo_title": "greece-vs-germany-unl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790756339540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790756339540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17905,
+            "title": "Netherlands vs Serbia",
+            "header_name": "MATCHDAY 4 - UEFA Nations League 2026\/27",
+            "description": "Watch Netherlands vs Serbia live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Netherlands vs Serbia match will take place on 05-Oct, Monday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-05 06:45:00",
+            "seo_title": "netherlands-vs-serbia-unl-live-match",
+            "category_seo_title": "netherlands-vs-serbia-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790756487540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790756487540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17906,
+            "title": "Portugal vs Norway",
+            "header_name": "MATCHDAY 4 - UEFA Nations League 2026\/27",
+            "description": "Watch Portugal vs Norway live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Portugal vs Norway match will take place on 05-Oct, Monday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-05 06:45:00",
+            "seo_title": "portugal-vs-norway-unl-live-match",
+            "category_seo_title": "portugal-vs-norway-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790756678540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790756679540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
