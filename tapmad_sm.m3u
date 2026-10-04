@@ -3,16 +3,22 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:11:40 PM 04-10-2026 (BD Time)
-# All channel : 3
+# Last Updated: 12:00:13 AM 05-10-2026 (BD Time)
+# All channel : 5
 #=================================
 
-#EXTINF:-1 tvg-id="tapmad-17902" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790755946540x302.jpg" group-title="Football",Kosovo vs Austria - MATCHDAY 4 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17904" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790756339540x302.jpg" group-title="Football",Greece vs Germany - MATCHDAY 4 - UEFA Nations League 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-17903" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790756116540x302.jpg" group-title="Football",Malta vs Andorra - MATCHDAY 4 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17905" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790756487540x302.jpg" group-title="Football",Netherlands vs Serbia - MATCHDAY 4 - UEFA Nations League 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-18158" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790850730540x302.jpg" group-title="Racing",GT World Challenge powered by AWS - Race 2 - Race 2 - GT World Challenge EU & Asia 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17906" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790756678540x302.jpg" group-title="Football",Portugal vs Norway - MATCHDAY 4 - UEFA Nations League 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17907" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790756874540x302.jpg" group-title="Football",Wales vs Denmark - MATCHDAY 4 - UEFA Nations League 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17908" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790757113540x302.jpg" group-title="Football",Ireland vs Israel - MATCHDAY 4 - UEFA Nations League 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
 
