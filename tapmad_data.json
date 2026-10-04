@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "08:00:08 AM 04-10-2026",
-    "total_matches": 18,
-    "live_match": 3,
+    "last_update_time": "09:00:07 AM 04-10-2026",
+    "total_matches": 17,
+    "live_match": 2,
     "upcoming_match": 15,
     "matches": [
         {
@@ -24,21 +24,6 @@
         },
         {
             "status": "LIVE",
-            "content_entity_id": 18043,
-            "title": "Round 11 Race - Inje, South Korea Live",
-            "header_name": "Race - Kumho FIA TCR World Tour Euro Series 2026",
-            "description": "Live Stream Round 11 Race - Inje, South Korea Live online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-10-04 13:15:00",
-            "seo_title": "round-11-race-inje-south-korea-live",
-            "category_seo_title": "round-11-race-inje-south-korea-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790764258540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790764258540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/tapmad-PAKvsWI-BKd2-TesT\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
             "content_entity_id": 18200,
             "title": "SRO GT CUP - Race 3",
             "header_name": "Race 3 - GT World Challenge EU & Asia 2026",
@@ -50,7 +35,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790856676540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
+            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/j15klM\/\/master.m3u8"
         },
         {
             "status": "UPCOMING",
