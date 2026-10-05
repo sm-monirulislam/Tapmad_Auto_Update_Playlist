@@ -3,10 +3,28 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:00:09 PM 05-10-2026 (BD Time)
-# All channel : 1
+# Last Updated: 12:00:12 AM 06-10-2026 (BD Time)
+# All channel : 7
 #=================================
 
-#EXTINF:-1 tvg-id="tapmad-17909" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790839399540x302.jpg" group-title="Football",Cyprus vs Latvia - MATCHDAY 4 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17910" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790839595540x302.jpg" group-title="Football",Italy vs Turkiye - MATCHDAY 4 - UEFA Nations League 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17911" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790839914540x302.jpg" group-title="Football",Romania vs Sweden - MATCHDAY 4 - UEFA Nations League 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17912" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790840129540x302.jpg" group-title="Football",Bosnia and Herzegovina vs Poland - MATCHDAY 4 - UEFA Nations League 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17913" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790840644540x302.jpg" group-title="Football",France vs Belgium - MATCHDAY 4 - UEFA Nations League 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17914" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790840863540x302.jpg" group-title="Football",Montenegro vs Armenia - MATCHDAY 4 - UEFA Nations League 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17915" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790841030540x302.jpg" group-title="Football",Ukraine vs Hungary - MATCHDAY 4 - UEFA Nations League 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17916" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790841188540x302.jpg" group-title="Football",Northern Ireland vs Georgia - MATCHDAY 4 - UEFA Nations League 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
 
