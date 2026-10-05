@@ -2,13 +2,13 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "11:00:06 AM 05-10-2026",
-    "total_matches": 15,
-    "live_match": 0,
+    "last_update_time": "12:00:06 PM 05-10-2026",
+    "total_matches": 16,
+    "live_match": 1,
     "upcoming_match": 15,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18086,
             "title": "Sri Lanka U19 vs Bangladesh U19",
             "header_name": "Group Stage - Pakistan Women's Under-19s T20 Tri-Series 2026",
@@ -20,7 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790773565540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/28593jkiL-tapmad\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -228,6 +228,21 @@
             "category_seo_title": "west-indies-tour-of-india-2026",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790842130540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790842130540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17917,
+            "title": "Kazakhstan vs Faroe Islands",
+            "header_name": "MATCHDAY 4 - UEFA Nations League 2026\/27",
+            "description": "Watch Kazakhstan vs Faroe Islands live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Kazakhstan vs Faroe Islands match will take place on 06-Oct, Tuesday, at 08:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-07 02:00:00",
+            "seo_title": "kazakhstan-vs-faroe-islands-unl-live-match",
+            "category_seo_title": "kazakhstan-vs-faroe islands-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790848184540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790848184540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
