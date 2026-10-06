@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:00:08 PM 06-10-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "10:00:08 PM 06-10-2026",
+    "total_matches": 16,
+    "live_match": 1,
     "upcoming_match": 15,
     "matches": [
         {
@@ -21,21 +21,6 @@
             "is_sports": true,
             "is_channel": true,
             "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 17917,
-            "title": "Kazakhstan vs Faroe Islands",
-            "header_name": "MATCHDAY 4 - UEFA Nations League 2026\/27",
-            "description": "Watch Kazakhstan vs Faroe Islands live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Kazakhstan vs Faroe Islands match will take place on 06-Oct, Tuesday, at 08:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-10-07 02:00:00",
-            "seo_title": "kazakhstan-vs-faroe-islands-unl-live-match",
-            "category_seo_title": "kazakhstan-vs-faroe islands-unl-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790848184540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790848184540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/serieAleague.akamaized.net\/hls\/live\/2107107\/A1@25853-tapmad\/master.m3u8"
         },
         {
             "status": "UPCOMING",
