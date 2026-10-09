@@ -2,26 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "03:00:06 PM 09-10-2026",
-    "total_matches": 18,
-    "live_match": 3,
+    "last_update_time": "04:00:08 PM 09-10-2026",
+    "total_matches": 21,
+    "live_match": 6,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 18089,
-            "title": "Pakistan U19 vs Sri Lanka U19",
-            "header_name": "Group Stage - Pakistan Women's Under-19s T20 Tri-Series 2026",
-            "description": "The Pakistan Women's Under-19s T20 Tri-Series 2026\/27 brings together Pakistan, Sri Lanka, and Bangladesh for an exciting U19 T20 cricket competition in Faisalabad. Featuring emerging talent, powerful batting, disciplined bowling, competitive matchups, and thrilling finishes, the tri-series showcases the next generation of women's cricket stars. Watch Pakistan Women's Under-19s T20 Tri-Series 2026\/27 live in HD on tapmad via app, web, or Smart TV. Catch every run, wicket, boundary, partnership, and match-defining moment live on tapmad.",
-            "start_time_bd": "2026-10-09 18:00:00",
-            "seo_title": "pakistan-womens-under-19s-t20-tri-series-2026-27",
-            "category_seo_title": "pakistan-womens-under-19s-t20-tri-series-2026-27",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790857476540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790857476540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/d8j84o343a5m2.cloudfront.net\/live\/testtapmad2\/master.m3u8"
-        },
         {
             "status": "LIVE",
             "content_entity_id": 18900,
@@ -53,7 +38,7 @@
             "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/FiFa-3827e1\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18244,
             "title": "Rahamatgonj MFS vs PWD Sports Club",
             "header_name": "Round 3 - Bangladesh Football League 2026\/27",
@@ -65,10 +50,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790925292540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18245,
             "title": "City Club vs Chattogram City FC",
             "header_name": "Round 3 - Bangladesh Football League 2026\/27",
@@ -80,25 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790925472540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/56408643-tapMad\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
-            "content_entity_id": 18246,
-            "title": "Mohammedan SC Ltd vs Arambagh Krira Shangha",
-            "header_name": "Round 3 - Bangladesh Football League 2026\/27",
-            "description": "Watch Mohammedan SC Ltd vs Arambagh Krira Shangha in the Bangladesh Football League 2026\/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Mohammedan SC Ltd vs Arambagh Krira Shangha match will take place on 09-Oct, at 02:45 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-10-09 20:45:00",
-            "seo_title": "bangladesh-football-league-2026",
-            "category_seo_title": "bangladesh-football-league-2026",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790925585540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790925585540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18247,
             "title": "Brothers Union Ltd vs Fortis FC Ltd.",
             "header_name": "Round 3 - Bangladesh Football League 2026\/27",
@@ -110,7 +80,22 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790925710540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/306-tapmad\/master.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "content_entity_id": 18246,
+            "title": "Mohammedan SC Ltd vs Arambagh Krira Shangha",
+            "header_name": "Round 3 - Bangladesh Football League 2026\/27",
+            "description": "Watch Mohammedan SC Ltd vs Arambagh Krira Shangha in the Bangladesh Football League 2026\/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Mohammedan SC Ltd vs Arambagh Krira Shangha match will take place on 09-Oct, at 02:45 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-10 20:45:00",
+            "seo_title": "bangladesh-football-league-2026",
+            "category_seo_title": "bangladesh-football-league-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790925585540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790925585540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -273,6 +258,66 @@
             "category_seo_title": "laliga---alaves-vs-atletico-madrid-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790926001540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790926001540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18414,
+            "title": "LOSC vs Le Havre",
+            "header_name": "MATCHDAY 6 - French Ligue 1 2026\/27",
+            "description": "Watch LOSC vs Le Havre live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The LOSC vs Le Havre match will take place on 10-Oct, Saturday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-11 03:15:00",
+            "seo_title": "losc-vs-le-havre-ligue-one-live-match",
+            "category_seo_title": "losc-vs-le havre-ligue-one-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791191670540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791191670540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18268,
+            "title": "Barcelona vs Getafe",
+            "header_name": "MATCHDAY 8 - LaLiga 2026\/27",
+            "description": "The 71th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Barcelona  vs Getafe live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-11 04:30:00",
+            "seo_title": "laliga-barcelona-vs-getafe-live",
+            "category_seo_title": "laliga--barcelona--vs-getafe-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790926258540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790926258540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18618,
+            "title": "Abdoulaye Kane vs Badr Medkouri",
+            "header_name": "PFL Africa - PFL 2026",
+            "description": "Watch Abdoulaye Kane vs Badr Medkouri live online on tapmad. The PFL Global 2026 will feature the world's greatest MMA fighters going up against each other on the grandest stage. The Abdoulaye Kane vs Badr Medkouri fight will take place on 10-Oct, at 11:45 PM. Enjoy the deadliest knockouts, fierce punches, and match-winning moments in HD and ad-free on tapmad!",
+            "start_time_bd": "2026-10-11 05:45:00",
+            "seo_title": "pfl-2026-abdoulaye-kane-vs-badr-medkouri-live",
+            "category_seo_title": "pfl-2026-abdoulaye-kane-vs-badr-medkouri-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791275903540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791275903540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17095,
+            "title": "Al-Hilal vs Al-Ittihad",
+            "header_name": "MATCHDAY 8 - Saudi Pro League 2026\/27",
+            "description": "The match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Hilal  vs Al-Ittihad live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-11 06:00:00",
+            "seo_title": "saudi-pro-league-al-hilal-vs-al-ittihad-live",
+            "category_seo_title": "saudi-pro-league-al-hilal-vs-al-ittihad-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790927218540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790927218540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
