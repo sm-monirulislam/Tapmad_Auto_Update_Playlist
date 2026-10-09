@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "01:00:05 PM 09-10-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "02:00:05 PM 09-10-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "upcoming_match": 15,
     "matches": [
         {
@@ -38,7 +38,7 @@
             "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/j15klM\/\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17700,
             "title": "South Africa vs Australia - 1st Test",
             "header_name": "1st Test - Australia Tour of South Africa 2026",
@@ -50,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791526082540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/FiFa-3827e1\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -258,6 +258,21 @@
             "category_seo_title": "laliga---rayo-vallecano-vs--rayo-vallecano-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790925829540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790925829540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18267,
+            "title": "Alaves vs Atletico Madrid",
+            "header_name": "MATCHDAY 8 - LaLiga 2026\/27",
+            "description": "The 70th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch  Alaves vs Atletico Madrid live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-11 02:15:00",
+            "seo_title": "laliga-alaves-vs-atletico-madrid-live",
+            "category_seo_title": "laliga---alaves-vs-atletico-madrid-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790926001540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790926001540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
