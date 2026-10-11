@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "05:00:06 PM 11-10-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "06:00:06 PM 11-10-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "upcoming_match": 15,
     "matches": [
         {
@@ -38,7 +38,7 @@
             "stream_url": "https:\/\/d8j84o343a5m2.cloudfront.net\/live\/testtapmad3\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18270,
             "title": "Elche vs Celta",
             "header_name": "MATCHDAY 8 - LaLiga 2026\/27",
@@ -50,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790926649540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -258,6 +258,21 @@
             "category_seo_title": "afc-champions-league-elite-Air Force SC vs Al Ain FC",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791277740540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791277741540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18643,
+            "title": "Al Gharafa SC (QAT) vs Esteghlal FC (IRN) Live",
+            "header_name": "MATCHDAY 2 - AFC Champions League Elite 2026\/27",
+            "description": "Watch Al Gharafa SC vs Esteghlal FC live online on tapmad. The AFC Champions League Elite Al Gharafa SC vs Esteghlal FC match is scheduled to take place on 12-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-13 06:15:00",
+            "seo_title": "afc-champions-league-elite-al-gharafa-sc-vs-esteghlal-fc",
+            "category_seo_title": "afc-champions-league-elite-Al Gharafa SC vs Esteghlal FC",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791278083540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791278083540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
