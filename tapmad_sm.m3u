@@ -3,19 +3,16 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:00:07 PM 11-10-2026 (BD Time)
-# All channel : 4
+# Last Updated: 12:00:07 AM 12-10-2026 (BD Time)
+# All channel : 3
 #=================================
-
-#EXTINF:-1 tvg-id="tapmad-18303" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791546533540x302.jpg" group-title="Cricket",Pakistan vs Sri Lanka - 2nd T20I - Sri Lanka Tour of Pakistan 2026
-https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-17716" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791354472540x302.jpg" group-title="Cricket",India vs West Indies - 3rd T20I - West Indies Tour of India 2026
-https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18420" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791192721540x302.jpg" group-title="Football",Rennes vs Auxerre - MATCHDAY 6 - French Ligue 1 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18272" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790926985540x302.jpg" group-title="Football",Betis vs Osasuna - MATCHDAY 8 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-17096" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1790927372540x302.jpg" group-title="Football",Al-Shabab vs Al-Taawoun - MATCHDAY 8 - Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18421" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791192866540x302.jpg" group-title="Football",Troyes vs Marseille - MATCHDAY 6 - French Ligue 1 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
 
