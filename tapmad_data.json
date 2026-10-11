@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "12:00:06 PM 11-10-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "01:00:05 PM 11-10-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "upcoming_match": 15,
     "matches": [
         {
@@ -24,6 +24,21 @@
         },
         {
             "status": "LIVE",
+            "content_entity_id": 17700,
+            "title": "South Africa vs Australia - 1st Test",
+            "header_name": "1st Test - Australia Tour of South Africa 2026",
+            "description": "The Australia Tour of South Africa 2026 brings two competitive cricket sides together for an exciting international series. Led by Pat Cummins, Australia will face Temba Bavuma’s South Africa in a thrilling contest featuring 3 ODIs and 3 Test matches. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the series. Watch Australia Tour of South Africa 2026 live in HD on tapmad with official coverage via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
+            "start_time_bd": "2026-10-09 19:30:00",
+            "seo_title": "australia-tour-of-south-africa-2026",
+            "category_seo_title": "australia-tour-of-south-africa-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791526082540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791526082540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/FiFa-3827e1\/master.m3u8"
+        },
+        {
+            "status": "LIVE",
             "content_entity_id": 18090,
             "title": "Pakistan U19 vs Bangladesh U19",
             "header_name": "Group Stage - Pakistan Women's Under-19s T20 Tri-Series 2026",
@@ -36,21 +51,6 @@
             "is_sports": true,
             "is_channel": true,
             "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "content_entity_id": 17700,
-            "title": "South Africa vs Australia - 1st Test",
-            "header_name": "1st Test - Australia Tour of South Africa 2026",
-            "description": "The Australia Tour of South Africa 2026 brings two competitive cricket sides together for an exciting international series. Led by Pat Cummins, Australia will face Temba Bavuma’s South Africa in a thrilling contest featuring 3 ODIs and 3 Test matches. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the series. Watch Australia Tour of South Africa 2026 live in HD on tapmad with official coverage via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
-            "start_time_bd": "2026-10-11 19:30:00",
-            "seo_title": "australia-tour-of-south-africa-2026",
-            "category_seo_title": "australia-tour-of-south-africa-2026",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791526082540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791526082540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
         },
         {
             "status": "UPCOMING",
@@ -258,6 +258,21 @@
             "category_seo_title": "afc-champions-league-elite-Al Wasl FC vs Al Ahli Saudi FC",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791277417540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791277417540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18638,
+            "title": "Air Force SC (IRQ) vs Al Ain FC (UAE) Live",
+            "header_name": "MATCHDAY 2 - AFC Champions League Elite 2026\/27",
+            "description": "Watch Air Force SC vs Al Ain FC live online on tapmad. The AFC Champions League Elite Air Force SC vs Al Ain FC match is scheduled to take place on 12-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-13 06:15:00",
+            "seo_title": "afc-champions-league-elite-air-force-sc-vs-al-ain-fc",
+            "category_seo_title": "afc-champions-league-elite-Air Force SC vs Al Ain FC",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791277740540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791277741540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
