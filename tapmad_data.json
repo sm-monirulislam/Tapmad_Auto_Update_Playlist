@@ -2,13 +2,13 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "05:00:03 AM 11-10-2026",
-    "total_matches": 15,
-    "live_match": 0,
+    "last_update_time": "06:00:05 AM 11-10-2026",
+    "total_matches": 16,
+    "live_match": 1,
     "upcoming_match": 15,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18230,
             "title": "Allen vs Duncan",
             "header_name": "Fight Night - UFC 2026",
@@ -20,7 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790939442540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/56408643-tapMad\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -228,6 +228,21 @@
             "category_seo_title": "laliga--racing-santander-vs-valencia-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790927153540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790927153540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18623,
+            "title": "Pakhtakor (UZB) vs Al Qadsiah Club (KSA) Live",
+            "header_name": "MATCHDAY 2 - AFC Champions League Elite 2026\/27",
+            "description": "Watch Pakhtakor vs Al Qadsiah Club live online on tapmad. The AFC Champions League Elite Pakhtakor vs Al Qadsiah Club match is scheduled to take place on 12-Oct,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-13 01:45:00",
+            "seo_title": "afc-champions-league-elite-pakhtakor-vs-al-qadsiah-club",
+            "category_seo_title": "afc-champions-league-elite-Pakhtakor vs Al Qadsiah Club",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791276332540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791276332540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
