@@ -2,7 +2,7 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:00:08 PM 11-10-2026",
+    "last_update_time": "10:00:08 PM 11-10-2026",
     "total_matches": 21,
     "live_match": 6,
     "upcoming_match": 15,
@@ -24,21 +24,6 @@
         },
         {
             "status": "LIVE",
-            "content_entity_id": 18419,
-            "title": "Nice vs Strasbourg",
-            "header_name": "MATCHDAY 6 - French Ligue 1 2026\/27",
-            "description": "Watch Nice vs Strasbourg live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Nice vs Strasbourg match will take place on 11-Oct, Sunday, at 07:00 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-10-12 01:00:00",
-            "seo_title": "nice-vs-strasbourg-ligue-one-live-match",
-            "category_seo_title": "nice-vs-strasbourg-ligue-one-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791192592540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791192592540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/j15klM\/\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
             "content_entity_id": 17716,
             "title": "India vs West Indies",
             "header_name": "3rd T20I - West Indies Tour of India 2026",
@@ -50,7 +35,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791354472540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/56408643-tapMad\/master.m3u8"
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/019ea6d121dd15e8f4122afee4cf8f\/019ea6d2f96e15e8f0602c5e1b7bc3\/master.m3u8"
         },
         {
             "status": "LIVE",
@@ -98,7 +83,7 @@
             "stream_url": "https:\/\/serieAleague.akamaized.net\/hls\/live\/2107107\/Tapmad-KjL52\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18272,
             "title": "Betis vs Osasuna",
             "header_name": "MATCHDAY 8 - LaLiga 2026\/27",
@@ -110,7 +95,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790926985540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -318,6 +303,21 @@
             "category_seo_title": "federation-cup-football-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790936642540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790936643540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18658,
+            "title": "Shanghai Port FC (CHN) vs Daejeon Hana Citizen FC (KOR) Live",
+            "header_name": "MATCHDAY 2 - AFC Champions League Elite 2026\/27",
+            "description": "Watch Shanghai Port FC vs Daejeon Hana Citizen FC live online on tapmad. The AFC Champions League Elite Shanghai Port FC vs Daejeon Hana Citizen FC match is scheduled to take place on 13-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-13 22:00:00",
+            "seo_title": "afc-champions-league-elite-shanghai-port-fc-vs-daejeon-hana-citizen-fc",
+            "category_seo_title": "afc-champions-league-elite-Shanghai Port FC vs Daejeon Hana Citizen FC",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791361421540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791361421540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
