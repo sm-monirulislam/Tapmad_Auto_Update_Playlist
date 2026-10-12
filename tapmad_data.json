@@ -2,41 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "12:00:08 AM 13-10-2026",
-    "total_matches": 20,
-    "live_match": 5,
+    "last_update_time": "01:00:07 AM 13-10-2026",
+    "total_matches": 19,
+    "live_match": 4,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 18628,
-            "title": "Tractor FC (IRN) vs Al Shamal SC (QAT) Live",
-            "header_name": "MATCHDAY 2 - AFC Champions League Elite 2026\/27",
-            "description": "Watch Tractor FC vs Al Shamal SC live online on tapmad. The AFC Champions League Elite Tractor FC vs Al Shamal SC match is scheduled to take place on 12-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-10-13 04:00:00",
-            "seo_title": "afc-champions-league-elite-tractor-fc-vs-al-shamal-sc",
-            "category_seo_title": "afc-champions-league-elite-Tractor FC vs Al Shamal SC",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791276741540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791276741540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 18633,
-            "title": "Al Wasl FC (UAE) vs Al Ahli Saudi FC (KSA) Live",
-            "header_name": "MATCHDAY 2 - AFC Champions League Elite 2026\/27",
-            "description": "Watch Al Wasl FC vs Al Ahli Saudi FC live online on tapmad. The AFC Champions League Elite Al Wasl FC vs Al Ahli Saudi FC match is scheduled to take place on 12-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-10-13 04:00:00",
-            "seo_title": "afc-champions-league-elite-al-wasl-fc-vs-al-ahli-saudi-fc",
-            "category_seo_title": "afc-champions-league-elite-Al Wasl FC vs Al Ahli Saudi FC",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791277417540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791277417540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/j15klM\/\/master.m3u8"
-        },
         {
             "status": "LIVE",
             "content_entity_id": 18638,
@@ -50,7 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791277741540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
+            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/j15klM\/\/master.m3u8"
         },
         {
             "status": "LIVE",
@@ -65,7 +35,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791278083540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
+            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/Laliga-2026\/master.m3u8"
         },
         {
             "status": "LIVE",
@@ -83,7 +53,7 @@
             "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/tapmad-PAKvsWI-BKd2-TesT\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18274,
             "title": "Levante vs Sevilla",
             "header_name": "MATCHDAY 8 - LaLiga 2026\/27",
@@ -95,7 +65,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790927521540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/28593jkiL-tapmad\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -303,6 +273,21 @@
             "category_seo_title": "lens-vs-sporting cp-ucl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791189230540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791189230540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18342,
+            "title": "Sabah vs Slavia Praha",
+            "header_name": "MATCHDAY 2 - UEFA Champions League 2026\/27",
+            "description": "Watch Sabah vs Slavia Praha live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Sabah vs Slavia Praha match will take place on 13-Oct, Tuesday, at 09:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-14 04:45:00",
+            "seo_title": "sabah-vs-slavia-praha-ucl-live-match",
+            "category_seo_title": "sabah-vs-slavia praha-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791189392540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791189392540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
