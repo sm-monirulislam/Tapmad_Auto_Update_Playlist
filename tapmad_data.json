@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "01:00:06 PM 13-10-2026",
-    "total_matches": 18,
-    "live_match": 3,
+    "last_update_time": "02:00:06 PM 13-10-2026",
+    "total_matches": 20,
+    "live_match": 5,
     "upcoming_match": 15,
     "matches": [
         {
@@ -50,10 +50,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791360983540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/AFC2026\/Elite\/PERVIEW\/AfcElitepromo\/master.m3u8"
+            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/tapeuropa27\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18260,
             "title": "Brothers Union Ltd vs Fakirerpool Young Mens Club",
             "header_name": "MATCHDAY 3 - Federation Cup 2026\/27",
@@ -65,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790936527540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18261,
             "title": "Rahamatgonj MFS vs Chattogram City FC",
             "header_name": "MATCHDAY 3 - Federation Cup 2026\/27",
@@ -80,7 +80,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790936643540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -273,6 +273,36 @@
             "category_seo_title": "rb leipzig-vs-psv eindhoven-ucl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791441025540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791441025540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18345,
+            "title": "Arsenal vs Lille",
+            "header_name": "MATCHDAY 2 - UEFA Champions League 2026\/27",
+            "description": "Watch Arsenal vs Lille live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Arsenal vs Lille match will take place on 14-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-14 07:00:00",
+            "seo_title": "arsenal-vs-lille-ucl-live-match",
+            "category_seo_title": "arsenal-vs-lille-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791440330540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791440330540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18346,
+            "title": "Atletico Madrid vs Manchester United",
+            "header_name": "MATCHDAY 2 - UEFA Champions League 2026\/27",
+            "description": "Watch Atletico Madrid vs Manchester United live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Atletico Madrid vs Manchester United match will take place on 14-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-14 07:00:00",
+            "seo_title": "atletico-madrid-vs-manchester-united-ucl-live-match",
+            "category_seo_title": "atletico madrid-vs-manchester united-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791440503540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791440503540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
