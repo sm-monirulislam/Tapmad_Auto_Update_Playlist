@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "12:00:04 PM 13-10-2026",
-    "total_matches": 16,
-    "live_match": 1,
+    "last_update_time": "01:00:06 PM 13-10-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "upcoming_match": 15,
     "matches": [
         {
@@ -23,22 +23,22 @@
             "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17700,
             "title": "South Africa vs Australia",
             "header_name": "1st Test - Australia Tour of South Africa 2026",
             "description": "The Australia Tour of South Africa 2026 brings two competitive cricket sides together for an exciting international series. Led by Pat Cummins, Australia will face Temba Bavuma’s South Africa in a thrilling contest featuring 3 ODIs and 3 Test matches. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the series. Watch Australia Tour of South Africa 2026 live in HD on tapmad with official coverage via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
-            "start_time_bd": "2026-10-13 19:30:00",
+            "start_time_bd": "2026-10-09 19:30:00",
             "seo_title": "australia-tour-of-south-africa-2026",
             "category_seo_title": "australia-tour-of-south-africa-2026",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791526082540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791526082540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/28593jkiL-tapmad\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18653,
             "title": "Newcastle Jets FC (AUS) vs Gamba Osaka (JPN) Live",
             "header_name": "MATCHDAY 2 - AFC Champions League Elite 2026\/27",
@@ -50,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791360983540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/AFC2026\/Elite\/PERVIEW\/AfcElitepromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -243,6 +243,36 @@
             "category_seo_title": "afc-champions-league-elite-Al Ittihad Club vs Shabab Al Ahli",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791366814540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791366814540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18343,
+            "title": "Galatasaray vs Barcelona",
+            "header_name": "MATCHDAY 2 - UEFA Champions League 2026\/27",
+            "description": "Watch Galatasaray vs Barcelona live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Galatasaray vs Barcelona match will take place on 14-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-14 07:00:00",
+            "seo_title": "galatasaray-vs-barcelona-ucl-live-match",
+            "category_seo_title": "galatasaray-vs-barcelona-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791440779540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791440779540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18344,
+            "title": "RB Leipzig vs PSV Eindhoven",
+            "header_name": "MATCHDAY 2 - UEFA Champions League 2026\/27",
+            "description": "Watch RB Leipzig vs PSV Eindhoven live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The RB Leipzig vs PSV Eindhoven match will take place on 14-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-14 07:00:00",
+            "seo_title": "rb-leipzig-vs-psv-eindhoven-ucl-live-match",
+            "category_seo_title": "rb leipzig-vs-psv eindhoven-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791441025540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791441025540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
