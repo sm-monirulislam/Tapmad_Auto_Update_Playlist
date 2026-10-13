@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:00:07 PM 13-10-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "10:00:09 PM 13-10-2026",
+    "total_matches": 20,
+    "live_match": 5,
     "upcoming_match": 15,
     "matches": [
         {
@@ -24,21 +24,6 @@
         },
         {
             "status": "LIVE",
-            "content_entity_id": 18458,
-            "title": "East Bengal FC (IND) vs Al Shorta (IRQ) Live",
-            "header_name": "MATCHDAY 2 - AFC Champions League Two 2026\/27",
-            "description": "Watch East Bengal FC vs Al Shorta live online on tapmad. The AFC Champions League Two East Bengal FC vs Al Shorta match is scheduled to take place on 13-Oct,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-10-14 01:45:00",
-            "seo_title": "afc-champions-league-two",
-            "category_seo_title": "afc-champions-league-two",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791359151540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791359151540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/019f067c253015e8f412028003fe\/019f067d5e3615e8f060213b29a21b\/main.m3u8"
-        },
-        {
-            "status": "UPCOMING",
             "content_entity_id": 18463,
             "title": "Al Seeb Club (OMA) vs Al Hussein (JOR) Live",
             "header_name": "MATCHDAY 2 - AFC Champions League Two 2026\/27",
@@ -50,10 +35,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791359646540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/j15klM\/\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18683,
             "title": "Al Sadd SC (QAT) vs Al Hilal SFC (KSA) Live",
             "header_name": "MATCHDAY 2 - AFC Champions League Elite 2026\/27",
@@ -65,10 +50,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791366374540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/tapmad-PAKvsWI-BKd2-TesT\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18341,
             "title": "Lens vs Sporting CP",
             "header_name": "MATCHDAY 2 - UEFA Champions League 2026\/27",
@@ -80,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791189230540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18342,
             "title": "Sabah vs Slavia Praha",
             "header_name": "MATCHDAY 2 - UEFA Champions League 2026\/27",
@@ -95,7 +80,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791189392540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -136,8 +121,8 @@
             "start_time_bd": "2026-10-14 07:00:00",
             "seo_title": "rb-leipzig-vs-psv-eindhoven-ucl-live-match",
             "category_seo_title": "rb leipzig-vs-psv eindhoven-ucl-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791441025540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791441025540x302.jpg",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791903716540.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791903716540.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
@@ -258,6 +243,66 @@
             "category_seo_title": "afc-champions-league-elite-Vissel Kobe vs Jeonbuk Hyundai Motors FC",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791452312540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791452313540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18503,
+            "title": "Persib Bandung (IDN) vs The Cong - Viettel FC (VIE) Live",
+            "header_name": "MATCHDAY 2 - AFC Champions League Two 2026\/27",
+            "description": "Watch Persib Bandung vs The Cong - Viettel FC live online on tapmad. The AFC Champions League Two Persib Bandung vs The Cong - Viettel FC match is scheduled to take place on 14-Oct,  at 05:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-15 00:15:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791454255540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791454255540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17717,
+            "title": "India vs West Indies",
+            "header_name": "4th T20I - West Indies Tour of India 2026",
+            "description": "The West Indies Tour of India 2026 brings two competitive cricket sides together for an exciting international series. The tour features 3 ODIs and 5 T20Is, running from September 27 to October 17, 2026. India’s ODI side will be led by Shubman Gill, while Shreyas Iyer will captain the T20I team. Shai Hope will lead the West Indies across the series. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the tour. Watch India vs West Indies 2026 live in HD on tapmad via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
+            "start_time_bd": "2026-10-15 01:30:00",
+            "seo_title": "west-indies-tour-of-india-2026",
+            "category_seo_title": "west-indies-tour-of-india-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791354574540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791354574540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18473,
+            "title": "PFC Nasaf (UZB) vs Al Wahda FC (UAE) Live",
+            "header_name": "MATCHDAY 2 - AFC Champions League Two 2026\/27",
+            "description": "Watch PFC Nasaf vs Al Wahda FC live online on tapmad. The AFC Champions League Two PFC Nasaf vs Al Wahda FC match is scheduled to take place on 14-Oct,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-15 01:45:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791454611540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791454611540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18478,
+            "title": "Al Jazira Club (UAE) vs FC Arkadag (TKM) Live",
+            "header_name": "MATCHDAY 2 - AFC Champions League Two 2026\/27",
+            "description": "Watch Al Jazira Club vs FC Arkadag live online on tapmad. The AFC Champions League Two Al Jazira Club vs FC Arkadag match is scheduled to take place on 14-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-15 04:00:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791454958540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791454958540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
