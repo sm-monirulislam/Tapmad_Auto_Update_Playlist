@@ -3,16 +3,16 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:00:08 PM 13-10-2026 (BD Time)
+# Last Updated: 06:00:10 PM 13-10-2026 (BD Time)
 # All channel : 3
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-18900" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791467509540x302.jpg" group-title="Cricket",Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-17700" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791526082540x302.jpg" group-title="Cricket",South Africa vs Australia - 1st Test - Australia Tour of South Africa 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18673" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791365332540x302.jpg" group-title="Football",Buriram United (THA) vs Beijing FC (CHN) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-18658" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791361421540x302.jpg" group-title="Football",Shanghai Port FC (CHN) vs Daejeon Hana Citizen FC (KOR) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18678" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791365766540x302.jpg" group-title="Football",Cong An Hai Noi FC (VIE) vs Kashima Antlers (JPN) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 
