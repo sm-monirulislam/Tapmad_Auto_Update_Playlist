@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "03:00:07 PM 13-10-2026",
-    "total_matches": 20,
-    "live_match": 5,
+    "last_update_time": "04:00:08 PM 13-10-2026",
+    "total_matches": 21,
+    "live_match": 6,
     "upcoming_match": 15,
     "matches": [
         {
@@ -39,21 +39,6 @@
         },
         {
             "status": "LIVE",
-            "content_entity_id": 18653,
-            "title": "Newcastle Jets FC (AUS) vs Gamba Osaka (JPN) Live",
-            "header_name": "MATCHDAY 2 - AFC Champions League Elite 2026\/27",
-            "description": "Watch Newcastle Jets FC vs Gamba Osaka live online on tapmad. The AFC Champions League Elite Newcastle Jets FC vs Gamba Osaka match is scheduled to take place on 13-Oct,  at 01:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-10-13 19:45:00",
-            "seo_title": "afc-champions-league-elite-newcastle-jets-fc-vs-gamba-osaka",
-            "category_seo_title": "afc-champions-league-elite-Newcastle Jets FC vs Gamba Osaka",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791360983540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791360983540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/tapeuropa27\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
             "content_entity_id": 18260,
             "title": "Brothers Union Ltd vs Fakirerpool Young Mens Club",
             "header_name": "MATCHDAY 3 - Federation Cup 2026\/27",
@@ -83,7 +68,7 @@
             "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/Laliga-2026\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18658,
             "title": "Shanghai Port FC (CHN) vs Daejeon Hana Citizen FC (KOR) Live",
             "header_name": "MATCHDAY 2 - AFC Champions League Elite 2026\/27",
@@ -95,10 +80,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791361421540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/serieAleague.akamaized.net\/hls\/live\/2107107\/Tapmad-KjL52\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18663,
             "title": "FC Pohang Steelers (KOR) vs Johor Darul Ta'zim FC (MAS) Live",
             "header_name": "MATCHDAY 2 - AFC Champions League Elite 2026\/27",
@@ -303,6 +288,36 @@
             "category_seo_title": "atletico madrid-vs-manchester united-ucl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791440503540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791440503540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18347,
+            "title": "Villarreal vs Napoli",
+            "header_name": "MATCHDAY 2 - UEFA Champions League 2026\/27",
+            "description": "Watch Villarreal vs Napoli live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Villarreal vs Napoli match will take place on 14-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-14 07:00:00",
+            "seo_title": "villarreal-vs-napoli-ucl-live-match",
+            "category_seo_title": "villarreal-vs-napoli-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791443079540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791443079540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18348,
+            "title": "Viking vs Bayern Munchen",
+            "header_name": "MATCHDAY 2 - UEFA Champions League 2026\/27",
+            "description": "Watch Viking vs Bayern Munchen live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Viking vs Bayern Munchen match will take place on 14-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-14 07:00:00",
+            "seo_title": "viking-vs-bayern-munchen-ucl-live-match",
+            "category_seo_title": "viking-vs-bayern munchen-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791441247540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791441247540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
