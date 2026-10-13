@@ -3,12 +3,9 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:00:09 AM 14-10-2026 (BD Time)
-# All channel : 8
+# Last Updated: 03:00:08 AM 14-10-2026 (BD Time)
+# All channel : 5
 #=================================
-
-#EXTINF:-1 tvg-id="tapmad-18688" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791366814540x302.jpg" group-title="Football",Al Ittihad Club (KSA) vs Shabab Al Ahli (UAE) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18343" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791440779540x302.jpg" group-title="Football",Galatasaray vs Barcelona - MATCHDAY 2 - UEFA Champions League 2026/27
 https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8
@@ -16,18 +13,12 @@ https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f06
 #EXTINF:-1 tvg-id="tapmad-18344" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791903716540.jpg" group-title="Football",RB Leipzig vs PSV Eindhoven - MATCHDAY 2 - UEFA Champions League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-18345" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791440330540x302.jpg" group-title="Football",Arsenal vs Lille - MATCHDAY 2 - UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
-
 #EXTINF:-1 tvg-id="tapmad-18346" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791440503540x302.jpg" group-title="Football",Atletico Madrid vs Manchester United - MATCHDAY 2 - UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18347" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791443079540x302.jpg" group-title="Football",Villarreal vs Napoli - MATCHDAY 2 - UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18348" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791441247540x302.jpg" group-title="Football",Viking vs Bayern Munchen - MATCHDAY 2 - UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18349" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791440639540x302.jpg" group-title="Football",Inter vs Club Brugge - MATCHDAY 2 - UEFA Champions League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
+https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8
 
