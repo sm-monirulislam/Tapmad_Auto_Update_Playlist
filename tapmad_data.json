@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "06:00:10 PM 13-10-2026",
-    "total_matches": 21,
-    "live_match": 6,
+    "last_update_time": "07:00:08 PM 13-10-2026",
+    "total_matches": 20,
+    "live_match": 5,
     "upcoming_match": 15,
     "matches": [
         {
@@ -21,51 +21,6 @@
             "is_sports": true,
             "is_channel": true,
             "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 17700,
-            "title": "South Africa vs Australia",
-            "header_name": "1st Test - Australia Tour of South Africa 2026",
-            "description": "The Australia Tour of South Africa 2026 brings two competitive cricket sides together for an exciting international series. Led by Pat Cummins, Australia will face Temba Bavuma’s South Africa in a thrilling contest featuring 3 ODIs and 3 Test matches. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the series. Watch Australia Tour of South Africa 2026 live in HD on tapmad with official coverage via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
-            "start_time_bd": "2026-10-09 19:30:00",
-            "seo_title": "australia-tour-of-south-africa-2026",
-            "category_seo_title": "australia-tour-of-south-africa-2026",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791526082540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791526082540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 18658,
-            "title": "Shanghai Port FC (CHN) vs Daejeon Hana Citizen FC (KOR) Live",
-            "header_name": "MATCHDAY 2 - AFC Champions League Elite 2026\/27",
-            "description": "Watch Shanghai Port FC vs Daejeon Hana Citizen FC live online on tapmad. The AFC Champions League Elite Shanghai Port FC vs Daejeon Hana Citizen FC match is scheduled to take place on 13-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-10-13 22:00:00",
-            "seo_title": "afc-champions-league-elite-shanghai-port-fc-vs-daejeon-hana-citizen-fc",
-            "category_seo_title": "afc-champions-league-elite-Shanghai Port FC vs Daejeon Hana Citizen FC",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791361421540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791361421540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 18663,
-            "title": "FC Pohang Steelers (KOR) vs Johor Darul Ta'zim FC (MAS) Live",
-            "header_name": "MATCHDAY 2 - AFC Champions League Elite 2026\/27",
-            "description": "Watch FC Pohang Steelers vs Johor Darul Ta'zim FC live online on tapmad. The AFC Champions League Elite FC Pohang Steelers vs Johor Darul Ta'zim FC match is scheduled to take place on 13-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-10-13 22:00:00",
-            "seo_title": "afc-champions-league-elite-fc-pohang-steelers-vs-johor-darul-ta'zim-fc",
-            "category_seo_title": "afc-champions-league-elite-FC Pohang Steelers vs Johor Darul Ta'zim FC",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791363575540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791363575540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -98,7 +53,7 @@
             "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/Laliga-2026\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18304,
             "title": "Pakistan vs Sri Lanka",
             "header_name": "3rd T20I - Sri Lanka Tour of Pakistan 2026",
@@ -110,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791546548540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/t-prod-pk.tapmad.com\/v1\/019eff56c91d15e8f412028003f9\/019eff5a7a6f15e8f060057b6796\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18458,
             "title": "East Bengal FC (IND) vs Al Shorta (IRQ) Live",
             "header_name": "MATCHDAY 2 - AFC Champions League Two 2026\/27",
@@ -125,7 +80,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791359151540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/promos\/AFCTWOPROMO\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -318,6 +273,36 @@
             "category_seo_title": "afc-champions-league-two",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791453859540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791453859540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18693,
+            "title": "Kashiwa Reysol (JPN) vs Port FC (THA) Live",
+            "header_name": "MATCHDAY 2 - AFC Champions League Elite 2026\/27",
+            "description": "Watch Kashiwa Reysol vs Port FC live online on tapmad. The AFC Champions League Elite Kashiwa Reysol vs Port FC match is scheduled to take place on 14-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-14 22:00:00",
+            "seo_title": "afc-champions-league-elite-kashiwa-reysol-vs-port-fc",
+            "category_seo_title": "afc-champions-league-elite-Kashiwa Reysol vs Port FC",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791451842540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791451842540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18698,
+            "title": "Vissel Kobe (JPN) vs Jeonbuk Hyundai Motors FC (KOR) Live",
+            "header_name": "MATCHDAY 2 - AFC Champions League Elite 2026\/27",
+            "description": "Watch Vissel Kobe vs Jeonbuk Hyundai Motors FC live online on tapmad. The AFC Champions League Elite Vissel Kobe vs Jeonbuk Hyundai Motors FC match is scheduled to take place on 14-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-14 22:00:00",
+            "seo_title": "afc-champions-league-elite-vissel-kobe-vs-jeonbuk-hyundai-motors-fc",
+            "category_seo_title": "afc-champions-league-elite-Vissel Kobe vs Jeonbuk Hyundai Motors FC",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791452312540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791452313540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
