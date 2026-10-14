@@ -2,40 +2,25 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "05:00:05 PM 14-10-2026",
-    "total_matches": 2,
-    "live_match": 2,
+    "last_update_time": "06:00:06 PM 14-10-2026",
+    "total_matches": 1,
+    "live_match": 1,
     "upcoming_match": 0,
     "matches": [
         {
             "status": "LIVE",
-            "content_entity_id": 18693,
-            "title": "Kashiwa Reysol (JPN) vs Port FC (THA) Live",
-            "header_name": "MATCHDAY 2 - AFC Champions League Elite 2026\/27",
-            "description": "Watch Kashiwa Reysol vs Port FC live online on tapmad. The AFC Champions League Elite Kashiwa Reysol vs Port FC match is scheduled to take place on 14-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-10-14 22:00:00",
-            "seo_title": "afc-champions-league-elite-kashiwa-reysol-vs-port-fc",
-            "category_seo_title": "afc-champions-league-elite-Kashiwa Reysol vs Port FC",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791451842540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791451842540x302.jpg",
+            "content_entity_id": 18503,
+            "title": "Persib Bandung (IDN) vs The Cong - Viettel FC (VIE) Live",
+            "header_name": "MATCHDAY 2 - AFC Champions League Two 2026\/27",
+            "description": "Watch Persib Bandung vs The Cong - Viettel FC live online on tapmad. The AFC Champions League Two Persib Bandung vs The Cong - Viettel FC match is scheduled to take place on 14-Oct,  at 05:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-15 00:15:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791454255540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791454255540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/Laliga-2026\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 18698,
-            "title": "Vissel Kobe (JPN) vs Jeonbuk Hyundai Motors FC (KOR) Live",
-            "header_name": "MATCHDAY 2 - AFC Champions League Elite 2026\/27",
-            "description": "Watch Vissel Kobe vs Jeonbuk Hyundai Motors FC live online on tapmad. The AFC Champions League Elite Vissel Kobe vs Jeonbuk Hyundai Motors FC match is scheduled to take place on 14-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-10-14 22:00:00",
-            "seo_title": "afc-champions-league-elite-vissel-kobe-vs-jeonbuk-hyundai-motors-fc",
-            "category_seo_title": "afc-champions-league-elite-Vissel Kobe vs Jeonbuk Hyundai Motors FC",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791452312540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791452313540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/tapeuropa27\/master.m3u8"
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/019f067c253015e8f412028003fe\/019f067d5e3615e8f060213b29a21b\/main.m3u8"
         }
     ]
 }
