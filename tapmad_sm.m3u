@@ -3,12 +3,9 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:00:07 PM 14-10-2026 (BD Time)
-# All channel : 6
+# Last Updated: 12:00:09 AM 15-10-2026 (BD Time)
+# All channel : 5
 #=================================
-
-#EXTINF:-1 tvg-id="tapmad-17717" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791354574540x302.jpg" group-title="Cricket",India vs West Indies - 4th T20I - West Indies Tour of India 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18350" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791443458540x302.jpg" group-title="Football",LASK vs Liverpool - MATCHDAY 2 - UEFA Champions League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
@@ -19,9 +16,9 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/
 #EXTINF:-1 tvg-id="tapmad-18483" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791455433540x302.jpg" group-title="Football",Al Muharraq SC (BHR) vs Golgohar Sirjan SC (IRN) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-18498" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791528140540x302.jpg" group-title="Football",Kuwait SC (KUW) vs Al Khaldiya SC (BHR) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-
 #EXTINF:-1 tvg-id="tapmad-18351" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791443293540x302.jpg" group-title="Football",Feyenoord vs Como - MATCHDAY 2 - UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18493" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791527842540x302.jpg" group-title="Football",Al Faisaly (JOR) vs Al Nahda Club (OMA) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 
