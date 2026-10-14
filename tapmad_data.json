@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "08:00:07 PM 14-10-2026",
-    "total_matches": 3,
-    "live_match": 3,
+    "last_update_time": "09:00:05 PM 14-10-2026",
+    "total_matches": 2,
+    "live_match": 2,
     "upcoming_match": 0,
     "matches": [
         {
@@ -20,22 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791354574540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/t-prod-pk.tapmad.com\/v1\/019eff56c91d15e8f412028003f9\/019eff5a7a6f15e8f060057b6796\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 18503,
-            "title": "Persib Bandung (IDN) vs The Cong - Viettel FC (VIE) Live",
-            "header_name": "MATCHDAY 2 - AFC Champions League Two 2026\/27",
-            "description": "Watch Persib Bandung vs The Cong - Viettel FC live online on tapmad. The AFC Champions League Two Persib Bandung vs The Cong - Viettel FC match is scheduled to take place on 14-Oct,  at 05:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-10-15 00:15:00",
-            "seo_title": "afc-champions-league-two",
-            "category_seo_title": "afc-champions-league-two",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791454255540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791454255540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/019f067c253015e8f412028003fe\/019f067d5e3615e8f060213b29a21b\/main.m3u8"
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/FiFa-3827e1\/master.m3u8"
         },
         {
             "status": "LIVE",
