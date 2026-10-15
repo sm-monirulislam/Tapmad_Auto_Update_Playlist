@@ -2,7 +2,7 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "02:00:09 AM 16-10-2026",
+    "last_update_time": "03:00:09 AM 16-10-2026",
     "total_matches": 25,
     "live_match": 10,
     "upcoming_match": 15,
@@ -95,7 +95,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791663495540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -110,7 +110,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791663812540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/d8j84o343a5m2.cloudfront.net\/live\/testtapmad3\/master.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -125,7 +125,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791664172540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/019f067c253015e8f412028003fe\/019f067d5e3615e8f060213b29a21b\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -140,7 +140,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791664612540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/Laliga-2026\/master.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
