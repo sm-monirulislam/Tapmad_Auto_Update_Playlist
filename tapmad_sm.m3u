@@ -3,7 +3,28 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:00:03 AM 15-10-2026 (BD Time)
-# All channel : 0
+# Last Updated: 12:00:12 AM 16-10-2026 (BD Time)
+# All channel : 7
 #=================================
+
+#EXTINF:-1 tvg-id="tapmad-18941" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791660039540x302.jpg" group-title="Football",RB Salzburg vs Milan - MATCHDAY 2 - UEFA Europa League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18942" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791660440540x302.jpg" group-title="Football",Torreense vs Sunderland - MATCHDAY 2 - UEFA Europa League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18943" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791660622540x302.jpg" group-title="Football",Celje vs Omonoia - MATCHDAY 2 - UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18945" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791661089540x302.jpg" group-title="Football",Sparta Praha vs Lillestrom - MATCHDAY 2 - UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18946" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791661254540x302.jpg" group-title="Football",OL vs Palace - MATCHDAY 2 - UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18947" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791661548540x302.jpg" group-title="Football",Union vs Real Sociedad - MATCHDAY 2 - UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-18948" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791661725540x302.jpg" group-title="Football",Lech Poznan vs Leverkusen - MATCHDAY 2 - UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 
