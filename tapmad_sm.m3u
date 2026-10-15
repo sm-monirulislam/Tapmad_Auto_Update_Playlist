@@ -3,8 +3,8 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:00:09 AM 16-10-2026 (BD Time)
-# All channel : 10
+# Last Updated: 03:00:09 AM 16-10-2026 (BD Time)
+# All channel : 6
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-18949" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791662064540x302.jpg" group-title="Football",Ferencvaros vs Viktoria Plzen - MATCHDAY 2 - UEFA Europa League 2026/27
@@ -21,18 +21,6 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18953" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791663199540x302.jpg" group-title="Football",Celta vs Juventus - MATCHDAY 2 - UEFA Europa League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18954" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791663495540x302.jpg" group-title="Football",Hoffenheim vs Besiktas - MATCHDAY 2 - UEFA Europa League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18955" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791663812540x302.jpg" group-title="Football",Jagiellonia Bialystok vs Ararat-Armenia - MATCHDAY 2 - UEFA Europa League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18956" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791664172540x302.jpg" group-title="Football",Bournemouth vs Sturm Graz - MATCHDAY 2 - UEFA Europa League 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-18957" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791664612540x302.jpg" group-title="Football",Benfica vs Celtic - MATCHDAY 2 - UEFA Europa League 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-18958" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791664863540x302.jpg" group-title="Football",Marseille vs Olympiacos - MATCHDAY 2 - UEFA Europa League 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
