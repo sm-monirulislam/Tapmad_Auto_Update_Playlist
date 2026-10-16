@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "01:00:04 PM 16-10-2026",
-    "total_matches": 16,
-    "live_match": 1,
+    "last_update_time": "02:00:05 PM 16-10-2026",
+    "total_matches": 17,
+    "live_match": 2,
     "upcoming_match": 15,
     "matches": [
         {
@@ -21,6 +21,36 @@
             "is_sports": true,
             "is_channel": true,
             "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/j15klM\/\/master.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "content_entity_id": 18249,
+            "title": "City Club vs Bashundhara Kings",
+            "header_name": "Round 4 - Bangladesh Football League 2026\/27",
+            "description": "Watch City Club vs Bashundhara Kings in the Bangladesh Football League 2026\/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The City Club vs Bashundhara Kings match will take place on 16-Oct, at 02:45 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-16 20:45:00",
+            "seo_title": "bangladesh-football-league-2038",
+            "category_seo_title": "bangladesh-football-league-2038",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792137214540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792137214540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18250,
+            "title": "PWD Sports Club vs Mohammedan SC Ltd",
+            "header_name": "Round 4 - Bangladesh Football League 2026\/27",
+            "description": "Watch PWD Sports Club vs Mohammedan SC Ltd  in the Bangladesh Football League 2026\/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The PWD Sports Club vs Mohammedan SC Ltd  match will take place on 16-Oct, at 02:45 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-16 20:45:00",
+            "seo_title": "bangladesh-football-league-2038",
+            "category_seo_title": "bangladesh-football-league-2038",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792137272540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792137272540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
         },
         {
             "status": "UPCOMING",
@@ -228,21 +258,6 @@
             "category_seo_title": "losc-vs-brest-ligue-one-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791881258540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791881258540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "UPCOMING",
-            "content_entity_id": 18425,
-            "title": "Troyes vs Lens",
-            "header_name": "MATCHDAY 7 - French Ligue 1 2026\/27",
-            "description": "Watch Troyes vs Lens live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Troyes vs Lens match will take place on 17-Oct, Saturday, at 11:45 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-10-18 06:45:00",
-            "seo_title": "troyes-vs-lens-ligue-one-live-match",
-            "category_seo_title": "troyes-vs-lens-ligue-one-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791881432540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791881432540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
