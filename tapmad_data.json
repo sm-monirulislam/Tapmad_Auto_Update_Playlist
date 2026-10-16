@@ -2,28 +2,13 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "03:00:04 AM 17-10-2026",
+    "last_update_time": "04:00:05 AM 17-10-2026",
     "total_matches": 16,
     "live_match": 1,
     "upcoming_match": 15,
     "matches": [
         {
             "status": "LIVE",
-            "content_entity_id": 18275,
-            "title": "Deportivo vs Levante",
-            "header_name": "MATCHDAY 9 - LaLiga 2026\/27",
-            "description": "The 78th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Deportivo vs Levante live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-10-17 07:00:00",
-            "seo_title": "laliga-deportivo-vs-levante-live",
-            "category_seo_title": "laliga--deportivo-vs-levante-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790932698540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790932698540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/d8j84o343a5m2.cloudfront.net\/live\/testtapmad4\/master.m3u8"
-        },
-        {
-            "status": "UPCOMING",
             "content_entity_id": 18981,
             "title": "Carmouche vs Bishop 2",
             "header_name": "Round 2 - PFL 2026",
@@ -35,7 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791792730540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/j15klM\/\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -243,6 +228,21 @@
             "category_seo_title": "troyes-vs-lens-ligue-one-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791881432540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791881432540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19017,
+            "title": "Round 13 Race - Chengdu, China",
+            "header_name": "Race - Kumho FIA TCR World Tour Euro Series 2026",
+            "description": "Live Stream Round 13 Race - Chengdu, China online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-18 06:50:00",
+            "seo_title": "round-13-race-chengdu,-china",
+            "category_seo_title": "round-13-race---chengdu,-china",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791974615540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791974615540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
