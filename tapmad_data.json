@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "11:00:08 PM 17-10-2026",
-    "total_matches": 21,
-    "live_match": 6,
+    "last_update_time": "12:00:06 AM 18-10-2026",
+    "total_matches": 20,
+    "live_match": 5,
     "upcoming_match": 15,
     "matches": [
         {
@@ -39,51 +39,6 @@
         },
         {
             "status": "LIVE",
-            "content_entity_id": 17718,
-            "title": "India vs West Indies",
-            "header_name": "5th T20I - West Indies Tour of India 2026",
-            "description": "The West Indies Tour of India 2026 brings two competitive cricket sides together for an exciting international series. The tour features 3 ODIs and 5 T20Is, running from September 27 to October 17, 2026. India’s ODI side will be led by Shubman Gill, while Shreyas Iyer will captain the T20I team. Shai Hope will lead the West Indies across the series. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the tour. Watch India vs West Indies 2026 live in HD on tapmad via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
-            "start_time_bd": "2026-10-18 01:30:00",
-            "seo_title": "west-indies-tour-of-india-2026",
-            "category_seo_title": "west-indies-tour-of-india-2026",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791354679540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791354679540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 18998,
-            "title": "Moto 2 - Olbia, Italy",
-            "header_name": "Race 2 - UIM - ABP Aquabike World Championship 2026",
-            "description": "Watch Moto 2 - Olbia, Italy in the UIM-ABP Aquabike World Championship 2026. The UIM-ABP Aquabike World Championship 2026 brings together elite riders for high-speed international aquabike racing. Featuring powerful watercraft, intense racing battles, technical skill, speed, and spectacular finishes, every round delivers thrilling motorsport action. Watch the UIM-ABP Aquabike World Championship 2026 live in HD on tapmad via app, web, or Smart TV. Catch every race, overtaking battle, and key moment live on tapmad.",
-            "start_time_bd": "2026-10-18 02:30:00",
-            "seo_title": "uim-abp-aquabike-world-championship-2026",
-            "category_seo_title": "uim-abp-aquabike-world-championship-2026",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791964131540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791964131540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 18423,
-            "title": "Strasbourg vs PSG",
-            "header_name": "MATCHDAY 7 - French Ligue 1 2026\/27",
-            "description": "Watch Strasbourg vs PSG live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Strasbourg vs PSG match will take place on 17-Oct, Saturday, at 08:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-10-18 03:15:00",
-            "seo_title": "strasbourg-vs-psg-ligue-one-live-match",
-            "category_seo_title": "strasbourg-vs-psg-ligue-one-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791881112540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791881112540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/d8j84o343a5m2.cloudfront.net\/live\/testtapmad2\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
             "content_entity_id": 18278,
             "title": "Betis vs Barcelona",
             "header_name": "MATCHDAY 9 - LaLiga 2026\/27",
@@ -98,7 +53,7 @@
             "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18424,
             "title": "LOSC vs Brest",
             "header_name": "MATCHDAY 7 - French Ligue 1 2026\/27",
@@ -110,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791881258540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/promos\/Ligue1\/ImLovinIt\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18425,
             "title": "Troyes vs Lens",
             "header_name": "MATCHDAY 7 - French Ligue 1 2026\/27",
@@ -125,7 +80,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791881432540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/promos\/Ligue1\/ImLovinIt\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -318,6 +273,36 @@
             "category_seo_title": "paris fc-vs-rennes-ligue-one-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791881975540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791881975540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18282,
+            "title": "Malaga vs Real Sociedad",
+            "header_name": "MATCHDAY 9 - LaLiga 2026\/27",
+            "description": "The 85th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Malaga vs Real Sociedad live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web or smart TV.",
+            "start_time_bd": "2026-10-19 04:30:00",
+            "seo_title": "laliga-malaga-vs-real-sociedad-live",
+            "category_seo_title": "laliga--malaga-vs-real-sociedad-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790933705540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790933705540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18430,
+            "title": "OL vs Nice",
+            "header_name": "MATCHDAY 7 - French Ligue 1 2026\/27",
+            "description": "Watch OL vs Nice live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The OL vs Nice match will take place on 18-Oct, Sunday, at 11:45 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-19 06:45:00",
+            "seo_title": "ol-vs-nice-ligue-one-live-match",
+            "category_seo_title": "ol-vs-nice-ligue-one-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791882115540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791882115540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
