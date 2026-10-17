@@ -3,13 +3,16 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:00:07 PM 17-10-2026 (BD Time)
-# All channel : 2
+# Last Updated: 06:00:05 PM 17-10-2026 (BD Time)
+# All channel : 3
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-18901" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792130757540x302.jpg" group-title="Cricket",Bangladesh vs Zimbabwe - 1st ODI - UAE ODI Tri-Series 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-18992" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1791963476540x302.jpg" group-title="Racing",Moto 1 - Olbia, Italy - Race 1 - UIM - ABP Aquabike World Championship 2026
+#EXTINF:-1 tvg-id="tapmad-18276" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1790932864540x302.jpg" group-title="Football",Espanyol vs Atletico Madrid - MATCHDAY 9 - LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19096" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1792231675540x302_.jpg" group-title="Mma",Nikoloz Abramishvili vs Aaron McKenzie - PFL vs RKENA - PFL 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
