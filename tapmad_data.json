@@ -2,7 +2,7 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "12:00:06 AM 18-10-2026",
+    "last_update_time": "01:00:07 AM 18-10-2026",
     "total_matches": 20,
     "live_match": 5,
     "upcoming_match": 15,
@@ -39,21 +39,6 @@
         },
         {
             "status": "LIVE",
-            "content_entity_id": 18278,
-            "title": "Betis vs Barcelona",
-            "header_name": "MATCHDAY 9 - LaLiga 2026\/27",
-            "description": "The 81th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Betis vs Barcelona live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-10-18 04:30:00",
-            "seo_title": "laliga-betis-vs-barcelona-live",
-            "category_seo_title": "laliga--betis-vs-barcelona-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790933165540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790933165540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
             "content_entity_id": 18424,
             "title": "LOSC vs Brest",
             "header_name": "MATCHDAY 7 - French Ligue 1 2026\/27",
@@ -65,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791881258540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/promos\/Ligue1\/ImLovinIt\/master.m3u8"
+            "stream_url": "https:\/\/d8j84o343a5m2.cloudfront.net\/live\/testtapmad3\/master.m3u8"
         },
         {
             "status": "LIVE",
@@ -80,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791881432540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/promos\/Ligue1\/ImLovinIt\/master.m3u8"
+            "stream_url": "https:\/\/d8j84o343a5m2.cloudfront.net\/live\/testtapmad2\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18279,
             "title": "Valencia vs Athletic",
             "header_name": "MATCHDAY 9 - LaLiga 2026\/27",
@@ -95,7 +80,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790933304540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -189,6 +174,21 @@
         },
         {
             "status": "UPCOMING",
+            "content_entity_id": 19004,
+            "title": "Moto 3 - Olbia, Italy",
+            "header_name": "Race 3 - UIM - ABP Aquabike World Championship 2026",
+            "description": "Watch Moto 3 - Olbia, Italy in the UIM-ABP Aquabike World Championship 2026. The UIM-ABP Aquabike World Championship 2026 brings together elite riders for high-speed international aquabike racing. Featuring powerful watercraft, intense racing battles, technical skill, speed, and spectacular finishes, every round delivers thrilling motorsport action. Watch the UIM-ABP Aquabike World Championship 2026 live in HD on tapmad via app, web, or Smart TV. Catch every race, overtaking battle, and key moment live on tapmad.",
+            "start_time_bd": "2026-10-19 00:30:00",
+            "seo_title": "uim-abp-aquabike-world-championship-2026",
+            "category_seo_title": "uim-abp-aquabike-world-championship-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791964313540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791964313540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
             "content_entity_id": 18426,
             "title": "Angers vs Marseille",
             "header_name": "MATCHDAY 7 - French Ligue 1 2026\/27",
@@ -198,21 +198,6 @@
             "category_seo_title": "angers-vs-marseille-ligue-one-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791881566540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791881566540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "UPCOMING",
-            "content_entity_id": 19004,
-            "title": "Moto 3 - Olbia, Italy",
-            "header_name": "Race 3 - UIM - ABP Aquabike World Championship 2026",
-            "description": "Watch Moto 3 - Olbia, Italy in the UIM-ABP Aquabike World Championship 2026. The UIM-ABP Aquabike World Championship 2026 brings together elite riders for high-speed international aquabike racing. Featuring powerful watercraft, intense racing battles, technical skill, speed, and spectacular finishes, every round delivers thrilling motorsport action. Watch the UIM-ABP Aquabike World Championship 2026 live in HD on tapmad via app, web, or Smart TV. Catch every race, overtaking battle, and key moment live on tapmad.",
-            "start_time_bd": "2026-10-19 01:00:00",
-            "seo_title": "uim-abp-aquabike-world-championship-2026",
-            "category_seo_title": "uim-abp-aquabike-world-championship-2026",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791964313540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791964313540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
@@ -303,6 +288,21 @@
             "category_seo_title": "ol-vs-nice-ligue-one-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791882115540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791882115540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18283,
+            "title": "Real Madrid vs Sevilla",
+            "header_name": "MATCHDAY 9 - LaLiga 2026\/27",
+            "description": "The 86th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Real Madrid vs Sevilla live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-19 07:00:00",
+            "seo_title": "laliga-real-madrid-vs-sevilla-live",
+            "category_seo_title": "laliga--real-madrid-vs-sevilla-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790936321540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790936321540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
