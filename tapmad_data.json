@@ -2,7 +2,7 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "07:00:07 PM 18-10-2026",
+    "last_update_time": "08:00:07 PM 18-10-2026",
     "total_matches": 20,
     "live_match": 5,
     "upcoming_match": 15,
@@ -39,21 +39,6 @@
         },
         {
             "status": "LIVE",
-            "content_entity_id": 18280,
-            "title": "Osasuna vs Racing Santander",
-            "header_name": "MATCHDAY 9 - LaLiga 2026\/27",
-            "description": "The 83th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Osasuna vs Racing Santander live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web or smart TV.",
-            "start_time_bd": "2026-10-19 00:00:00",
-            "seo_title": "laliga-osasuna-vs-racing-santander-live",
-            "category_seo_title": "laliga--osasuna-vs-racing-santander-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790933450540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790933450540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
             "content_entity_id": 19004,
             "title": "Moto 3 - Olbia, Italy",
             "header_name": "Race 3 - UIM - ABP Aquabike World Championship 2026",
@@ -83,7 +68,7 @@
             "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/28593jkiL-tapmad\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18281,
             "title": "Celta vs Alaves",
             "header_name": "MATCHDAY 9 - LaLiga 2026\/27",
@@ -95,7 +80,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790933574540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -303,6 +288,21 @@
             "category_seo_title": "sabah-vs-borussia dortmund-ucl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792046846540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792046846540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18360,
+            "title": "Fenerbahce vs Slavia Praha",
+            "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
+            "description": "Watch Fenerbahce vs Slavia Praha live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Fenerbahce vs Slavia Praha match will take place on 20-Oct, Tuesday, at 09:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-21 04:45:00",
+            "seo_title": "fenerbahce-vs-slavia-praha-ucl-live-match",
+            "category_seo_title": "fenerbahce-vs-slavia praha-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792046736540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792046736540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
