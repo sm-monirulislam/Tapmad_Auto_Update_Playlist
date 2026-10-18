@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "08:00:04 AM 18-10-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "09:00:05 AM 18-10-2026",
+    "total_matches": 16,
+    "live_match": 1,
     "upcoming_match": 15,
     "matches": [
         {
@@ -21,21 +21,6 @@
             "is_sports": true,
             "is_channel": true,
             "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/28593jkiL-tapmad\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19023,
-            "title": "Round 14 Race - Chengdu, China",
-            "header_name": "Race - Kumho FIA TCR World Tour Euro Series 2026",
-            "description": "Live Stream Round 14 Race - Chengdu, China online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-10-18 13:05:00",
-            "seo_title": "round-14-race-chengdu,-china",
-            "category_seo_title": "round-14-race---chengdu,-china",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791975141540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791975141540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
         },
         {
             "status": "UPCOMING",
