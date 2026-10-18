@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "08:00:07 PM 18-10-2026",
-    "total_matches": 20,
-    "live_match": 5,
+    "last_update_time": "09:00:09 PM 18-10-2026",
+    "total_matches": 22,
+    "live_match": 7,
     "upcoming_match": 15,
     "matches": [
         {
@@ -21,21 +21,6 @@
             "is_sports": true,
             "is_channel": true,
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 17701,
-            "title": "South Africa vs Australia",
-            "header_name": "2nd Test - Australia Tour of South Africa 2026",
-            "description": "The Australia Tour of South Africa 2026 brings two competitive cricket sides together for an exciting international series. Led by Pat Cummins, Australia will face Temba Bavuma’s South Africa in a thrilling contest featuring 3 ODIs and 3 Test matches. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the series. Watch Australia Tour of South Africa 2026 live in HD on tapmad with official coverage via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
-            "start_time_bd": "2026-10-18 20:00:00",
-            "seo_title": "australia-tour-of-south-africa-2026",
-            "category_seo_title": "australia-tour-of-south-africa-2026",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791889900540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791889900540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145abfb3a1ea540a81c2b41b751\/01a145ae0ac115fc600b1e3e9683da\/main.m3u8"
         },
         {
             "status": "LIVE",
@@ -80,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790933574540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18427,
             "title": "Le Havre vs Auxerre",
             "header_name": "MATCHDAY 7 - French Ligue 1 2026\/27",
@@ -95,10 +80,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791881711540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/d8j84o343a5m2.cloudfront.net\/live\/testtapmad3\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18428,
             "title": "Lorient vs Monaco",
             "header_name": "MATCHDAY 7 - French Ligue 1 2026\/27",
@@ -110,10 +95,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791881833540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/d8j84o343a5m2.cloudfront.net\/live\/testtapmad3\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18429,
             "title": "Paris FC vs Rennes",
             "header_name": "MATCHDAY 7 - French Ligue 1 2026\/27",
@@ -125,7 +110,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791881975540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/56408643-tapMad\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -168,6 +153,21 @@
             "category_seo_title": "laliga--real-madrid-vs-sevilla-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790936321540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790936321540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17701,
+            "title": "South Africa vs Australia",
+            "header_name": "2nd Test - Australia Tour of South Africa 2026",
+            "description": "The Australia Tour of South Africa 2026 brings two competitive cricket sides together for an exciting international series. Led by Pat Cummins, Australia will face Temba Bavuma’s South Africa in a thrilling contest featuring 3 ODIs and 3 Test matches. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the series. Watch Australia Tour of South Africa 2026 live in HD on tapmad with official coverage via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
+            "start_time_bd": "2026-10-19 20:00:00",
+            "seo_title": "australia-tour-of-south-africa-2026",
+            "category_seo_title": "australia-tour-of-south-africa-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791889900540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791889900540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
@@ -303,6 +303,36 @@
             "category_seo_title": "fenerbahce-vs-slavia praha-ucl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792046736540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792046736540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18361,
+            "title": "Paris Saint-Germain vs Barcelona",
+            "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
+            "description": "Watch Paris Saint-Germain vs Barcelona live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Paris Saint-Germain vs Barcelona match will take place on 21-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-21 07:00:00",
+            "seo_title": "paris-saint-germain-vs-barcelona-ucl-live-match",
+            "category_seo_title": "paris saint-germain-vs-barcelona-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792049907540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792049907540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18362,
+            "title": "Manchester City vs AEK Athens",
+            "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
+            "description": "Watch Manchester City vs AEK Athens live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Manchester City vs AEK Athens match will take place on 21-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-21 07:00:00",
+            "seo_title": "manchester-city-vs-aek-athens-ucl-live-match",
+            "category_seo_title": "manchester city-vs-aek athens-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792049697540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792049697540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
