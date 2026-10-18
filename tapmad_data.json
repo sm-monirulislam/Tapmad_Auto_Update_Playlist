@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "05:00:06 PM 18-10-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "06:00:06 PM 18-10-2026",
+    "total_matches": 19,
+    "live_match": 4,
     "upcoming_match": 15,
     "matches": [
         {
@@ -38,7 +38,7 @@
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145abfb3a1ea540a81c2b41b751\/01a145ae0ac115fc600b1e3e9683da\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18280,
             "title": "Osasuna vs Racing Santander",
             "header_name": "MATCHDAY 9 - LaLiga 2026\/27",
@@ -50,10 +50,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790933450540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/tapmad258645\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19004,
             "title": "Moto 3 - Olbia, Italy",
             "header_name": "Race 3 - UIM - ABP Aquabike World Championship 2026",
@@ -65,7 +65,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791964313540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -258,6 +258,36 @@
             "category_seo_title": "federation-cup-football-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790936754540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790936754540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18263,
+            "title": "Mohammedan SC Ltd vs PWD Sports Club",
+            "header_name": "MATCHDAY 4 - Federation Cup 2026\/27",
+            "description": "Watch Mohammedan SC Ltd vs PWD Sports Club in the The Federation Cup 2026. The Federation Cup 2026\/27 brings together Bangladesh's leading football clubs for an exciting domestic cup competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the season. The Mohammedan SC Ltd  vs PWD Sports Club match will take place on 20-Oct, at 02:45 PM. Stream all Federation Cup 2026 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-20 20:45:00",
+            "seo_title": "federation-cup-football-live",
+            "category_seo_title": "federation-cup-football-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790936864540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790936864540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18264,
+            "title": "Arambagh Krira Shangha vs Dhaka Wanderers Club",
+            "header_name": "MATCHDAY 4 - Federation Cup 2026\/27",
+            "description": "Watch Arambagh Krira Shangha vs Dhaka Wanderers Club in the The Federation Cup 2026. The Federation Cup 2026\/27 brings together Bangladesh's leading football clubs for an exciting domestic cup competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the season. The Arambagh Krira Shangha vs Dhaka Wanderers Club match will take place on 20-Oct, at 02:45 PM. Stream all Federation Cup 2026 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-20 20:45:00",
+            "seo_title": "federation-cup-football-live",
+            "category_seo_title": "federation-cup-football-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1790936959540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790936959540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
