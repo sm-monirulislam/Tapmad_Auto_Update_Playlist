@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:00:09 PM 18-10-2026",
-    "total_matches": 22,
-    "live_match": 7,
+    "last_update_time": "10:00:07 PM 18-10-2026",
+    "total_matches": 21,
+    "live_match": 6,
     "upcoming_match": 15,
     "matches": [
         {
@@ -21,36 +21,6 @@
             "is_sports": true,
             "is_channel": true,
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19004,
-            "title": "Moto 3 - Olbia, Italy",
-            "header_name": "Race 3 - UIM - ABP Aquabike World Championship 2026",
-            "description": "Watch Moto 3 - Olbia, Italy in the UIM-ABP Aquabike World Championship 2026. The UIM-ABP Aquabike World Championship 2026 brings together elite riders for high-speed international aquabike racing. Featuring powerful watercraft, intense racing battles, technical skill, speed, and spectacular finishes, every round delivers thrilling motorsport action. Watch the UIM-ABP Aquabike World Championship 2026 live in HD on tapmad via app, web, or Smart TV. Catch every race, overtaking battle, and key moment live on tapmad.",
-            "start_time_bd": "2026-10-19 00:30:00",
-            "seo_title": "uim-abp-aquabike-world-championship-2026",
-            "category_seo_title": "uim-abp-aquabike-world-championship-2026",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791964313540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791964313540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/j15klM\/\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 18426,
-            "title": "Angers vs Marseille",
-            "header_name": "MATCHDAY 7 - French Ligue 1 2026\/27",
-            "description": "Watch Angers vs Marseille live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Angers vs Marseille match will take place on 18-Oct, Sunday, at 06:00 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-10-19 01:00:00",
-            "seo_title": "angers-vs-marseille-ligue-one-live-match",
-            "category_seo_title": "angers-vs-marseille-ligue-one-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791881566540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791881566540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/28593jkiL-tapmad\/master.m3u8"
         },
         {
             "status": "LIVE",
@@ -80,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791881711540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/d8j84o343a5m2.cloudfront.net\/live\/testtapmad3\/master.m3u8"
+            "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/306-tapmad\/master.m3u8"
         },
         {
             "status": "LIVE",
@@ -113,7 +83,7 @@
             "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/56408643-tapMad\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18282,
             "title": "Malaga vs Real Sociedad",
             "header_name": "MATCHDAY 9 - LaLiga 2026\/27",
@@ -125,7 +95,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1790933705540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -333,6 +303,21 @@
             "category_seo_title": "manchester city-vs-aek athens-ucl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792049697540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792049697540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18363,
+            "title": "Napoli vs Bodo\/Glimt",
+            "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
+            "description": "Watch Napoli vs Bodo\/Glimt live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Napoli vs Bodo\/Glimt match will take place on 21-Oct, Wednesday, at 12:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-21 07:00:00",
+            "seo_title": "napoli-vs-bodo\/glimt-ucl-live-match",
+            "category_seo_title": "napoli-vs-bodo\/glimt-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792050058540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792050058540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
