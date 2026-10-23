@@ -2,26 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "12:00:06 AM 24-10-2026",
+    "last_update_time": "01:00:05 AM 24-10-2026",
     "total_matches": 18,
     "live_match": 3,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 18904,
-            "title": "Afghanistan vs Zimbabwe",
-            "header_name": "Final - UAE ODI Tri-Series 2026",
-            "description": "Watch UAE ODI Tri-Series 2026 live on tapmad. The AFG vs ZIM brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The Final ODI is scheduled to be played on 23-Oct-2026 at 05:30 PM . Fans can watch UAE ODI Tri-Series 2026live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-10-23 23:30:00",
-            "seo_title": "afg-vs-zim-final-odi-live",
-            "category_seo_title": "afg-vs-zim-final-odi-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792753265540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792753265540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
         {
             "status": "LIVE",
             "content_entity_id": 17110,
@@ -53,7 +38,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18286,
             "title": "Alaves vs Malaga",
             "header_name": "MATCHDAY 10 - LaLiga 2026\/27",
@@ -273,6 +258,21 @@
             "category_seo_title": "longines-fei-jumping-world-cup-nal-2030",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792586873540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792586873540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19084,
+            "title": "Round 17 - Race 2 - Zheijang, China",
+            "header_name": "Race - Kumho FIA TCR World Tour Euro Series 2026",
+            "description": "Live Stream Round 17 - Race 2 - Zheijang, China online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-25 13:30:00",
+            "seo_title": "round-17-race-2-zheijang,-china",
+            "category_seo_title": "round-17---race-2---zheijang,-china",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792142021540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792142021540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
