@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "06:00:05 PM 23-10-2026",
-    "total_matches": 16,
-    "live_match": 1,
+    "last_update_time": "07:00:06 PM 23-10-2026",
+    "total_matches": 17,
+    "live_match": 2,
     "upcoming_match": 15,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17108,
             "title": "Al-Faisaly vs Al-Nassr",
             "header_name": "MATCHDAY 11 - Saudi Pro League 2026\/27",
@@ -243,6 +243,21 @@
             "category_seo_title": "laliga--valencia-vs-villarreal-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792649507540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792649507540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18234,
+            "title": "Volkanovski vs Evloev",
+            "header_name": "UFC 333 - UFC 2026",
+            "description": "UFC 333 Live: Watch Volkanovski vs Evloev live online on tapmad. Enjoy watching Volkanovski vs Evloev live streaming online in Bangladesh with full match highlights. The fight will start at 12:00 AM on 25-Oct. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
+            "start_time_bd": "2026-10-25 06:00:00",
+            "seo_title": "ufc-333-volkanovski-vs-evloev-live",
+            "category_seo_title": "ufc 333-volkanovski vs evloev-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792131891540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792131891540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
