@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:00:04 PM 24-10-2026",
-    "total_matches": 16,
-    "live_match": 1,
+    "last_update_time": "10:00:05 PM 24-10-2026",
+    "total_matches": 17,
+    "live_match": 2,
     "upcoming_match": 15,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18289,
             "title": "Valencia vs Villarreal",
             "header_name": "MATCHDAY 10 - LaLiga 2026\/27",
@@ -243,6 +243,21 @@
             "category_seo_title": "auxerre-vs-le mans-ligue-one-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792391288540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792391288540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18432,
+            "title": "Toulouse vs Troyes",
+            "header_name": "MATCHDAY 8 - French Ligue 1 2026\/27",
+            "description": "Watch Toulouse vs Troyes live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Toulouse vs Troyes match will take place on 24-Oct, Sunday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-26 04:15:00",
+            "seo_title": "toulouse-vs-troyes-ligue-one-live-match",
+            "category_seo_title": "toulouse-vs-troyes-ligue-one-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792390901540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792390901540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
