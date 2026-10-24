@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "02:00:07 PM 24-10-2026",
-    "total_matches": 20,
-    "live_match": 5,
+    "last_update_time": "03:00:06 PM 24-10-2026",
+    "total_matches": 19,
+    "live_match": 4,
     "upcoming_match": 15,
     "matches": [
         {
@@ -18,21 +18,6 @@
             "category_seo_title": "nz-vs-ind-2nd-t20i-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792394762540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792394762540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19078,
-            "title": "Round 16 - Race 1 - Zheijang, China",
-            "header_name": "Race - Kumho FIA TCR World Tour Euro Series 2026",
-            "description": "Live Stream Round 16 - Race 1 - Zheijang, China online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-10-24 19:00:00",
-            "seo_title": "round-16-race-1-zheijang,-china",
-            "category_seo_title": "round-16---race-1---zheijang,-china",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792141720540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792141720540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
