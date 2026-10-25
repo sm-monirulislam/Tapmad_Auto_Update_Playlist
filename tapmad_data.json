@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:00:07 PM 25-10-2026",
-    "total_matches": 19,
-    "live_match": 4,
+    "last_update_time": "10:00:09 PM 25-10-2026",
+    "total_matches": 23,
+    "live_match": 8,
     "upcoming_match": 15,
     "matches": [
         {
@@ -18,21 +18,6 @@
             "category_seo_title": "pak-vs-eng-4th-odi-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792875880540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792875880540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 18291,
-            "title": "Athletic vs Getafe",
-            "header_name": "MATCHDAY 10 - LaLiga 2026\/27",
-            "description": "The 83rd match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Athletic vs Getafe live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-10-26 00:00:00",
-            "seo_title": "laliga-athletic-vs-getafe-live",
-            "category_seo_title": "laliga--athletic-vs-getafe-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792649821540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792649821540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
@@ -68,7 +53,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18438,
             "title": "Rennes vs Strasbourg",
             "header_name": "MATCHDAY 8 - French Ligue 1 2026\/27",
@@ -83,7 +68,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18437,
             "title": "Angers vs Lorient",
             "header_name": "MATCHDAY 8 - French Ligue 1 2026\/27",
@@ -98,7 +83,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18436,
             "title": "Marseille vs Le Havre",
             "header_name": "MATCHDAY 8 - French Ligue 1 2026\/27",
@@ -113,7 +98,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18435,
             "title": "Auxerre vs Le Mans",
             "header_name": "MATCHDAY 8 - French Ligue 1 2026\/27",
@@ -128,7 +113,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18432,
             "title": "Toulouse vs Troyes",
             "header_name": "MATCHDAY 8 - French Ligue 1 2026\/27",
@@ -288,6 +273,81 @@
             "category_seo_title": "laliga--sevilla-vs-osasuna-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792650210540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792650210540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19057,
+            "title": "New Zealand vs India",
+            "header_name": "3rd T20I - India Tour of New Zealand 2026",
+            "description": "Watch Inida Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd T20I is scheduled to be played on 27-Oct-2026 at 12:00 PM . Fans can watch Inida Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-27 19:00:00",
+            "seo_title": "nz-vs-ind-3rd-t20i-live",
+            "category_seo_title": "nz-vs-ind-3rd-t20i-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792394918540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792394918540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18884,
+            "title": "Pakistan vs Sri Lanka",
+            "header_name": "5th ODI - Pakistan ODI Tri-Series 2026",
+            "description": "Watch Pakistan ODI Tri-Series 2026 live on tapmad. The PAK vs SL brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 5th ODI is scheduled to be played on 27-Oct-2026 at 01:00 PM . Fans can watch Pakistan ODI Tri-Series 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-27 20:00:00",
+            "seo_title": "pak-vs-sl-5th-odi-live",
+            "category_seo_title": "pak-vs-sl-5th-odi-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792577649540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792577649540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17702,
+            "title": "South Africa vs Australia",
+            "header_name": "3rd Test - Australia Tour of South Africa 2026",
+            "description": "The Australia Tour of South Africa 2026 brings two competitive cricket sides together for an exciting international series. Led by Pat Cummins, Australia will face Temba Bavuma’s South Africa in a thrilling contest featuring 3 ODIs and 3 Test matches. Expect quality batting, disciplined bowling, powerful hitting, and intense matchups throughout the series. Watch Australia Tour of South Africa 2026 live in HD on tapmad with official coverage via the app, web, or Smart TV. Catch every run, wicket, boundary, and key moment live on tapmad.",
+            "start_time_bd": "2026-10-27 20:30:00",
+            "seo_title": "australia-tour-of-south-africa-2026",
+            "category_seo_title": "australia-tour-of-south-africa-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791890098540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791890098540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18763,
+            "title": "Johor Darul Ta'zim FC (MAS) vs Port FC (THA)",
+            "header_name": "MATCHDAY 3 - AFC Champions League Elite 2026\/27",
+            "description": "Watch Johor Darul Ta'zim FC vs Port FC live online on tapmad. The AFC Champions League Elite Johor Darul Ta'zim FC vs Port FC match is scheduled to take place on 27-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-27 22:00:00",
+            "seo_title": "afc-champions-league-elite-johor-darul-ta'zim-fc-vs-port-fc",
+            "category_seo_title": "afc-champions-league-elite-Johor Darul Ta'zim FC vs Port FC",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792567168540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792567168540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18758,
+            "title": "Daejeon Hana Citizen (KOR) vs Vissel Kobe (JPN)",
+            "header_name": "MATCHDAY 3 - AFC Champions League Elite 2026\/27",
+            "description": "Watch Daejeon Hana Citizen vs Vissel Kobe live online on tapmad. The AFC Champions League Elite Daejeon Hana Citizen vs Vissel Kobe match is scheduled to take place on 27-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-27 22:00:00",
+            "seo_title": "afc-champions-league-elite-daejeon-hana-citizen-vs-vissel-kobe",
+            "category_seo_title": "afc-champions-league-elite-Daejeon Hana Citizen vs Vissel Kobe",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792566860540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792566860540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
