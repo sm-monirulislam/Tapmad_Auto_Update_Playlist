@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "07:00:05 PM 25-10-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "08:00:06 PM 25-10-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "upcoming_match": 15,
     "matches": [
         {
@@ -38,7 +38,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18434,
             "title": "Monaco vs LOSC",
             "header_name": "MATCHDAY 8 - French Ligue 1 2026\/27",
@@ -258,6 +258,21 @@
             "category_seo_title": "afc-champions-league-elite-Al Nassr Club vs Al Wasl FC",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792489177540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792489177540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18733,
+            "title": "Al Qadsiah Club (KSA) vs Al Sadd SC (QAT)",
+            "header_name": "MATCHDAY 3 - AFC Champions League Elite 2026\/27",
+            "description": "Watch Al Qadsiah Club vs Al Sadd SC live online on tapmad. The AFC Champions League Elite Al Qadsiah Club vs Al Sadd SC match is scheduled to take place on 27-Oct,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-27 06:15:00",
+            "seo_title": "afc-champions-league-elite-al-qadsiah-club-vs-al-sadd-sc",
+            "category_seo_title": "afc-champions-league-elite-Al Qadsiah Club vs Al Sadd SC",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792485315540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792485315540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
