@@ -2,26 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "01:00:04 PM 27-10-2026",
+    "last_update_time": "02:00:04 PM 27-10-2026",
     "total_matches": 17,
     "live_match": 2,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 19327,
-            "title": "Trophy Reveal",
-            "header_name": "Show - West indies Tour of Bangladesh 2026",
-            "description": "The trophy reveal for the West Indies Tour of Bangladesh 2026 is scheduled for 27 October 2026, marking the beginning of an exciting international cricket series between Bangladesh and the West Indies. With both teams ready to compete, fans can look forward to quality batting, disciplined bowling, and intense on-field action. The 1st Test is scheduled for 28 October 2026 at 10:00 AM. Watch the West Indies Tour of Bangladesh 2026 live on tapmad via web, app, or smart TV, and stay tuned for all the action as the series begins.",
-            "start_time_bd": "2026-10-27 18:15:00",
-            "seo_title": "west-indies-tour-of-bangladesh-2026-trophy-reveal",
-            "category_seo_title": "West-Indies-Tour-of-Bangladesh-2026-Trophy-Reveal",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793048707540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793048708540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
         {
             "status": "LIVE",
             "content_entity_id": 19057,
@@ -38,7 +23,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18884,
             "title": "Pakistan vs Sri Lanka",
             "header_name": "5th ODI - Pakistan ODI Tri-Series 2026",
@@ -258,6 +243,21 @@
             "category_seo_title": "afc-champions-league-elite-Kashima Antlers vs FC Pohang Steelers",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792738131540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792738131540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18768,
+            "title": "Gamba Osaka (JPN) vs Buriram United (THA)",
+            "header_name": "MATCHDAY 3 - AFC Champions League Elite 2026\/27",
+            "description": "Watch Gamba Osaka vs Buriram United live online on tapmad. The AFC Champions League Elite Gamba Osaka vs Buriram United match is scheduled to take place on 28-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-28 22:00:00",
+            "seo_title": "afc-champions-league-elite-gamba-osaka-vs-buriram-united",
+            "category_seo_title": "afc-champions-league-elite-Gamba Osaka vs Buriram United",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792737665540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792737665540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
