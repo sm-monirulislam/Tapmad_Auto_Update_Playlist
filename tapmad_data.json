@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "03:00:04 PM 27-10-2026",
-    "total_matches": 18,
-    "live_match": 3,
+    "last_update_time": "04:00:07 PM 27-10-2026",
+    "total_matches": 22,
+    "live_match": 7,
     "upcoming_match": 15,
     "matches": [
         {
@@ -53,7 +53,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18763,
             "title": "Johor Darul Ta'zim FC (MAS) vs Port FC (THA)",
             "header_name": "MATCHDAY 3 - AFC Champions League Elite 2026\/27",
@@ -68,7 +68,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18758,
             "title": "Daejeon Hana Citizen (KOR) vs Vissel Kobe (JPN)",
             "header_name": "MATCHDAY 3 - AFC Champions League Elite 2026\/27",
@@ -83,7 +83,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18753,
             "title": "Shanghai Port FC (CHN) vs Cong An Hai Noi FC (VIE)",
             "header_name": "MATCHDAY 3 - AFC Champions League Elite 2026\/27",
@@ -98,7 +98,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18748,
             "title": "Kyoto Sanga FC (IRN) vs Newcastle Jets FC (AUS)",
             "header_name": "MATCHDAY 3 - AFC Champions League Elite 2026\/27",
@@ -146,7 +146,7 @@
             "status": "UPCOMING",
             "content_entity_id": 19111,
             "title": "Afghanistan vs Zimbabwe",
-            "header_name": "1st T20I - Afghanistan vs Zimbabwe 2026\/27",
+            "header_name": "1st T20I - Afghanistan vs Zimbabwe 2026",
             "description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st T20I is scheduled to be played on 27-Oct-2026 at 08:30 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
             "start_time_bd": "2026-10-28 02:30:00",
             "seo_title": "afg-vs-zim-1st-t20i-live",
@@ -273,6 +273,66 @@
             "category_seo_title": "afc-champions-league-two",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792655348540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792655349540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18548,
+            "title": "The Cong - Viettel FC (VIE) vs FC Seoul (KOR)",
+            "header_name": "MATCHDAY 3 - AFC Champions League Two 2026\/27",
+            "description": "Watch The Cong - Viettel FC vs FC Seoul live online on tapmad. The AFC Champions League Two The Cong - Viettel FC vs FC Seoul match is scheduled to take place on 28-Oct,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-29 00:15:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792656447540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792656447540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18558,
+            "title": "Golgohar Sirjan SC (IRN) vs FC Arkadag (TKM)",
+            "header_name": "MATCHDAY 3 - AFC Champions League Two 2026\/27",
+            "description": "Watch Golgohar Sirjan SC vs FC Arkadag live online on tapmad. The AFC Champions League Two Golgohar Sirjan SC vs FC Arkadag match is scheduled to take place on 28-Oct,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-29 01:45:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792658276540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792658276540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18553,
+            "title": "PFC Nasaf (UZB) vs Kuwait SC (KUW)",
+            "header_name": "MATCHDAY 3 - AFC Champions League Two 2026\/27",
+            "description": "Watch PFC Nasaf vs Kuwait SC live online on tapmad. The AFC Champions League Two PFC Nasaf vs Kuwait SC match is scheduled to take place on 28-Oct,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-29 01:45:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792657949540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792657949540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18568,
+            "title": "Al Nahda Club (OMA) vs Al Rayyan SC (QAT)",
+            "header_name": "MATCHDAY 3 - AFC Champions League Two 2026\/27",
+            "description": "Watch Al Nahda Club vs Al Rayyan SC live online on tapmad. The AFC Champions League Two Al Nahda Club vs Al Rayyan SC match is scheduled to take place on 28-Oct,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-29 04:00:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792659286540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792659286540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
