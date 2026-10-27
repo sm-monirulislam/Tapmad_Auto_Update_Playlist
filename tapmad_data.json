@@ -2,13 +2,13 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "12:00:03 PM 27-10-2026",
-    "total_matches": 15,
-    "live_match": 0,
+    "last_update_time": "01:00:04 PM 27-10-2026",
+    "total_matches": 17,
+    "live_match": 2,
     "upcoming_match": 15,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19327,
             "title": "Trophy Reveal",
             "header_name": "Show - West indies Tour of Bangladesh 2026",
@@ -23,7 +23,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19057,
             "title": "New Zealand vs India",
             "header_name": "3rd T20I - India Tour of New Zealand 2026",
@@ -228,6 +228,36 @@
             "category_seo_title": "afc-champions-league-two",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792654940540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792654941540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19120,
+            "title": "Bangladesh vs West Indies",
+            "header_name": "1st Test - West indies Tour of Bangladesh 2026",
+            "description": "Watch West Indies Tour of Bangladesh 2026 live on tapmad. The BAN vs WI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 28-Oct-2026 at 10:00 AM . Fans can watch West Indies Tour of Bangladesh 2026 live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-28 16:00:00",
+            "seo_title": "ban-vs-wi-1st-test-live",
+            "category_seo_title": "ban-vs-wi-1st-test-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792999918540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792999918540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18773,
+            "title": "Kashima Antlers (JPN) vs FC Pohang Steelers (KOR)",
+            "header_name": "MATCHDAY 3 - AFC Champions League Elite 2026\/27",
+            "description": "Watch Kashima Antlers vs FC Pohang Steelers live online on tapmad. The AFC Champions League Elite Kashima Antlers vs FC Pohang Steelers match is scheduled to take place on 28-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-28 22:00:00",
+            "seo_title": "afc-champions-league-elite-kashima-antlers-vs-fc-pohang-steelers",
+            "category_seo_title": "afc-champions-league-elite-Kashima Antlers vs FC Pohang Steelers",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792738131540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792738131540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
