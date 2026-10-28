@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "03:00:05 PM 28-10-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "04:00:07 PM 28-10-2026",
+    "total_matches": 19,
+    "live_match": 4,
     "upcoming_match": 15,
     "matches": [
         {
@@ -38,7 +38,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18773,
             "title": "Kashima Antlers (JPN) vs FC Pohang Steelers (KOR)",
             "header_name": "MATCHDAY 3 - AFC Champions League Elite 2026\/27",
@@ -53,7 +53,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18768,
             "title": "Gamba Osaka (JPN) vs Buriram United (THA)",
             "header_name": "MATCHDAY 3 - AFC Champions League Elite 2026\/27",
@@ -258,6 +258,36 @@
             "category_seo_title": "afc-champions-league-two",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792740506540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792740506540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18593,
+            "title": "Gangwon FC (KOR) vs Kuching City FC (MAS)",
+            "header_name": "MATCHDAY 3 - AFC Champions League Two 2026\/27",
+            "description": "Watch Gangwon FC vs Kuching City FC live online on tapmad. The AFC Champions League Two Gangwon FC vs Kuching City FC match is scheduled to take place on 29-Oct,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-29 22:00:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792740205540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792740205540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18613,
+            "title": "Phnom Penh Crown FC (CAM) vs Kitchee SC (HKG)",
+            "header_name": "MATCHDAY 3 - AFC Champions League Two 2026\/27",
+            "description": "Watch Phnom Penh Crown FC vs Kitchee SC live online on tapmad. The AFC Champions League Two Phnom Penh Crown FC vs Kitchee SC match is scheduled to take place on 29-Oct,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-30 00:15:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792741467540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792741467540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
