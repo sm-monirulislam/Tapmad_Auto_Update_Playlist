@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "03:00:06 PM 29-10-2026",
-    "total_matches": 20,
-    "live_match": 5,
+    "last_update_time": "04:00:07 PM 29-10-2026",
+    "total_matches": 22,
+    "live_match": 7,
     "upcoming_match": 15,
     "matches": [
         {
@@ -83,7 +83,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18598,
             "title": "Tampines Rovers FC (SGP) vs Preah Khan Reach Svay Rieng FC (CAM)",
             "header_name": "MATCHDAY 3 - AFC Champions League Two 2026\/27",
@@ -98,7 +98,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18593,
             "title": "Gangwon FC (KOR) vs Kuching City FC (MAS)",
             "header_name": "MATCHDAY 3 - AFC Champions League Two 2026\/27",
@@ -219,6 +219,21 @@
         },
         {
             "status": "UPCOMING",
+            "content_entity_id": 19336,
+            "title": "Hong Kong Sixes - Day 1",
+            "header_name": "Group Stage - Hong Kong International Sixes 2026",
+            "description": "Watch Hong Kong International Sixes 2026\/27 live on tapmad. The Hong Kong Sixes - Day 1 brings a competitive cricket sides together for an exciting international tournament. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st T20I is scheduled to be played on 30-Oct-2026 at 12:00 AM . Fans can watch Hong Kong International Sixes 2026\/27live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-10-30 12:45:00",
+            "seo_title": "hong-kong-sixes-day-1-vs-1st-t20i-live",
+            "category_seo_title": "hong-kong-sixes---day-1-vs--1st-t20i-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793264414540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793264414540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
             "content_entity_id": 19058,
             "title": "New Zealand vs India",
             "header_name": "4th T20I - India Tour of New Zealand 2026",
@@ -243,6 +258,21 @@
             "category_seo_title": "brh-vs-sys-3rd-t20i-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793087761540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793087761540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 17114,
+            "title": "Abha vs Al-Ittihad",
+            "header_name": "MATCHDAY 12 - Saudi Pro League 2026\/27",
+            "description": "The  match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Abha vs Al-Ittihad live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-31 01:45:00",
+            "seo_title": "saudi-pro-league-abha-vs-al-ittihad-live",
+            "category_seo_title": "saudi-pro-league--abha-vs-al-ittihad-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793262611540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793262611540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
@@ -279,6 +309,21 @@
         },
         {
             "status": "UPCOMING",
+            "content_entity_id": 17115,
+            "title": "Al Shabab vs Al Ahli",
+            "header_name": "MATCHDAY 12 - Saudi Pro League 2026\/27",
+            "description": "The  match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al Shabab vs Al Ahli live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-31 06:00:00",
+            "seo_title": "saudi-pro-league-al-shabab-vs-al-ahli-live",
+            "category_seo_title": "saudi-pro-league--al-shabab-vs-al-ahli-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793262719540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793262719540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
             "content_entity_id": 18441,
             "title": "LOSC vs Lens",
             "header_name": "MATCHDAY 9 - French Ligue 1 2026\/27",
@@ -288,21 +333,6 @@
             "category_seo_title": "losc-vs-lens-ligue-one-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793102300540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793102300540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "UPCOMING",
-            "content_entity_id": 19181,
-            "title": "Adelaide Strikers vs Melbourne Stars",
-            "header_name": "Group Stage - Women's Big Bash League 2026",
-            "description": "Watch Women's Big Bash League 2026 live on tapmad. The ADS vs STA brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 4th T20I is scheduled to be played on 31-Oct-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-10-31 16:40:00",
-            "seo_title": "ads-vs-sta-4th-t20i-live",
-            "category_seo_title": "ads-vs-sta-4th-t20i-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793088183540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793088183540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
