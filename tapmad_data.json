@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "03:00:08 PM 30-10-2026",
-    "total_matches": 20,
-    "live_match": 5,
+    "last_update_time": "04:00:05 PM 30-10-2026",
+    "total_matches": 19,
+    "live_match": 4,
     "upcoming_match": 15,
     "matches": [
         {
@@ -48,21 +48,6 @@
             "category_seo_title": "australia-tour-of-south-africa-2026",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1791890098540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1791890098540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19336,
-            "title": "Hong Kong Sixes - Day 1",
-            "header_name": "Group Stage - Hong Kong International Sixes 2026",
-            "description": "Watch Hong Kong International Sixes 2026\/27 live on tapmad. The Hong Kong Sixes - Day 1 brings a competitive cricket sides together for an exciting international tournament. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st T20I is scheduled to be played on 30-Oct-2026 at 12:00 AM . Fans can watch Hong Kong International Sixes 2026\/27live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-10-30 12:45:00",
-            "seo_title": "hong-kong-sixes-day-1-vs-1st-t20i-live",
-            "category_seo_title": "hong-kong-sixes---day-1-vs--1st-t20i-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793264414540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793264414540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
