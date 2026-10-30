@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "07:00:04 PM 30-10-2026",
-    "total_matches": 16,
-    "live_match": 1,
+    "last_update_time": "08:00:07 PM 30-10-2026",
+    "total_matches": 17,
+    "live_match": 2,
     "upcoming_match": 15,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 17114,
             "title": "Abha vs Al-Ittihad",
             "header_name": "MATCHDAY 12 - Saudi Pro League 2026\/27",
@@ -153,6 +153,21 @@
             "category_seo_title": "ban-vs-wi-1st-test-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792999918540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792999918540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19477,
+            "title": "GTWC Asia - Race 1 - Shanghai, China",
+            "header_name": "Race 1 - GT World Challenge EU & Asia 2026",
+            "description": "The  GTWC Asia - Race 1 - Shanghai, China match is scheduled to take place on 31-Oct, at 10:25 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-10-31 16:25:00",
+            "seo_title": "gtwc-asia-race-1-shanghai,-china-live",
+            "category_seo_title": "gtwc-asia---race-1---shanghai,-china-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793364146540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793364146540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
