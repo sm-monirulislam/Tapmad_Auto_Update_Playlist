@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "01:00:05 AM 02-11-2026",
-    "total_matches": 16,
-    "live_match": 1,
+    "last_update_time": "02:00:07 AM 02-11-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "upcoming_match": 15,
     "matches": [
         {
@@ -20,10 +20,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793345995540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145abfb3a1ea540a81c2b41b751\/01a145ae0ac115fc600b1e3e9683da\/main.m3u8"
+            "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18448,
             "title": "Marseille vs Toulouse",
             "header_name": "MATCHDAY 9 - French Ligue 1 2026\/27",
@@ -35,7 +35,22 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793169023540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
+        },
+        {
+            "status": "LIVE",
+            "content_entity_id": 19455,
+            "title": "Athletic vs Real Sociedad",
+            "header_name": "MATCHDAY 11 - LaLiga 2026\/27",
+            "description": "The 96th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Athletic vs Real Sociedad live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-02 08:00:00",
+            "seo_title": "laliga-athletic-vs-real-sociedad-live",
+            "category_seo_title": "laliga--athletic-vs-real-sociedad-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793560232540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793560232540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145b15ce115fc600b1e3e9683db\/01a145b24db11ea557841e1612cf4c\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -243,6 +258,21 @@
             "category_seo_title": "slavia praha-vs-arsenal-ucl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793257270540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793257270540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19390,
+            "title": "Lens vs Como",
+            "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
+            "description": "Watch Lens vs Como live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Lens vs Como match will take place on 05-Nov, Thursday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-05 08:00:00",
+            "seo_title": "lens-vs-como-ucl-live-match",
+            "category_seo_title": "lens-vs-como-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793257150540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793257150540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
