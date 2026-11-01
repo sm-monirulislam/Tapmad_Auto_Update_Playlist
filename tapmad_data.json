@@ -2,26 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "07:00:06 PM 01-11-2026",
+    "last_update_time": "08:00:06 PM 01-11-2026",
     "total_matches": 18,
     "live_match": 3,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 19234,
-            "title": "Beijing Jingtan Football Club (CHN) vs Kaya FC-Iloilo (PHI)",
-            "header_name": "MATCHDAY 1 - AFC Women's Champions League 2026\/27",
-            "description": "Watch the AFC Women's Champions League 2025\/26 live online on tapmad. The AFC Women's Champions League 2025\/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 01-Nov at 04:30 PM on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-01 22:30:00",
-            "seo_title": "afc-women's-champions-league-beijing-jingtan-football-club-(chn)-vs-kaya-fc-iloilo-(phi)",
-            "category_seo_title": "AFC Women's Champions League-Beijing Jingtan Football Club (CHN)-vs-Kaya FC-Iloilo (PHI)",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793094359540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793094359540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
         {
             "status": "LIVE",
             "content_entity_id": 19239,
@@ -53,7 +38,7 @@
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 18446,
             "title": "Strasbourg vs Auxerre",
             "header_name": "MATCHDAY 9 - French Ligue 1 2026\/27",
@@ -65,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793168754540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145abfb3a1ea540a81c2b41b751\/01a145ae0ac115fc600b1e3e9683da\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -273,6 +258,21 @@
             "category_seo_title": "lask-vs-slovan bratislava-ucl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793255621540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793255621540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19380,
+            "title": "Bodo\/Glimt vs Lille",
+            "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
+            "description": "Watch Bodo\/Glimt vs Lille live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Bodo\/Glimt vs Lille match will take place on 04-Nov, Wednesday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-04 08:00:00",
+            "seo_title": "bodo\/glimt-vs-lille-ucl-live-match",
+            "category_seo_title": "bodo\/glimt-vs-lille-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793255478540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793255478540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
