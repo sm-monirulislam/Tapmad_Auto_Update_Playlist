@@ -2,7 +2,7 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "01:00:04 PM 01-11-2026",
+    "last_update_time": "02:00:06 PM 01-11-2026",
     "total_matches": 19,
     "live_match": 4,
     "upcoming_match": 15,
@@ -20,7 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792574116540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145abfb3a1ea540a81c2b41b751\/01a145ae0ac115fc600b1e3e9683da\/main.m3u8"
+            "stream_url": "https:\/\/d8j84o343a5m2.cloudfront.net\/live\/testtapmad2\/master.m3u8"
         },
         {
             "status": "LIVE",
@@ -39,21 +39,6 @@
         },
         {
             "status": "LIVE",
-            "content_entity_id": 19483,
-            "title": "GTWC Asia - Race 2 - Shanghai, China",
-            "header_name": "Race 2 - GT World Challenge EU & Asia 2026",
-            "description": "The  GTWC Asia - Race 2 - Shanghai, China match is scheduled to take place on 01-Nov, at 10:40 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-01 16:40:00",
-            "seo_title": "gtwc-asia-race-2-shanghai,-china-live",
-            "category_seo_title": "gtwc-asia---race-2---shanghai,-china-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793364552540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793364552540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "LIVE",
             "content_entity_id": 19183,
             "title": "Sydney Thunder vs Brisbane Heat",
             "header_name": "Group Stage - Women's Big Bash League 2026",
@@ -65,10 +50,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793489150540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
+            "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19184,
             "title": "Sydney Sixers vs Hobart Hurricanes",
             "header_name": "Group Stage - Women's Big Bash League 2026",
@@ -80,7 +65,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793489400540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -288,6 +273,21 @@
             "category_seo_title": "laliga--elche-vs-valencia-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793345995540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793345995540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18448,
+            "title": "Marseille vs Toulouse",
+            "header_name": "MATCHDAY 9 - French Ligue 1 2026\/27",
+            "description": "Watch Marseille vs Toulouse live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Marseille vs Toulouse match will take place on 02-Nov, Monday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-02 07:45:00",
+            "seo_title": "marseille-vs-toulouse-ligue-one-live-match",
+            "category_seo_title": "marseille-vs-toulouse-ligue-one-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793169023540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793169023540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
