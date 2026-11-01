@@ -2,7 +2,7 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "04:00:08 PM 01-11-2026",
+    "last_update_time": "05:00:07 PM 01-11-2026",
     "total_matches": 20,
     "live_match": 5,
     "upcoming_match": 15,
@@ -18,21 +18,6 @@
             "category_seo_title": "nz-vs-ind-5th-t20i-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1792574116540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1792574116540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/d8j84o343a5m2.cloudfront.net\/live\/testtapmad2\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19338,
-            "title": "Hong Kong Sixes - Day 3",
-            "header_name": "Knockout Stage \/ Finals - Hong Kong International Sixes 2026",
-            "description": "Watch Hong Kong International Sixes 2026\/27 live on tapmad. The Hong Kong Sixes - Day 3 brings a competitive cricket sides together for an exciting international tournament. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd T20I is scheduled to be played on 01-Nov-2026 at 12:00 AM . Fans can watch Hong Kong International Sixes 2026\/27live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-01 13:40:00",
-            "seo_title": "hong-kong-sixes-day-3-vs-3rd-t20i-live",
-            "category_seo_title": "hong-kong-sixes---day-3-vs--3rd-t20i-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793264543540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793264543540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
@@ -83,7 +68,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19234,
             "title": "Beijing Jingtan Football Club (CHN) vs Kaya FC-Iloilo (PHI)",
             "header_name": "MATCHDAY 1 - AFC Women's Champions League 2026\/27",
@@ -303,6 +288,21 @@
             "category_seo_title": "shakhtar donetsk-vs-sporting cp-ucl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793254746540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793254746540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19383,
+            "title": "Villarreal vs Paris Saint-Germain",
+            "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
+            "description": "Watch Villarreal vs Paris Saint-Germain live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Villarreal vs Paris Saint-Germain match will take place on 04-Nov, Wednesday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-04 08:00:00",
+            "seo_title": "villarreal-vs-paris-saint-germain-ucl-live-match",
+            "category_seo_title": "villarreal-vs-paris saint-germain-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793255886540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793255886540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
