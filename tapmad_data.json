@@ -2,26 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "10:00:05 AM 01-11-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "11:00:06 AM 01-11-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 19312,
-            "title": "Moicano vs Nolan",
-            "header_name": "Fight Night - UFC 2026",
-            "description": "UFC Fight Night Live: Watch Moicano vs Nolan live online on tapmad. Enjoy watching Moicano vs Nolan live streaming online in Bangladesh with full match highlights. The fight will start at 06:00 AM on 01-Nov. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
-            "start_time_bd": "2026-11-01 12:00:00",
-            "seo_title": "ufc-fight-night-moicano-vs-nolan-live",
-            "category_seo_title": "ufc fight night-moicano vs nolan-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793016577540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793016577540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
         {
             "status": "LIVE",
             "content_entity_id": 19338,
@@ -38,7 +23,7 @@
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19483,
             "title": "GTWC Asia - Race 2 - Shanghai, China",
             "header_name": "Race 2 - GT World Challenge EU & Asia 2026",
@@ -53,7 +38,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19183,
             "title": "Sydney Thunder vs Brisbane Heat",
             "header_name": "Group Stage - Women's Big Bash League 2026",
@@ -65,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793489150540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -258,6 +243,36 @@
             "category_seo_title": "laliga--racing-santander-vs-real-madrid-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793345923540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793345923540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18447,
+            "title": "Paris FC vs Monaco",
+            "header_name": "MATCHDAY 9 - French Ligue 1 2026\/27",
+            "description": "Watch Paris FC vs Monaco live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Paris FC vs Monaco match will take place on 01-Nov, Sunday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-02 04:15:00",
+            "seo_title": "paris-fc-vs-monaco-ligue-one-live-match",
+            "category_seo_title": "paris fc-vs-monaco-ligue-one-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793168895540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793168895540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 18443,
+            "title": "OL vs Angers",
+            "header_name": "MATCHDAY 9 - French Ligue 1 2026\/27",
+            "description": "Watch OL vs Angers live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The OL vs Angers match will take place on 01-Nov, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-02 04:15:00",
+            "seo_title": "ol-vs-angers-ligue-one-live-match",
+            "category_seo_title": "ol-vs-angers-ligue-one-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793168456540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793168456540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
