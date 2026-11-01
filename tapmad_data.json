@@ -2,56 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "11:00:07 PM 01-11-2026",
-    "total_matches": 22,
-    "live_match": 7,
+    "last_update_time": "12:00:06 AM 02-11-2026",
+    "total_matches": 19,
+    "live_match": 4,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 19332,
-            "title": "Leg 2 - Lyon (FRA)",
-            "header_name": "Race - Longines FEI Jumping World Cup 2026",
-            "description": "The Longines FEI Jumping World Cup North American League 2026 brings together elite riders and horses for high-level international show jumping competition. Featuring challenging courses, precise jumping, speed, skill, and intense competition, every event delivers exciting equestrian action. Watch Longines FEI Jumping World Cup NAL 2026 live in HD on tapmad via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
-            "start_time_bd": "2026-11-02 02:30:00",
-            "seo_title": "longines-fei-jumping-world-cup-2026",
-            "category_seo_title": "longines-fei-jumping-world-cup-2026",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793098788540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793098788540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/bpl24middleeast.akamaized.net\/hls\/live\/2109311\/tapmad-PAKvsWI-BKd2-TesT\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19249,
-            "title": "Melbourne City FC (AUS) vs PFC Nasaf (UZB)",
-            "header_name": "MATCHDAY 1 - AFC Women's Champions League 2026\/27",
-            "description": "Watch the AFC Women's Champions League 2025\/26 live online on tapmad. The AFC Women's Champions League 2025\/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 01-Nov at 08:30 PM on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-02 02:30:00",
-            "seo_title": "afc-women's-champions-league-melbourne-city-fc-(aus)-vs-pfc-nasaf-(uzb)",
-            "category_seo_title": "AFC Women's Champions League-Melbourne City FC (AUS)-vs-PFC Nasaf (UZB)",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793095638540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793095638540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19244,
-            "title": "Ho Chi Minh City Women's FC (VIE) vs East Bengal FC (IND)",
-            "header_name": "MATCHDAY 1 - AFC Women's Champions League 2026\/27",
-            "description": "Watch the AFC Women's Champions League 2025\/26 live online on tapmad. The AFC Women's Champions League 2025\/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 01-Nov at 08:30 PM on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-02 02:30:00",
-            "seo_title": "afc-women's-champions-league-ho-chi-minh-city-women's-fc-(vie)-vs-east-bengal-fc-(ind)",
-            "category_seo_title": "AFC Women's Champions League-Ho Chi Minh City Women's FC (VIE)-vs-East Bengal FC (IND)",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793095331540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793095331540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
         {
             "status": "LIVE",
             "content_entity_id": 19113,
@@ -65,22 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793091804540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145b15ce115fc600b1e3e9683db\/01a145b24db11ea557841e1612cf4c\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19453,
-            "title": "Racing Santander vs Real Madrid",
-            "header_name": "MATCHDAY 11 - LaLiga 2026\/27",
-            "description": "The 94th match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Racing Santander vs Real Madrid live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-02 03:15:00",
-            "seo_title": "laliga-racing-santander-vs-real-madrid-live",
-            "category_seo_title": "laliga--racing-santander-vs-real-madrid-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793345923540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793345923540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -113,7 +53,7 @@
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a80166b1ea557841e1612cf55\/01a14a8047211ea557841e1612cf58\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19454,
             "title": "Elche vs Valencia",
             "header_name": "MATCHDAY 11 - LaLiga 2026\/27",
@@ -125,7 +65,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793345995540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145abfb3a1ea540a81c2b41b751\/01a145ae0ac115fc600b1e3e9683da\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -333,6 +273,21 @@
             "category_seo_title": "slavia praha-vs-arsenal-ucl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793257270540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793257270540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19390,
+            "title": "Lens vs Como",
+            "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
+            "description": "Watch Lens vs Como live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Lens vs Como match will take place on 05-Nov, Thursday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-05 08:00:00",
+            "seo_title": "lens-vs-como-ucl-live-match",
+            "category_seo_title": "lens-vs-como-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793257150540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793257150540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
