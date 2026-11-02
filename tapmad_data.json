@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:00:06 PM 02-11-2026",
-    "total_matches": 16,
-    "live_match": 1,
+    "last_update_time": "10:00:08 PM 02-11-2026",
+    "total_matches": 19,
+    "live_match": 4,
     "upcoming_match": 15,
     "matches": [
         {
@@ -20,10 +20,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793598585540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
+            "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19663,
             "title": "Al Sadd SC (QAT) vs Al Ahli Saudi FC (KSA)",
             "header_name": "MATCHDAY 4 - AFC Champions League Elite 2026\/27",
@@ -35,10 +35,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793599756540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154a641d51567ee931e109fa59f\/01a154a676281ea557841e1612cf77\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19658,
             "title": "Al Wasl FC (UAE) vs Air Force SC (IRQ)",
             "header_name": "MATCHDAY 4 - AFC Champions League Elite 2026\/27",
@@ -50,10 +50,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793599466540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154de56151ea540a81c2b41b77a\/01a154de85c41567ee931e109fa5a5\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19653,
             "title": "Tractor FC (IRN) vs PFC Neftchi (UZB)",
             "header_name": "MATCHDAY 4 - AFC Champions League Elite 2026\/27",
@@ -65,7 +65,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793598962540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154e351d61ea557841e1612cf79\/01a154e3809215fc60e91e1786b098\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -243,6 +243,51 @@
             "category_seo_title": "feyenoord-vs-inter-ucl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793255296540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793255296540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19378,
+            "title": "Barcelona vs Aston Villa",
+            "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
+            "description": "Watch Barcelona vs Aston Villa live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Barcelona vs Aston Villa match will take place on 04-Nov, Wednesday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-04 08:00:00",
+            "seo_title": "barcelona-vs-aston-villa-ucl-live-match",
+            "category_seo_title": "barcelona-vs-aston villa-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793255163540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793255163540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19377,
+            "title": "Atletico Madrid vs Bayern Munchen",
+            "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
+            "description": "Watch Atletico Madrid vs Bayern Munchen live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Atletico Madrid vs Bayern Munchen match will take place on 04-Nov, Wednesday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-04 08:00:00",
+            "seo_title": "atletico-madrid-vs-bayern-munchen-ucl-live-match",
+            "category_seo_title": "atletico madrid-vs-bayern munchen-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793255037540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793255037540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19060,
+            "title": "New Zealand vs India",
+            "header_name": "1st ODI - India Tour of New Zealand 2026",
+            "description": "Watch Inida Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st ODI is scheduled to be played on 04-Nov-2026 at 08:00 AM . Fans can watch Inida Tour of New Zealand 2026l ive on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-04 14:00:00",
+            "seo_title": "nz-vs-ind-1st-odi-live",
+            "category_seo_title": "nz-vs-ind-1st-odi-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793612525540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793612525540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
