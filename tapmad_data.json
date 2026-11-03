@@ -2,26 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "03:00:08 AM 04-11-2026",
-    "total_matches": 22,
-    "live_match": 7,
+    "last_update_time": "04:00:06 AM 04-11-2026",
+    "total_matches": 20,
+    "live_match": 5,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 19383,
-            "title": "Villarreal vs Paris Saint-Germain",
-            "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
-            "description": "Watch Villarreal vs Paris Saint-Germain live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Villarreal vs Paris Saint-Germain match will take place on 04-Nov, Wednesday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-04 08:00:00",
-            "seo_title": "villarreal-vs-paris-saint-germain-ucl-live-match",
-            "category_seo_title": "villarreal-vs-paris saint-germain-ucl-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793255886540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793255886540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8"
-        },
         {
             "status": "LIVE",
             "content_entity_id": 19382,
@@ -35,7 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793255741540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -48,21 +33,6 @@
             "category_seo_title": "lask-vs-slovan bratislava-ucl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793255621540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793255621540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145b15ce115fc600b1e3e9683db\/01a145b24db11ea557841e1612cf4c\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19380,
-            "title": "Bodo\/Glimt vs Lille",
-            "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
-            "description": "Watch Bodo\/Glimt vs Lille live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Bodo\/Glimt vs Lille match will take place on 04-Nov, Wednesday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-04 08:00:00",
-            "seo_title": "bodo\/glimt-vs-lille-ucl-live-match",
-            "category_seo_title": "bodo\/glimt-vs-lille-ucl-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793255478540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793255478540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
@@ -80,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793255296540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -110,7 +80,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793255037540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a80166b1ea557841e1612cf55\/01a14a8047211ea557841e1612cf58\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "UPCOMING",
