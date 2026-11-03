@@ -2,13 +2,13 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "12:00:05 PM 03-11-2026",
-    "total_matches": 15,
-    "live_match": 0,
+    "last_update_time": "01:00:06 PM 03-11-2026",
+    "total_matches": 16,
+    "live_match": 1,
     "upcoming_match": 15,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19678,
             "title": "Newcastle Jets FC (AUS) vs Shanghai Port FC (CHN)",
             "header_name": "MATCHDAY 4 - AFC Champions League Elite 2026\/27",
@@ -20,7 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793646053540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -228,6 +228,21 @@
             "category_seo_title": "bodo\/glimt-vs-lille-ucl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793255478540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793255478540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19379,
+            "title": "Feyenoord vs Inter",
+            "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
+            "description": "Watch Feyenoord vs Inter live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Feyenoord vs Inter match will take place on 04-Nov, Wednesday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-04 08:00:00",
+            "seo_title": "feyenoord-vs-inter-ucl-live-match",
+            "category_seo_title": "feyenoord-vs-inter-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793255296540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793255296540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
