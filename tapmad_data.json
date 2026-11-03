@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "11:00:06 PM 03-11-2026",
-    "total_matches": 18,
-    "live_match": 3,
+    "last_update_time": "12:00:07 AM 04-11-2026",
+    "total_matches": 20,
+    "live_match": 5,
     "upcoming_match": 15,
     "matches": [
         {
@@ -35,7 +35,22 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793611060540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
+            "stream_url": ""
+        },
+        {
+            "status": "LIVE",
+            "content_entity_id": 19376,
+            "title": "Galatasaray vs Stuttgart",
+            "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
+            "description": "Watch Galatasaray vs Stuttgart live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Galatasaray vs Stuttgart match will take place on 03-Nov, Tuesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-04 05:45:00",
+            "seo_title": "galatasaray-vs-stuttgart-ucl-live-match",
+            "category_seo_title": "galatasaray-vs-stuttgart-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793725372540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793725372540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8"
         },
         {
             "status": "LIVE",
@@ -50,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793254746540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/UCL2026\/PROMO\/master.m3u8"
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19713,
             "title": "Al Hilal SFC (KSA) vs Shabab Al Ahli (UAE)",
             "header_name": "MATCHDAY 4 - AFC Champions League Elite 2026\/27",
@@ -65,7 +80,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793648028540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154de56151ea540a81c2b41b77a\/01a154de85c41567ee931e109fa5a5\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -273,6 +288,21 @@
             "category_seo_title": "afc-champions-league-two",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793650270540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793650270540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19385,
+            "title": "Fenerbahce vs Liverpool",
+            "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
+            "description": "Watch Fenerbahce vs Liverpool live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Fenerbahce vs Liverpool match will take place on 04-Nov, Wednesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-05 05:45:00",
+            "seo_title": "fenerbahce-vs-liverpool-ucl-live-match",
+            "category_seo_title": "fenerbahce-vs-liverpool-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793256122540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793256122540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
