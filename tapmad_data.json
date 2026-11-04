@@ -2,26 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "12:00:09 AM 05-11-2026",
-    "total_matches": 21,
-    "live_match": 6,
+    "last_update_time": "01:00:08 AM 05-11-2026",
+    "total_matches": 20,
+    "live_match": 5,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 19841,
-            "title": "Rennes vs Olympiacos",
-            "header_name": "MATCHDAY 4 - UEFA Europa League 2026\/27",
-            "description": "Watch Rennes vs Olympiacos live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Rennes vs Olympiacos match will take place on 04-Nov, Wednesday, at 08:30 PM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-05 03:30:00",
-            "seo_title": "rennes-vs-olympiacos-uel-live-match",
-            "category_seo_title": "rennes-vs-olympiacos-uel-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793734746540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793734746540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
         {
             "status": "LIVE",
             "content_entity_id": 19523,
@@ -35,37 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793651061540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154a641d51567ee931e109fa59f\/01a154a676281ea557841e1612cf77\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19518,
-            "title": "Kuwait SC (KUW) vs PFC Nasaf (UZB)",
-            "header_name": "MATCHDAY 4 - AFC Champions League Two 2026\/27",
-            "description": "Watch Kuwait SC vs PFC Nasaf live online on tapmad. The AFC Champions League Two Kuwait SC vs PFC Nasaf match is scheduled to take place on 04-Nov,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-05 04:00:00",
-            "seo_title": "afc-champions-league-two",
-            "category_seo_title": "afc-champions-league-two",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793650708540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793650708540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154de56151ea540a81c2b41b77a\/01a154de85c41567ee931e109fa5a5\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19513,
-            "title": "Al Wahda FC (UAE) vs Al Khaldiya SC (BHR)",
-            "header_name": "MATCHDAY 4 - AFC Champions League Two 2026\/27",
-            "description": "Watch Al Wahda FC vs Al Khaldiya SC live online on tapmad. The AFC Champions League Two Al Wahda FC vs Al Khaldiya SC match is scheduled to take place on 04-Nov,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-05 04:00:00",
-            "seo_title": "afc-champions-league-two",
-            "category_seo_title": "afc-champions-league-two",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793650270540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793650270540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a145abfb3a1ea540a81c2b41b751\/01a145ae0ac115fc600b1e3e9683da\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -98,7 +53,7 @@
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a9fb90c15fc60e91e1786b061\/01a14a9feb881ea540a81c2b41b75e\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19533,
             "title": "Al Muharraq SC (BHR) vs Al Jazira Club (UAE)",
             "header_name": "MATCHDAY 4 - AFC Champions League Two 2026\/27",
@@ -110,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793651910540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154e351d61ea557841e1612cf79\/01a154e3809215fc60e91e1786b098\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19528,
             "title": "Al Taawoun FC (KSA) vs Al Faisaly (JOR)",
             "header_name": "MATCHDAY 4 - AFC Champions League Two 2026\/27",
@@ -125,7 +80,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793651425540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -318,6 +273,36 @@
             "category_seo_title": "afc-champions-league-two",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793734921540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793734921540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19538,
+            "title": "Lion City Sailors FC (SGP) vs Adelaide United FC (AUS)",
+            "header_name": "MATCHDAY 4 - AFC Champions League Two 2026\/27",
+            "description": "Watch Lion City Sailors FC vs Adelaide United FC live online on tapmad. The AFC Champions League Two Lion City Sailors FC vs Adelaide United FC match is scheduled to take place on 05-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-05 22:00:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793734613540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793734613540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19563,
+            "title": "Preah Khan Reach Svay Rieng FC (CAM) vs Tampines Rovers FC (SGP)",
+            "header_name": "MATCHDAY 4 - AFC Champions League Two 2026\/27",
+            "description": "Watch Preah Khan Reach Svay Rieng FC vs Tampines Rovers FC live online on tapmad. The AFC Champions League Two Preah Khan Reach Svay Rieng FC vs Tampines Rovers FC match is scheduled to take place on 05-Nov,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-06 00:15:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793736642540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793736642540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
