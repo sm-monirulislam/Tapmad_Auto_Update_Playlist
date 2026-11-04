@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "03:00:07 PM 04-11-2026",
-    "total_matches": 20,
-    "live_match": 5,
+    "last_update_time": "04:00:08 PM 04-11-2026",
+    "total_matches": 22,
+    "live_match": 7,
     "upcoming_match": 15,
     "matches": [
         {
@@ -20,7 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793612525540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -35,7 +35,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793648832540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -83,7 +83,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19718,
             "title": "FC Pohang Steelers (KOR) vs Gamba Osaka (JPN)",
             "header_name": "MATCHDAY 4 - AFC Champions League Elite 2026\/27",
@@ -95,10 +95,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793776723540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19503,
             "title": "FC Seoul (KOR) vs The Cong - Viettel FC (VIE)",
             "header_name": "MATCHDAY 4 - AFC Champions League Two 2026\/27",
@@ -108,6 +108,21 @@
             "category_seo_title": "afc-champions-league-two",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793649295540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793649295540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154e351d61ea557841e1612cf79\/01a154e3809215fc60e91e1786b098\/main.m3u8"
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19264,
+            "title": "Kaya FC-Iliolo (PHI) vs Melbourne City FC (AUS)",
+            "header_name": "MATCHDAY 2 - AFC Women's Champions League 2026\/27",
+            "description": "Watch the AFC Women's Champions League 2025\/26 live online on tapmad. The AFC Women's Champions League 2025\/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 04-Nov at 04:30 PM on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-04 22:30:00",
+            "seo_title": "afc-women's-champions-league-kaya-fc-iliolo-(phi)-vs-melbourne-city-fc-(aus)",
+            "category_seo_title": "AFC Women's Champions League-Kaya FC-Iliolo (PHI)-vs-Melbourne City FC (AUS)",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793779765540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793779765540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
@@ -129,6 +144,21 @@
         },
         {
             "status": "UPCOMING",
+            "content_entity_id": 19269,
+            "title": "Ayeyawady FC - Women (MYA) vs INAC Kobe Leonessa (JPN)",
+            "header_name": "MATCHDAY 2 - AFC Women's Champions League 2026\/27",
+            "description": "Watch the AFC Women's Champions League 2025\/26 live online on tapmad. The AFC Women's Champions League 2025\/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 04-Nov at 06:30 PM on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-05 00:30:00",
+            "seo_title": "afc-women's-champions-league-ayeyawady-fc-women-(mya)-vs-inac-kobe-leonessa-(jpn)",
+            "category_seo_title": "AFC Women's Champions League-Ayeyawady FC - Women (MYA)-vs-INAC Kobe Leonessa (JPN)",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793781676540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793781676540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
             "content_entity_id": 19508,
             "title": "FC Arkadag (TKM) vs Golgohar Sirjan SC (IRN)",
             "header_name": "MATCHDAY 4 - AFC Champions League Two 2026\/27",
@@ -138,6 +168,36 @@
             "category_seo_title": "afc-champions-league-two",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793649699540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793649699540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19279,
+            "title": "PFC Nasaf (UZB) vs Beijing Jingtan Football Club (CHN)",
+            "header_name": "MATCHDAY 2 - AFC Women's Champions League 2026\/27",
+            "description": "Watch the AFC Women's Champions League 2025\/26 live online on tapmad. The AFC Women's Champions League 2025\/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 04-Nov at 08:30 PM on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-05 02:30:00",
+            "seo_title": "afc-women's-champions-league-pfc-nasaf-(uzb)-vs-beijing-jingtan-football-club-(chn)",
+            "category_seo_title": "AFC Women's Champions League-PFC Nasaf (UZB)-vs-Beijing Jingtan Football Club (CHN)",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793782226540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793782226540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19274,
+            "title": "East Bengal FC (IND) vs Hwacheon KSPO WFC (KOR)",
+            "header_name": "MATCHDAY 2 - AFC Women's Champions League 2026\/27",
+            "description": "Watch the AFC Women's Champions League 2025\/26 live online on tapmad. The AFC Women's Champions League 2025\/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 04-Nov at 08:30 PM on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-05 02:30:00",
+            "seo_title": "afc-women's-champions-league-east-bengal-fc-(ind)-vs-hwacheon-kspo-wfc-(kor)",
+            "category_seo_title": "AFC Women's Champions League-East Bengal FC (IND)-vs-Hwacheon KSPO WFC (KOR)",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793781997540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793781997540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
@@ -273,36 +333,6 @@
             "category_seo_title": "viking-vs-sabah-ucl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793257400540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793257400540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "UPCOMING",
-            "content_entity_id": 19391,
-            "title": "Slavia Praha vs Arsenal",
-            "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
-            "description": "Watch Slavia Praha vs Arsenal live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Slavia Praha vs Arsenal match will take place on 05-Nov, Thursday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-05 08:00:00",
-            "seo_title": "slavia-praha-vs-arsenal-ucl-live-match",
-            "category_seo_title": "slavia praha-vs-arsenal-ucl-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793257270540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793257270540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "UPCOMING",
-            "content_entity_id": 19390,
-            "title": "Lens vs Como",
-            "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
-            "description": "Watch Lens vs Como live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Lens vs Como match will take place on 05-Nov, Thursday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-05 08:00:00",
-            "seo_title": "lens-vs-como-ucl-live-match",
-            "category_seo_title": "lens-vs-como-ucl-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793257150540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793257150540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
