@@ -2,41 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "11:00:08 PM 04-11-2026",
+    "last_update_time": "11:26:37 PM 04-11-2026",
     "total_matches": 21,
     "live_match": 6,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 19279,
-            "title": "PFC Nasaf (UZB) vs Beijing Jingtan Football Club (CHN)",
-            "header_name": "MATCHDAY 2 - AFC Women's Champions League 2026\/27",
-            "description": "Watch the AFC Women's Champions League 2025\/26 live online on tapmad. The AFC Women's Champions League 2025\/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 04-Nov at 08:30 PM on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-05 02:30:00",
-            "seo_title": "afc-women's-champions-league-pfc-nasaf-(uzb)-vs-beijing-jingtan-football-club-(chn)",
-            "category_seo_title": "AFC Women's Champions League-PFC Nasaf (UZB)-vs-Beijing Jingtan Football Club (CHN)",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793782226540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793782226540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19274,
-            "title": "East Bengal FC (IND) vs Hwacheon KSPO WFC (KOR)",
-            "header_name": "MATCHDAY 2 - AFC Women's Champions League 2026\/27",
-            "description": "Watch the AFC Women's Champions League 2025\/26 live online on tapmad. The AFC Women's Champions League 2025\/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 04-Nov at 08:30 PM on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-05 02:30:00",
-            "seo_title": "afc-women's-champions-league-east-bengal-fc-(ind)-vs-hwacheon-kspo-wfc-(kor)",
-            "category_seo_title": "AFC Women's Champions League-East Bengal FC (IND)-vs-Hwacheon KSPO WFC (KOR)",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793781997540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793781997540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
         {
             "status": "LIVE",
             "content_entity_id": 19841,
@@ -98,7 +68,7 @@
             "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a145abfb3a1ea540a81c2b41b751\/01a145ae0ac115fc600b1e3e9683da\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19385,
             "title": "Fenerbahce vs Liverpool",
             "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
@@ -110,10 +80,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793256122540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19384,
             "title": "AEK Athens vs Real Madrid",
             "header_name": "MATCHDAY 3 - UEFA Champions League 2026\/27",
@@ -125,7 +95,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793256007540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a9fb90c15fc60e91e1786b061\/01a14a9feb881ea540a81c2b41b75e\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -318,6 +288,36 @@
             "category_seo_title": "sct-vs-per-11th-t20i-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793784315540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793784315540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19548,
+            "title": "Kitchee SC (HKG) vs Phnom Penh Crown FC (CAM)",
+            "header_name": "MATCHDAY 4 - AFC Champions League Two 2026\/27",
+            "description": "Watch Kitchee SC vs Phnom Penh Crown FC  live online on tapmad. The AFC Champions League Two Kitchee SC vs Phnom Penh Crown FC  match is scheduled to take place on 05-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-05 22:00:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793735344540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793735344540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19543,
+            "title": "FC Machida Zelvia (JPN) vs Shanghai Shenhua FC (CHN)",
+            "header_name": "MATCHDAY 4 - AFC Champions League Two 2026\/27",
+            "description": "Watch FC Machida Zelvia vs Shanghai Shenhua FC  live online on tapmad. The AFC Champions League Two FC Machida Zelvia vs Shanghai Shenhua FC  match is scheduled to take place on 05-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-05 22:00:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793734921540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793734921540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
