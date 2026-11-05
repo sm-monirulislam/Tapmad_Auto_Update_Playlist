@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "01:00:08 AM 06-11-2026",
-    "total_matches": 23,
-    "live_match": 8,
+    "last_update_time": "02:00:12 AM 06-11-2026",
+    "total_matches": 30,
+    "live_match": 15,
     "upcoming_match": 15,
     "matches": [
         {
@@ -20,7 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793736695540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145d823d515fc600b1e3e9683de\/01a145dc15751ea540a81c2b41b754\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -35,7 +35,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793736373540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a80166b1ea557841e1612cf55\/01a14a8047211ea557841e1612cf58\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -50,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793736182540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145b15ce115fc600b1e3e9683db\/01a145b24db11ea557841e1612cf4c\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -65,7 +65,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793735999540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145abfb3a1ea540a81c2b41b751\/01a145ae0ac115fc600b1e3e9683da\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -80,7 +80,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793735743540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a9fb90c15fc60e91e1786b061\/01a14a9feb881ea540a81c2b41b75e\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -95,7 +95,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793735466540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -110,7 +110,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793735211540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -125,10 +125,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793734995540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
+            "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19858,
             "title": "Benfica vs Lech Poznan",
             "header_name": "MATCHDAY 4 - UEFA Europa League 2026\/27",
@@ -140,10 +140,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793738709540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19857,
             "title": "Leverkusen vs Marseille",
             "header_name": "MATCHDAY 4 - UEFA Europa League 2026\/27",
@@ -155,10 +155,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793738548540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a80166b1ea557841e1612cf55\/01a14a8047211ea557841e1612cf58\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19856,
             "title": "AZ Alkmaar vs Juventus",
             "header_name": "MATCHDAY 4 - UEFA Europa League 2026\/27",
@@ -170,10 +170,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793738218540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a9fb90c15fc60e91e1786b061\/01a14a9feb881ea540a81c2b41b75e\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19855,
             "title": "H. Beer-Sheva vs OFI",
             "header_name": "MATCHDAY 4 - UEFA Europa League 2026\/27",
@@ -185,10 +185,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793738001540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a154de56151ea540a81c2b41b77a\/01a154de85c41567ee931e109fa5a5\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19854,
             "title": "Sturm Graz vs Celje",
             "header_name": "MATCHDAY 4 - UEFA Europa League 2026\/27",
@@ -200,10 +200,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793737642540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a5b5bd11ea540a81c2b41b75b\/01a14a5b94ea15fc600b1e3e9683eb\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19853,
             "title": "Celtic vs Besiktas",
             "header_name": "MATCHDAY 4 - UEFA Europa League 2026\/27",
@@ -215,10 +215,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793737438540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a4cd93615fc600b1e3e9683e8\/01a14a5761541567ee931e109fa576\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19852,
             "title": "Sunderland vs Dinamo Zagreb",
             "header_name": "MATCHDAY 4 - UEFA Europa League 2026\/27",
@@ -230,37 +230,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793737261540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "UPCOMING",
-            "content_entity_id": 19851,
-            "title": "Celta vs Union",
-            "header_name": "MATCHDAY 4 - UEFA Europa League 2026\/27",
-            "description": "Watch Celta vs Union live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Celta vs Union match will take place on 06-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-06 08:00:00",
-            "seo_title": "celta-vs-union-uel-live-match",
-            "category_seo_title": "celta-vs-union-uel-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793737072540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793737072540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "UPCOMING",
-            "content_entity_id": 19850,
-            "title": "Torreense vs Ararat-Armenia",
-            "header_name": "MATCHDAY 4 - UEFA Europa League 2026\/27",
-            "description": "Watch Torreense vs Ararat-Armenia live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Torreense vs Ararat-Armenia match will take place on 06-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-06 08:00:00",
-            "seo_title": "torreense-vs-ararat-armenia-uel-live-match",
-            "category_seo_title": "torreense-vs-ararat-armenia-uel-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793736870540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793736870540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -348,6 +318,141 @@
             "category_seo_title": "nz-vs-ind-2nd-odi-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793786474540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793786474540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19190,
+            "title": "Melbourne Renegades vs Adelaide Strikers",
+            "header_name": "Group Stage - Women's Big Bash League 2026",
+            "description": "Watch Women's Big Bash League 2026 live on tapmad. The MLR vs ADS brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 13th T20I is scheduled to be played on 07-Nov-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-07 16:40:00",
+            "seo_title": "mlr-vs-ads-13th-t20i-live",
+            "category_seo_title": "mlr-vs-ads-13th-t20i-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793784913540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793784913540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19191,
+            "title": "Brisbane Heat vs Hobart Hurricanes",
+            "header_name": "Group Stage - Women's Big Bash League 2026",
+            "description": "Watch Women's Big Bash League 2026 live on tapmad. The BRH vs HH brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 14th T20I is scheduled to be played on 07-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-07 20:10:00",
+            "seo_title": "brh-vs-hh-14th-t20i-live",
+            "category_seo_title": "brh-vs-hh-14th-t20i-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793785078540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793785078540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19289,
+            "title": "Hwacheon KSPO WFC (KOR) vs Ho Chi Minh City Women's FC (VIE)",
+            "header_name": "MATCHDAY 3 - AFC Women's Champions League 2026\/27",
+            "description": "Watch the AFC Women's Champions League 2025\/26 live online on tapmad. The AFC Women's Champions League 2025\/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 07-Nov at 02:30 PM on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-07 20:30:00",
+            "seo_title": "afc-women-s-champions-league-hwacheon-kspo-wfc-vs-ho-chi-minh-city-women-s-fc",
+            "category_seo_title": "AFC Women's Champions League-Hwacheon KSPO WFC-vs-Ho Chi Minh City Women's FC",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793863690540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793863690540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19284,
+            "title": "Naegohyang Women's FC (PRK) vs INAC Kobe Leonessa (JPN)",
+            "header_name": "MATCHDAY 3 - AFC Women's Champions League 2026\/27",
+            "description": "Watch the AFC Women's Champions League 2025\/26 live online on tapmad. The AFC Women's Champions League 2025\/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 07-Nov at 02:30 PM on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-07 20:30:00",
+            "seo_title": "afc-women-s-champions-league-naegohyang-women-s-fc-vs-inac-kobe-leonessa",
+            "category_seo_title": "AFC Women's Champions League-Naegohyang Women's FC-vs-INAC Kobe Leonessa",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793863402540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793863402540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19294,
+            "title": "Melbourne City FC (AUS) vs Beijing Jingtan Football Club (CHN)",
+            "header_name": "MATCHDAY 3 - AFC Women's Champions League 2026\/27",
+            "description": "Watch the AFC Women's Champions League 2025\/26 live online on tapmad. The AFC Women's Champions League 2025\/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 07-Nov at 04:30 PM on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-07 22:30:00",
+            "seo_title": "afc-women-s-champions-league-melbourne-city-fc-aus-vs-beijing-jingtan-football-club",
+            "category_seo_title": "AFC Women's Champions League-Melbourne City FC (AUS)-vs-Beijing Jingtan Football Club",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793864041540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793864041540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19299,
+            "title": "Bam Khatoon FC (IRN) vs Ayeyawady FC - Women (MYA)",
+            "header_name": "MATCHDAY 3 - AFC Women's Champions League 2026\/27",
+            "description": "Watch the AFC Women's Champions League 2025\/26 live online on tapmad. The AFC Women's Champions League 2025\/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 07-Nov at 06:30 PM on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-08 00:30:00",
+            "seo_title": "afc-women-s-champions-league-bam-khatoon-fc-irn-vs-ayeyawady-fc-women",
+            "category_seo_title": "AFC Women's Champions League-Bam Khatoon FC (IRN)-vs-Ayeyawady FC - Women",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793864339540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793864339540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19930,
+            "title": "Al-Ettifaq vs Al-Hilal",
+            "header_name": "MATCHDAY 13 - Saudi Pro League 2026\/27",
+            "description": "The  match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Ettifaq vs Al-Hilal live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-08 02:30:00",
+            "seo_title": "saudi-pro-league-al-ettifaq-vs-al-hilal-live",
+            "category_seo_title": "saudi-pro-league--al-ettifaq-vs-al-hilal-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793789264540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793789264540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19309,
+            "title": "Kaya FC-Iliolo (PHI) vs PFC Nasaf (UZB)",
+            "header_name": "MATCHDAY 3 - AFC Women's Champions League 2026\/27",
+            "description": "Watch the AFC Women's Champions League 2025\/26 live online on tapmad. The AFC Women's Champions League 2025\/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 07-Nov at 08:30 PM on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-08 02:30:00",
+            "seo_title": "afc-women-s-champions-league-kaya-fc-iliolo-vs-pfc-nasaf",
+            "category_seo_title": "AFC Women's Champions League-Kaya FC-Iliolo-vs-PFC Nasaf",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793865122540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793865122540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19304,
+            "title": "East Bengal FC (IND) vs 4.25 Sports Club (PRK)",
+            "header_name": "MATCHDAY 3 - AFC Women's Champions League 2026\/27",
+            "description": "Watch the AFC Women's Champions League 2025\/26 live online on tapmad. The AFC Women's Champions League 2025\/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 07-Nov at 08:30 PM on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-08 02:30:00",
+            "seo_title": "afc-women-s-champions-league-east-bengal-fc-vs-4-25-sports-club",
+            "category_seo_title": "AFC Women's Champions League-East Bengal FC-vs-4.25 Sports Club",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793864812540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793864812540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
