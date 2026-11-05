@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "03:00:04 PM 05-11-2026",
-    "total_matches": 18,
-    "live_match": 3,
+    "last_update_time": "04:00:07 PM 05-11-2026",
+    "total_matches": 21,
+    "live_match": 6,
     "upcoming_match": 15,
     "matches": [
         {
@@ -53,7 +53,7 @@
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a9fb90c15fc60e91e1786b061\/01a14a9feb881ea540a81c2b41b75e\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19548,
             "title": "Kitchee SC (HKG) vs Phnom Penh Crown FC (CAM)",
             "header_name": "MATCHDAY 4 - AFC Champions League Two 2026\/27",
@@ -65,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793735344540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19543,
             "title": "FC Machida Zelvia (JPN) vs Shanghai Shenhua FC (CHN)",
             "header_name": "MATCHDAY 4 - AFC Champions League Two 2026\/27",
@@ -80,10 +80,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793734921540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154a641d51567ee931e109fa59f\/01a154a676281ea557841e1612cf77\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19538,
             "title": "Lion City Sailors FC (SGP) vs Adelaide United FC (AUS)",
             "header_name": "MATCHDAY 4 - AFC Champions League Two 2026\/27",
@@ -95,7 +95,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793734613540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154de56151ea540a81c2b41b77a\/01a154de85c41567ee931e109fa5a5\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -273,6 +273,51 @@
             "category_seo_title": "lillestrom-vs-viktoria plzen-uel-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793734995540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793734995540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19858,
+            "title": "Benfica vs Lech Poznan",
+            "header_name": "MATCHDAY 4 - UEFA Europa League 2026\/27",
+            "description": "Watch Benfica vs Lech Poznan live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Benfica vs Lech Poznan match will take place on 06-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-06 08:00:00",
+            "seo_title": "benfica-vs-lech-poznan-uel-live-match",
+            "category_seo_title": "benfica-vs-lech poznan-uel-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793738709540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793738709540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19857,
+            "title": "Leverkusen vs Marseille",
+            "header_name": "MATCHDAY 4 - UEFA Europa League 2026\/27",
+            "description": "Watch Leverkusen vs Marseille live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Leverkusen vs Marseille match will take place on 06-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-06 08:00:00",
+            "seo_title": "leverkusen-vs-marseille-uel-live-match",
+            "category_seo_title": "leverkusen-vs-marseille-uel-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793738548540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793738548540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19856,
+            "title": "AZ Alkmaar vs Juventus",
+            "header_name": "MATCHDAY 4 - UEFA Europa League 2026\/27",
+            "description": "Watch AZ Alkmaar vs Juventus live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The AZ Alkmaar vs Juventus match will take place on 06-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-06 08:00:00",
+            "seo_title": "az-alkmaar-vs-juventus-uel-live-match",
+            "category_seo_title": "az alkmaar-vs-juventus-uel-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793738218540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793738218540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
