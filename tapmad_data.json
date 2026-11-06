@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "11:00:06 AM 06-11-2026",
-    "total_matches": 16,
-    "live_match": 1,
+    "last_update_time": "12:00:06 PM 06-11-2026",
+    "total_matches": 17,
+    "live_match": 2,
     "upcoming_match": 15,
     "matches": [
         {
@@ -23,19 +23,19 @@
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19114,
             "title": "Afghanistan vs Zimbabwe",
             "header_name": "1st Test - Afghanistan vs Zimbabwe 2026",
             "description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 05-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-06 18:00:00",
+            "start_time_bd": "2026-11-05 18:00:00",
             "seo_title": "afg-vs-zim-1st-test-live",
             "category_seo_title": "afg-vs-zim-1st-test-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793865686540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793865686540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145abfb3a1ea540a81c2b41b751\/01a145ae0ac115fc600b1e3e9683da\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -243,6 +243,21 @@
             "category_seo_title": "saudi-pro-league--al-ahli-vs-al-taawoun-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793789331540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793789331540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19960,
+            "title": "Auxerre vs Paris FC",
+            "header_name": "MATCHDAY 10 - French Ligue 1 2026\/27",
+            "description": "Watch Auxerre vs Paris FC live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Auxerre vs Paris FC match will take place on 07-Nov, Saturday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-08 06:00:00",
+            "seo_title": "auxerre-vs-paris-fc-ligue-one-live-match",
+            "category_seo_title": "auxerre-vs-paris fc-ligue-one-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793791732540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793791732540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
