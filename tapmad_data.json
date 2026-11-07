@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "07:00:07 PM 07-11-2026",
-    "total_matches": 19,
-    "live_match": 4,
+    "last_update_time": "08:00:06 PM 07-11-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "upcoming_match": 15,
     "matches": [
         {
@@ -20,22 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793865686540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/serieAleague.akamaized.net\/hls\/live\/2107107\/Tapmad-KjL52\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19294,
-            "title": "Melbourne City FC (AUS) vs Beijing Jingtan Football Club (CHN)",
-            "header_name": "MATCHDAY 3 - AFC Women's Champions League 2026\/27",
-            "description": "Watch the AFC Women's Champions League 2025\/26 live online on tapmad. The AFC Women's Champions League 2025\/26 2026 is Asia’s premier international women’s football tournament, featuring top national teams competing for continental glory and qualification to global championships. Watch the AFC Women's Asian Cup on 07-Nov at 04:30 PM on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-07 22:30:00",
-            "seo_title": "afc-women-s-champions-league-melbourne-city-fc-aus-vs-beijing-jingtan-football-club",
-            "category_seo_title": "AFC Women's Champions League-Melbourne City FC (AUS)-vs-Beijing Jingtan Football Club",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793864041540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793864041540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "LIVE",
