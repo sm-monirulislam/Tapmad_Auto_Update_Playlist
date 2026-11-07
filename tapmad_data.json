@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "06:00:08 PM 07-11-2026",
-    "total_matches": 18,
-    "live_match": 3,
+    "last_update_time": "07:00:07 PM 07-11-2026",
+    "total_matches": 19,
+    "live_match": 4,
     "upcoming_match": 15,
     "matches": [
         {
@@ -24,21 +24,6 @@
         },
         {
             "status": "LIVE",
-            "content_entity_id": 19191,
-            "title": "Brisbane Heat vs Hobart Hurricanes",
-            "header_name": "Group Stage - Women's Big Bash League 2026",
-            "description": "Watch Women's Big Bash League 2026 live on tapmad. The BRH vs HH brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 14th T20I is scheduled to be played on 07-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-07 20:10:00",
-            "seo_title": "brh-vs-hh-14th-t20i-live",
-            "category_seo_title": "brh-vs-hh-14th-t20i-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793785078540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793785078540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "LIVE",
             "content_entity_id": 19294,
             "title": "Melbourne City FC (AUS) vs Beijing Jingtan Football Club (CHN)",
             "header_name": "MATCHDAY 3 - AFC Women's Champions League 2026\/27",
@@ -50,10 +35,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793864041540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154de56151ea540a81c2b41b77a\/01a154de85c41567ee931e109fa5a5\/main.m3u8"
+            "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19299,
             "title": "Bam Khatoon FC (IRN) vs Ayeyawady FC - Women (MYA)",
             "header_name": "MATCHDAY 3 - AFC Women's Champions League 2026\/27",
@@ -65,10 +50,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793864339540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19458,
             "title": "Malaga vs Racing Santander",
             "header_name": "MATCHDAY 12 - LaLiga 2026\/27",
@@ -80,7 +65,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793966488540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -273,6 +258,36 @@
             "category_seo_title": "sys-vs-sct-15th-t20i-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793785767540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793785767540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19121,
+            "title": "Bangladesh vs West Indies",
+            "header_name": "2nd Test - West indies Tour of Bangladesh 2026",
+            "description": "Watch West Indies Tour of Bangladesh 2026 live on tapmad. The BAN vs WI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 05-Nov-2026 at 09:30 AM . Fans can watch West Indies Tour of Bangladesh 2026 live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-08 15:30:00",
+            "seo_title": "ban-vs-wi-2nd-test-live",
+            "category_seo_title": "ban-vs-wi-2nd-test-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793611523540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793611523540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19193,
+            "title": "Perth Scorchers vs Melbourne Stars",
+            "header_name": "Group Stage - Women's Big Bash League 2026",
+            "description": "Watch Women's Big Bash League 2026 live on tapmad. The PER vs STA brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 16th T20I is scheduled to be played on 08-Nov-2026 at 12:00 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-08 18:10:00",
+            "seo_title": "per-vs-sta-16th-t20i-live",
+            "category_seo_title": "per-vs-sta-16th-t20i-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793785969540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793785969540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
