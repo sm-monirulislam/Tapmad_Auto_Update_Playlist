@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "04:00:10 PM 07-11-2026",
-    "total_matches": 21,
-    "live_match": 6,
+    "last_update_time": "05:00:08 PM 07-11-2026",
+    "total_matches": 22,
+    "live_match": 7,
     "upcoming_match": 15,
     "matches": [
         {
@@ -20,7 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793611523540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/serieAleague.akamaized.net\/hls\/live\/2107107\/tap-BK-PSL-D1-E\/master.m3u8"
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "LIVE",
@@ -50,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793786474540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/serieAleague.akamaized.net\/hls\/live\/2107107\/A1@25853-tapmad\/master.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -80,7 +80,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793863690540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154a641d51567ee931e109fa59f\/01a154a676281ea557841e1612cf77\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -95,10 +95,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793863402540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
+            "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19294,
             "title": "Melbourne City FC (AUS) vs Beijing Jingtan Football Club (CHN)",
             "header_name": "MATCHDAY 3 - AFC Women's Champions League 2026\/27",
@@ -110,7 +110,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793864041540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154de56151ea540a81c2b41b77a\/01a154de85c41567ee931e109fa5a5\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -318,6 +318,21 @@
             "category_seo_title": "ufc fight night-cortes acosta vs walker-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793603627540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793603628540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19192,
+            "title": "Sydney Sixers vs Sydney Thunder",
+            "header_name": "Group Stage - Women's Big Bash League 2026",
+            "description": "Watch Women's Big Bash League 2026 live on tapmad. The SYS vs SCT brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 15th T20I is scheduled to be played on 08-Nov-2026 at 12:00 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-08 14:40:00",
+            "seo_title": "sys-vs-sct-15th-t20i-live",
+            "category_seo_title": "sys-vs-sct-15th-t20i-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793785767540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793785767540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
