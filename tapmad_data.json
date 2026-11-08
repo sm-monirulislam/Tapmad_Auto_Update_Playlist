@@ -2,26 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "08:00:07 PM 08-11-2026",
-    "total_matches": 20,
-    "live_match": 5,
+    "last_update_time": "09:00:08 PM 08-11-2026",
+    "total_matches": 21,
+    "live_match": 6,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 19114,
-            "title": "Afghanistan vs Zimbabwe",
-            "header_name": "1st Test - Afghanistan vs Zimbabwe 2026",
-            "description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 05-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-05 18:00:00",
-            "seo_title": "afg-vs-zim-1st-test-live",
-            "category_seo_title": "afg-vs-zim-1st-test-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793865686540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793865686540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
-        },
         {
             "status": "LIVE",
             "content_entity_id": 20118,
@@ -35,7 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793971394540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -50,7 +35,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793968868540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145abfb3a1ea540a81c2b41b751\/01a145ae0ac115fc600b1e3e9683da\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -83,7 +68,7 @@
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20119,
             "title": "Cray Wanderers vs Stockport County",
             "header_name": "1st Round - FA Cup 2026\/27",
@@ -95,10 +80,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793971513540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145b15ce115fc600b1e3e9683db\/01a145b24db11ea557841e1612cf4c\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20120,
             "title": "Wimborne Town vs Crawley Town",
             "header_name": "1st Round - FA Cup 2026\/27",
@@ -110,7 +95,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793971642540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -294,6 +279,21 @@
         },
         {
             "status": "UPCOMING",
+            "content_entity_id": 19114,
+            "title": "Afghanistan vs Zimbabwe",
+            "header_name": "1st Test - Afghanistan vs Zimbabwe 2026",
+            "description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 05-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-09 18:00:00",
+            "seo_title": "afg-vs-zim-1st-test-live",
+            "category_seo_title": "afg-vs-zim-1st-test-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793865686540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793865686540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
             "content_entity_id": 20122,
             "title": "Plymouth Parkway vs Berkhamsted",
             "header_name": "1st Round - FA Cup 2026\/27",
@@ -303,6 +303,21 @@
             "category_seo_title": "plymouth parkway-vs-berkhamsted-facup-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793971912540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793971912540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19062,
+            "title": "New Zealand vs India",
+            "header_name": "3rd ODI - India Tour of New Zealand 2026",
+            "description": "Watch Inida Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd ODI is scheduled to be played on 10-Nov-2026 at 07:00 AM . Fans can watch Inida Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-10 14:00:00",
+            "seo_title": "nz-vs-ind-3rd-odi-live",
+            "category_seo_title": "nz-vs-ind-3rd-odi-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793786624540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793786624540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
