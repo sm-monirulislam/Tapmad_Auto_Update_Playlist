@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "08:00:05 AM 08-11-2026",
-    "total_matches": 16,
-    "live_match": 1,
+    "last_update_time": "09:00:05 AM 08-11-2026",
+    "total_matches": 17,
+    "live_match": 2,
     "upcoming_match": 15,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19192,
             "title": "Sydney Sixers vs Sydney Thunder",
             "header_name": "Group Stage - Women's Big Bash League 2026",
@@ -35,7 +35,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793785767540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -243,6 +243,21 @@
             "category_seo_title": "angers-vs-nice-ligue-one-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793792171540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793792171540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20121,
+            "title": "Oldham Athletic vs Sheffield Wednesday",
+            "header_name": "1st Round - FA Cup 2026\/27",
+            "description": "Watch FA Cup 2026\/27 matches live online on tapmad. The Emirates FA Cup is the world's oldest domestic football cup competition, bringing together clubs from across England in an exciting knockout tournament. Follow every stage of the competition, from the early qualifying rounds to the highly anticipated final, as top Premier League clubs and lower-division teams compete for the prestigious FA Cup trophy and a place in European football. Catch all the thrilling FA Cup 2026\/27 action and watch your favourite teams compete for glory. Enjoy an ad-free streaming experience on tapmad across the mobile app, TV, and web. Stream FA Cup matches live on tapmad anytime, anywhere!",
+            "start_time_bd": "2026-11-09 05:15:00",
+            "seo_title": "oldham-athletic-vs-sheffield-wednesday-facup-live-match",
+            "category_seo_title": "oldham athletic-vs-sheffield wednesday-facup-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793971770540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793971770540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
