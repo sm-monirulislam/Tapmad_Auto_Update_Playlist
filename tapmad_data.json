@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "06:00:05 PM 09-11-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "07:00:06 PM 09-11-2026",
+    "total_matches": 16,
+    "live_match": 1,
     "upcoming_match": 15,
     "matches": [
         {
@@ -21,21 +21,6 @@
             "is_sports": true,
             "is_channel": true,
             "stream_url": "https:\/\/saseries.akamaized.net\/hls\/live\/2110097\/306-tapmad\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19996,
-            "title": "Pakistan vs Sri Lanka",
-            "header_name": "1st Test - Sri Lanka Tour of Pakistan 2026",
-            "description": "Watch Sri Lanka Tour of Pakistan 2026 live on tapmad. The PAK vs SRI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 09-Nov-2026 at 09:30 AM . Fans can watch Sri Lanka Tour of Pakistan 2026 live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-09 16:30:00",
-            "seo_title": "pak-vs-sri-1st-test-live",
-            "category_seo_title": "pak-vs-sri-1st-test-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793858264540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793858264540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -63,6 +48,21 @@
             "category_seo_title": "nz-vs-ind-3rd-odi-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793786624540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793786624540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19996,
+            "title": "Pakistan vs Sri Lanka",
+            "header_name": "1st Test - Sri Lanka Tour of Pakistan 2026",
+            "description": "Watch Sri Lanka Tour of Pakistan 2026 live on tapmad. The PAK vs SRI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 09-Nov-2026 at 09:30 AM . Fans can watch Sri Lanka Tour of Pakistan 2026 live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-10 16:30:00",
+            "seo_title": "pak-vs-sri-1st-test-live",
+            "category_seo_title": "pak-vs-sri-1st-test-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793858264540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793858264540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
@@ -243,21 +243,6 @@
             "category_seo_title": "nz-vs-ind-4th-odi-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793786825540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793786826540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "UPCOMING",
-            "content_entity_id": 19115,
-            "title": "Afghanistan vs Zimbabwe",
-            "header_name": "2nd Test - Afghanistan vs Zimbabwe 2026",
-            "description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 13-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-13 18:00:00",
-            "seo_title": "afg-vs-zim-2nd-test-live",
-            "category_seo_title": "afg-vs-zim-2nd-test-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793865704540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793865704540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
