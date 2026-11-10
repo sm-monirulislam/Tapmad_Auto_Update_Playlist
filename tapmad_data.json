@@ -2,11 +2,26 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:00:06 AM 10-11-2026",
-    "total_matches": 16,
-    "live_match": 1,
+    "last_update_time": "10:00:05 AM 10-11-2026",
+    "total_matches": 17,
+    "live_match": 2,
     "upcoming_match": 15,
     "matches": [
+        {
+            "status": "LIVE",
+            "content_entity_id": 19996,
+            "title": "Pakistan vs Sri Lanka",
+            "header_name": "1st Test - Sri Lanka Tour of Pakistan 2026",
+            "description": "Watch Sri Lanka Tour of Pakistan 2026 live on tapmad. The PAK vs SRI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 09-Nov-2026 at 09:30 AM . Fans can watch Sri Lanka Tour of Pakistan 2026 live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-09 16:30:00",
+            "seo_title": "pak-vs-sri-1st-test-live",
+            "category_seo_title": "pak-vs-sri-1st-test-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793858264540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793858264540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
+        },
         {
             "status": "LIVE",
             "content_entity_id": 19062,
@@ -21,21 +36,6 @@
             "is_sports": true,
             "is_channel": true,
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "content_entity_id": 19996,
-            "title": "Pakistan vs Sri Lanka",
-            "header_name": "1st Test - Sri Lanka Tour of Pakistan 2026",
-            "description": "Watch Sri Lanka Tour of Pakistan 2026 live on tapmad. The PAK vs SRI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 09-Nov-2026 at 09:30 AM . Fans can watch Sri Lanka Tour of Pakistan 2026 live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-10 16:30:00",
-            "seo_title": "pak-vs-sri-1st-test-live",
-            "category_seo_title": "pak-vs-sri-1st-test-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793858264540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793858264540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
         },
         {
             "status": "UPCOMING",
@@ -243,6 +243,21 @@
             "category_seo_title": "sloevnia-vs-switzerland-unl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794149372540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794149372540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19316,
+            "title": "Gane vs Hokit",
+            "header_name": "UFC 334 - UFC 2026",
+            "description": "UFC 334 Live: Watch Gane vs Hokit live online on tapmad. Enjoy watching Gane vs Hokit live streaming online in Bangladesh with full match highlights. The fight will start at 08:00 AM on 15-Nov. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
+            "start_time_bd": "2026-11-15 14:00:00",
+            "seo_title": "ufc-334-gane-vs-hokit-live",
+            "category_seo_title": "ufc 334-gane vs hokit-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793258968540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793258968540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
