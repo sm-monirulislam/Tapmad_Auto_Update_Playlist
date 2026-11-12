@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "02:00:07 PM 12-11-2026",
-    "total_matches": 19,
-    "live_match": 4,
+    "last_update_time": "03:00:06 PM 12-11-2026",
+    "total_matches": 17,
+    "live_match": 2,
     "upcoming_match": 15,
     "matches": [
         {
@@ -21,36 +21,6 @@
             "is_sports": true,
             "is_channel": true,
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19196,
-            "title": "Melbourne Stars vs Brisbane Heat",
-            "header_name": "Group Stage - Women's Big Bash League 2026",
-            "description": "Watch Women's Big Bash League 2026 live on tapmad. The STA vs BRH brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 19th T20I is scheduled to be played on 12-Nov-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-12 16:40:00",
-            "seo_title": "sta-vs-brh-19th-t20i-live",
-            "category_seo_title": "sta-vs-brh-19th-t20i-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794404777540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794404777540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 20001,
-            "title": "Asian Qualifiers Draw - LA28",
-            "header_name": "Draw - Women's Olympic Football Tournament LA28: Asian Qualifiers",
-            "description": "Watch Asian Qualifiers Draw - LA28 live match online on tapmad. The Asian Qualifiers 2026 brings together Asia’s leading women’s football clubs for a thrilling continental competition. Featuring world-class talent, fast-paced attacks, tactical defending, and dramatic finishes, the tournament showcases the best of women’s club football. The Asian Qualifiers Draw - LA28 match will take place on 12-Nov, at 01:45 PM. Stream all Asian Qualifiers 2026 matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-12 19:00:00",
-            "seo_title": "asian-qualifiers-2026-asian-qualifiers-draw-la28-vs",
-            "category_seo_title": "Asian Qualifiers 2026-Asian Qualifiers Draw - LA28-vs-",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793947134540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793947134540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
         },
         {
             "status": "LIVE",
