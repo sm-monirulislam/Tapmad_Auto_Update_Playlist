@@ -2,11 +2,26 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:00:06 AM 13-11-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "10:00:06 AM 13-11-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "upcoming_match": 15,
     "matches": [
+        {
+            "status": "LIVE",
+            "content_entity_id": 19996,
+            "title": "Pakistan vs Sri Lanka",
+            "header_name": "1st Test - Sri Lanka Tour of Pakistan 2026",
+            "description": "Watch Sri Lanka Tour of Pakistan 2026 live on tapmad. The PAK vs SRI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 09-Nov-2026 at 09:30 AM . Fans can watch Sri Lanka Tour of Pakistan 2026 live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-09 16:30:00",
+            "seo_title": "pak-vs-sri-1st-test-live",
+            "category_seo_title": "pak-vs-sri-1st-test-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793858264540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793858264540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
+        },
         {
             "status": "LIVE",
             "content_entity_id": 19063,
@@ -35,22 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794308236540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "content_entity_id": 19996,
-            "title": "Pakistan vs Sri Lanka",
-            "header_name": "1st Test - Sri Lanka Tour of Pakistan 2026",
-            "description": "Watch Sri Lanka Tour of Pakistan 2026 live on tapmad. The PAK vs SRI brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 09-Nov-2026 at 09:30 AM . Fans can watch Sri Lanka Tour of Pakistan 2026 live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-13 16:30:00",
-            "seo_title": "pak-vs-sri-1st-test-live",
-            "category_seo_title": "pak-vs-sri-1st-test-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793858264540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793858264540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -258,6 +258,21 @@
             "category_seo_title": "sloevnia-vs-switzerland-unl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794149372540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794149372540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19198,
+            "title": "Hobart Hurricanes vs Brisbane Heat",
+            "header_name": "Group Stage - Women's Big Bash League 2026",
+            "description": "Watch Women's Big Bash League 2026 live on tapmad. The HH vs BRH brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 21st T20I is scheduled to be played on 14-Nov-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-14 16:40:00",
+            "seo_title": "hh-vs-brh-21st-t20i-live",
+            "category_seo_title": "hh-vs-brh-21st-t20i-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794476844540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794476844540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
