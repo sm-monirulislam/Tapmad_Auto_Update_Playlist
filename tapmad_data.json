@@ -2,101 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "03:00:11 AM 14-11-2026",
-    "total_matches": 24,
-    "live_match": 9,
+    "last_update_time": "04:00:07 AM 14-11-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 20072,
-            "title": "Bulgaria vs Iceland",
-            "header_name": "MATCHDAY 5 - UEFA Nations League 2026\/27",
-            "description": "Watch Bulgaria vs Iceland live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Bulgaria vs Iceland match will take place on 14-Nov, Saturday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-14 07:45:00",
-            "seo_title": "bulgaria-vs-iceland-unl-live-match",
-            "category_seo_title": "bulgaria-vs-iceland-unl-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794294827540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794294827540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a80166b1ea557841e1612cf55\/01a14a8047211ea557841e1612cf58\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 20071,
-            "title": "Liechtenstein vs Azerbaijan",
-            "header_name": "MATCHDAY 5 - UEFA Nations League 2026\/27",
-            "description": "Watch Liechtenstein vs Azerbaijan live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Liechtenstein vs Azerbaijan match will take place on 14-Nov, Saturday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-14 07:45:00",
-            "seo_title": "liechtenstein-vs-azerbaijan-unl-live-match",
-            "category_seo_title": "liechtenstein-vs-azerbaijan-unl-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794294688540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794294688540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a5b5bd11ea540a81c2b41b75b\/01a14a5b94ea15fc600b1e3e9683eb\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 20070,
-            "title": "Slovakia vs Faroe Islands",
-            "header_name": "MATCHDAY 5 - UEFA Nations League 2026\/27",
-            "description": "Watch Slovakia vs Faroe Islands live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Slovakia vs Faroe Islands match will take place on 14-Nov, Saturday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-14 07:45:00",
-            "seo_title": "slovakia-vs-faroe-islands-unl-live-match",
-            "category_seo_title": "slovakia-vs-faroe islands-unl-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794294577540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794294577540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a4cd93615fc600b1e3e9683e8\/01a14a5761541567ee931e109fa576\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 20069,
-            "title": "Scotland vs North Macedonia",
-            "header_name": "MATCHDAY 5 - UEFA Nations League 2026\/27",
-            "description": "Watch Scotland vs North Macedonia live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Scotland vs North Macedonia match will take place on 14-Nov, Saturday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-14 07:45:00",
-            "seo_title": "scotland-vs-north-macedonia-unl-live-match",
-            "category_seo_title": "scotland-vs-north macedonia-unl-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794294461540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794294461540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145d823d515fc600b1e3e9683de\/01a145dc15751ea540a81c2b41b754\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 20068,
-            "title": "Serbia vs Germany",
-            "header_name": "MATCHDAY 5 - UEFA Nations League 2026\/27",
-            "description": "Watch Serbia vs Germany live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Serbia vs Germany match will take place on 14-Nov, Saturday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-14 07:45:00",
-            "seo_title": "serbia-vs-germany-unl-live-match",
-            "category_seo_title": "serbia-vs-germany-unl-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794294328540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794294328540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a9fb90c15fc60e91e1786b061\/01a14a9feb881ea540a81c2b41b75e\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 20067,
-            "title": "Luxembourg vs Estonia",
-            "header_name": "MATCHDAY 5 - UEFA Nations League 2026\/27",
-            "description": "Watch Luxembourg vs Estonia live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Luxembourg vs Estonia match will take place on 14-Nov, Saturday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-14 07:45:00",
-            "seo_title": "luxembourg-vs-estonia-unl-live-match",
-            "category_seo_title": "luxembourg-vs-estonia-unl-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794294218540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794294218540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145b15ce115fc600b1e3e9683db\/01a145b24db11ea557841e1612cf4c\/main.m3u8"
-        },
         {
             "status": "LIVE",
             "content_entity_id": 20066,
@@ -110,7 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794294079540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -125,7 +35,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794291741540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -140,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794149372540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "UPCOMING",
