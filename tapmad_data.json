@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "01:00:07 AM 15-11-2026",
-    "total_matches": 19,
-    "live_match": 4,
+    "last_update_time": "02:00:10 AM 15-11-2026",
+    "total_matches": 25,
+    "live_match": 10,
     "upcoming_match": 15,
     "matches": [
         {
@@ -65,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794551757540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
+            "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20208,
             "title": "Sixties Endurance by Peter Auto",
             "header_name": "Race - HSR Daytona Classic 2026",
@@ -80,10 +80,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794300987540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a4cd93615fc600b1e3e9683e8\/01a14a5761541567ee931e109fa576\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20080,
             "title": "Romania vs Poland",
             "header_name": "MATCHDAY 5 - UEFA Nations League 2026\/27",
@@ -95,10 +95,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794296162540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145d823d515fc600b1e3e9683de\/01a145dc15751ea540a81c2b41b754\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20079,
             "title": "Sweden vs Bosnia and Herzegovina",
             "header_name": "MATCHDAY 5 - UEFA Nations League 2026\/27",
@@ -110,10 +110,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794296056540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145b15ce115fc600b1e3e9683db\/01a145b24db11ea557841e1612cf4c\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20078,
             "title": "Northern Ireland vs Ukraine",
             "header_name": "MATCHDAY 5 - UEFA Nations League 2026\/27",
@@ -125,10 +125,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794295950540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145abfb3a1ea540a81c2b41b751\/01a145ae0ac115fc600b1e3e9683da\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20077,
             "title": "Portugal vs Denmark",
             "header_name": "MATCHDAY 5 - UEFA Nations League 2026\/27",
@@ -140,10 +140,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794295829540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20076,
             "title": "Austria vs Ireland",
             "header_name": "MATCHDAY 5 - UEFA Nations League 2026\/27",
@@ -155,7 +155,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794295638540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -288,6 +288,96 @@
             "category_seo_title": "longines-fei-jumping-world-cup-2026",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794561590540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794561590540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20084,
+            "title": "Belarus vs Albania",
+            "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
+            "description": "Watch Belarus vs Albania live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Belarus vs Albania match will take place on 15-Nov, Sunday, at 10:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-16 05:00:00",
+            "seo_title": "belarus-vs-albania-unl-live-match",
+            "category_seo_title": "belarus-vs-albania-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794553350540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794553350540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20083,
+            "title": "Finland vs San Marino",
+            "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
+            "description": "Watch Finland vs San Marino live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Finland vs San Marino match will take place on 15-Nov, Sunday, at 10:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-16 05:00:00",
+            "seo_title": "finland-vs-san-marino-unl-live-match",
+            "category_seo_title": "finland-vs-san marino-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794552894540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794552894540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20088,
+            "title": "Spain vs England",
+            "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
+            "description": "Watch Spain vs England live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Spain vs England match will take place on 16-Nov, Monday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-16 07:45:00",
+            "seo_title": "spain-vs-england-unl-live-match",
+            "category_seo_title": "spain-vs-england-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794555571540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794555571540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20087,
+            "title": "Croatia vs Czechia",
+            "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
+            "description": "Watch Croatia vs Czechia live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Croatia vs Czechia match will take place on 16-Nov, Monday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-16 07:45:00",
+            "seo_title": "croatia-vs-czechia-unl-live-match",
+            "category_seo_title": "croatia-vs-czechia-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794555458540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794555458540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20086,
+            "title": "Belgium vs Italy",
+            "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
+            "description": "Watch Belgium vs Italy live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Belgium vs Italy match will take place on 16-Nov, Monday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-16 07:45:00",
+            "seo_title": "belgium-vs-italy-unl-live-match",
+            "category_seo_title": "belgium-vs-italy-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794555251540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794555251540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20085,
+            "title": "France vs Turkiye",
+            "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
+            "description": "Watch France vs Turkiye live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The France vs Turkiye match will take place on 16-Nov, Monday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-16 07:45:00",
+            "seo_title": "france-vs-turkiye-unl-live-match",
+            "category_seo_title": "france-vs-turkiye-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794555126540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794555127540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
