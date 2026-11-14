@@ -2,7 +2,7 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "03:00:08 AM 15-11-2026",
+    "last_update_time": "04:00:08 AM 15-11-2026",
     "total_matches": 22,
     "live_match": 7,
     "upcoming_match": 15,
@@ -20,21 +20,6 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794572967540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154a641d51567ee931e109fa59f\/01a154a676281ea557841e1612cf77\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 20208,
-            "title": "Sixties Endurance by Peter Auto",
-            "header_name": "Race - HSR Daytona Classic 2026",
-            "description": "Watch Sixties Endurance by Peter Auto live online on tapmad. Enjoy the thrill and excitement of endurance racing as classic racing cars compete in an action-packed battle on the track. Stream live racing action on tapmad via mobile app, TV, and web, and enjoy an uninterrupted, ad-free viewing experience.",
-            "start_time_bd": "2026-11-15 07:00:00",
-            "seo_title": "hsr-daytona-2026-live",
-            "category_seo_title": "hsr-daytona-2026-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794300987540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794300987540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
             "stream_url": ""
         },
         {
@@ -50,7 +35,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794296162540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145d823d515fc600b1e3e9683de\/01a145dc15751ea540a81c2b41b754\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -65,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794296056540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145b15ce115fc600b1e3e9683db\/01a145b24db11ea557841e1612cf4c\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -80,7 +65,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794295950540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145abfb3a1ea540a81c2b41b751\/01a145ae0ac115fc600b1e3e9683da\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -95,7 +80,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794295829540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -110,7 +95,22 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794295638540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
+            "stream_url": ""
+        },
+        {
+            "status": "LIVE",
+            "content_entity_id": 20214,
+            "title": "CLASSIC 24 HOUR presented by Mission Foods (GROUP A\/B) RACE 1",
+            "header_name": "Group Stages - HSR Daytona Classic 2026",
+            "description": "Watch CLASSIC 24 HOUR presented by Mission Foods (GROUP A\/B) RACE 1 live online on tapmad. Enjoy the thrill and excitement of endurance racing as classic racing cars compete in an action-packed 24-hour battle on the track. Stream live racing action on tapmad via mobile app, TV, and web, and enjoy an uninterrupted, ad-free viewing experience.",
+            "start_time_bd": "2026-11-15 08:00:00",
+            "seo_title": "hsr-daytona-2026-live",
+            "category_seo_title": "hsr-daytona-2026-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794301477540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794301477540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a4cd93615fc600b1e3e9683e8\/01a14a5761541567ee931e109fa576\/main.m3u8"
         },
         {
             "status": "UPCOMING",
