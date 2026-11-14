@@ -2,28 +2,13 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "07:00:06 PM 14-11-2026",
-    "total_matches": 16,
-    "live_match": 1,
+    "last_update_time": "08:00:07 PM 14-11-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "upcoming_match": 15,
     "matches": [
         {
             "status": "LIVE",
-            "content_entity_id": 19115,
-            "title": "Afghanistan vs Zimbabwe",
-            "header_name": "2nd Test - Afghanistan vs Zimbabwe 2026",
-            "description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 13-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-13 18:00:00",
-            "seo_title": "afg-vs-zim-2nd-test-live",
-            "category_seo_title": "afg-vs-zim-2nd-test-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793865704540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793865704540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a9fb90c15fc60e91e1786b061\/01a14a9feb881ea540a81c2b41b75e\/main.m3u8"
-        },
-        {
-            "status": "UPCOMING",
             "content_entity_id": 20203,
             "title": "Nemkov vs Bilostenniy",
             "header_name": "Semi Finals - PFL 2026",
@@ -35,10 +20,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794572967540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154a641d51567ee931e109fa59f\/01a154a676281ea557841e1612cf77\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20176,
             "title": "Round 7 - Group Stages",
             "header_name": "Session 3 - E1 Series 2026",
@@ -50,10 +35,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794551084540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20073,
             "title": "Kosovo vs Israel",
             "header_name": "MATCHDAY 5 - UEFA Nations League 2026\/27",
@@ -65,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794294944540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -243,6 +228,51 @@
             "category_seo_title": "ufc 334-gane vs hokit-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793258968540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793258968540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19064,
+            "title": "New Zealand vs India",
+            "header_name": "5th ODI - India Tour of New Zealand 2026",
+            "description": "Watch Inida Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 5th ODI is scheduled to be played on 15-Nov-2026 at 07:00 AM . Fans can watch Inida Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-15 14:00:00",
+            "seo_title": "nz-vs-ind-5th-odi-live",
+            "category_seo_title": "nz-vs-ind-5th-odi-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793786958540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793786958540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20197,
+            "title": "FEI NAL - Toronto, CAN",
+            "header_name": "Race - Longines FEI Jumping World Cup 2026",
+            "description": "The Longines FEI Jumping World Cup North American League 2026 brings together elite riders and horses for high-level international show jumping competition. Featuring challenging courses, precise jumping, speed, skill, and intense competition, every event delivers exciting equestrian action. Watch Longines FEI Jumping World Cup NAL 2026 live in HD on tapmad via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
+            "start_time_bd": "2026-11-15 14:30:00",
+            "seo_title": "longines-fei-jumping-world-cup-2026",
+            "category_seo_title": "longines-fei-jumping-world-cup-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794562074540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794562074540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20132,
+            "title": "Australia vs England",
+            "header_name": "2nd ODI - England Tour of Australia 2026",
+            "description": "Watch England Tour of Australia 2026 live on tapmad. The AUS vs ENG brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd ODI is scheduled to be played on 15-Nov-2026 at 08:30 AM . Fans can watch England Tour of Australia 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-15 15:30:00",
+            "seo_title": "aus-vs-eng-2nd-odi-live",
+            "category_seo_title": "aus-vs-eng-2nd-odi-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794471319540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794471319540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
