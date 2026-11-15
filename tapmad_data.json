@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:00:06 AM 15-11-2026",
-    "total_matches": 19,
-    "live_match": 4,
+    "last_update_time": "10:00:07 AM 15-11-2026",
+    "total_matches": 20,
+    "live_match": 5,
     "upcoming_match": 15,
     "matches": [
         {
@@ -24,6 +24,21 @@
         },
         {
             "status": "LIVE",
+            "content_entity_id": 20132,
+            "title": "Australia vs England",
+            "header_name": "2nd ODI - England Tour of Australia 2026",
+            "description": "Watch England Tour of Australia 2026 live on tapmad. The AUS vs ENG brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd ODI is scheduled to be played on 15-Nov-2026 at 08:30 AM . Fans can watch England Tour of Australia 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-15 15:30:00",
+            "seo_title": "aus-vs-eng-2nd-odi-live",
+            "category_seo_title": "aus-vs-eng-2nd-odi-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794471319540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794471319540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8"
+        },
+        {
+            "status": "LIVE",
             "content_entity_id": 19200,
             "title": "Sydney Sixers vs Melbourne Renegades",
             "header_name": "Group Stage - Women's Big Bash League 2026",
@@ -35,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794477526540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a9fb90c15fc60e91e1786b061\/01a14a9feb881ea540a81c2b41b75e\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -66,21 +81,6 @@
             "is_sports": true,
             "is_channel": true,
             "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "content_entity_id": 20132,
-            "title": "Australia vs England",
-            "header_name": "2nd ODI - England Tour of Australia 2026",
-            "description": "Watch England Tour of Australia 2026 live on tapmad. The AUS vs ENG brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd ODI is scheduled to be played on 15-Nov-2026 at 08:30 AM . Fans can watch England Tour of Australia 2026live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-15 15:30:00",
-            "seo_title": "aus-vs-eng-2nd-odi-live",
-            "category_seo_title": "aus-vs-eng-2nd-odi-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794471319540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794471319540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
         },
         {
             "status": "UPCOMING",
@@ -288,6 +288,21 @@
             "category_seo_title": "iceland-vs-luxembourg-unl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794556271540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794556271540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20092,
+            "title": "Lithuania vs Liechtenstein",
+            "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
+            "description": "Watch Lithuania vs Liechtenstein live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Lithuania vs Liechtenstein match will take place on 16-Nov, Monday, at 10:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-17 05:00:00",
+            "seo_title": "lithuania-vs-liechtenstein-unl-live-match",
+            "category_seo_title": "lithuania-vs-liechtenstein-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794556143540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794556143540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
