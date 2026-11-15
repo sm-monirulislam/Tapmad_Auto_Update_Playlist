@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "12:00:06 PM 15-11-2026",
-    "total_matches": 19,
-    "live_match": 4,
+    "last_update_time": "01:00:06 PM 15-11-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "upcoming_match": 15,
     "matches": [
         {
@@ -51,21 +51,6 @@
             "is_sports": true,
             "is_channel": true,
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19316,
-            "title": "Gane vs Hokit",
-            "header_name": "UFC 334 - UFC 2026",
-            "description": "UFC 334 Live: Watch Gane vs Hokit live online on tapmad. Enjoy watching Gane vs Hokit live streaming online in Bangladesh with full match highlights. The fight will start at 08:00 AM on 15-Nov. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Bangladesh via app, web, or smart tv.",
-            "start_time_bd": "2026-11-15 14:00:00",
-            "seo_title": "ufc-334-gane-vs-hokit-live",
-            "category_seo_title": "ufc 334-gane vs hokit-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793258968540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793258968540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a5b5bd11ea540a81c2b41b75b\/01a14a5b94ea15fc600b1e3e9683eb\/main.m3u8"
         },
         {
             "status": "UPCOMING",
