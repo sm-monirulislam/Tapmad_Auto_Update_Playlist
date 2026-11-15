@@ -2,7 +2,7 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "08:00:06 AM 15-11-2026",
+    "last_update_time": "09:00:06 AM 15-11-2026",
     "total_matches": 19,
     "live_match": 4,
     "upcoming_match": 15,
@@ -21,21 +21,6 @@
             "is_sports": true,
             "is_channel": true,
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 20214,
-            "title": "CLASSIC 24 HOUR presented by Mission Foods (GROUP A\/B) RACE 1",
-            "header_name": "Group Stages - HSR Daytona Classic 2026",
-            "description": "Watch CLASSIC 24 HOUR presented by Mission Foods (GROUP A\/B) RACE 1 live online on tapmad. Enjoy the thrill and excitement of endurance racing as classic racing cars compete in an action-packed 24-hour battle on the track. Stream live racing action on tapmad via mobile app, TV, and web, and enjoy an uninterrupted, ad-free viewing experience.",
-            "start_time_bd": "2026-11-15 08:00:00",
-            "seo_title": "hsr-daytona-2026-live",
-            "category_seo_title": "hsr-daytona-2026-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794301477540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794301477540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -68,7 +53,7 @@
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a5b5bd11ea540a81c2b41b75b\/01a14a5b94ea15fc600b1e3e9683eb\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20197,
             "title": "FEI NAL - Toronto, CAN",
             "header_name": "Race - Longines FEI Jumping World Cup 2026",
@@ -80,7 +65,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794562074540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -288,6 +273,21 @@
             "category_seo_title": "kazakhstan-vs-slovakia-unl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794555755540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794555756540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20093,
+            "title": "Iceland vs Luxembourg",
+            "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
+            "description": "Watch Iceland vs Luxembourg live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Iceland vs Luxembourg match will take place on 16-Nov, Monday, at 10:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-17 05:00:00",
+            "seo_title": "iceland-vs-luxembourg-unl-live-match",
+            "category_seo_title": "iceland-vs-luxembourg-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794556271540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794556271540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
