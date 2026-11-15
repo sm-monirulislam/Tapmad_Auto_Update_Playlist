@@ -2,43 +2,13 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "01:00:06 AM 16-11-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "01:30:07 AM 16-11-2026",
+    "total_matches": 19,
+    "live_match": 4,
     "upcoming_match": 15,
     "matches": [
         {
             "status": "LIVE",
-            "content_entity_id": 20084,
-            "title": "Belarus vs Albania",
-            "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
-            "description": "Watch Belarus vs Albania live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Belarus vs Albania match will take place on 15-Nov, Sunday, at 10:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-16 05:00:00",
-            "seo_title": "belarus-vs-albania-unl-live-match",
-            "category_seo_title": "belarus-vs-albania-unl-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794553350540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794553350540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 20083,
-            "title": "Finland vs San Marino",
-            "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
-            "description": "Watch Finland vs San Marino live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Finland vs San Marino match will take place on 15-Nov, Sunday, at 10:00 PM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-16 05:00:00",
-            "seo_title": "finland-vs-san-marino-unl-live-match",
-            "category_seo_title": "finland-vs-san marino-unl-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794552894540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794552894540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "UPCOMING",
             "content_entity_id": 20088,
             "title": "Spain vs England",
             "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
@@ -50,10 +20,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794555571540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a9fb90c15fc60e91e1786b061\/01a14a9feb881ea540a81c2b41b75e\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20087,
             "title": "Croatia vs Czechia",
             "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
@@ -65,10 +35,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794555458540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20086,
             "title": "Belgium vs Italy",
             "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
@@ -80,10 +50,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794555251540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20085,
             "title": "France vs Turkiye",
             "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
@@ -95,7 +65,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794555127540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -258,6 +228,66 @@
             "category_seo_title": "gibraltar-vs-malta-unl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794564594540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794564594540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20094,
+            "title": "Germany vs Netherlands",
+            "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
+            "description": "Watch Germany vs Netherlands live match online on tapmad. The UEFA Nations League 2026 brings together Europe's leading national football teams for an exciting international competition. Featuring attacking football, tactical battles, goal-scoring opportunities, defensive challenges, and competitive matches, the tournament delivers thrilling action throughout the competition. The Germany vs Netherlands match will take place on 17-Nov, Tuesday, at 12:45 AM. Stream all UEFA Nations League matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-17 07:45:00",
+            "seo_title": "germany-vs-netherlands-unl-live-match",
+            "category_seo_title": "germany-vs-netherlands-unl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794564418540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794564418540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19997,
+            "title": "Pakistan vs Sri Lanka",
+            "header_name": "2nd Test - Sri Lanka Tour of Pakistan 2026",
+            "description": "Watch Sri Lanka Tour of Pakistan 2026 live on tapmad. The PAK vs SL brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 17-Nov-2026 at 09:30 AM . Fans can watch Sri Lanka Tour of Pakistan 2026 live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-17 16:30:00",
+            "seo_title": "pak-vs-sl-2nd-test-live",
+            "category_seo_title": "pak-vs-sl-2nd-test-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794475686540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794475686540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19202,
+            "title": "Adelaide Strikers vs Sydney Sixers",
+            "header_name": "Group Stage - Women's Big Bash League 2026",
+            "description": "Watch Women's Big Bash League 2026 live on tapmad. The ADS vs SYS brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 25th T20I is scheduled to be played on 17-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-17 20:10:00",
+            "seo_title": "ads-vs-sys-25th-t20i-live",
+            "category_seo_title": "ads-vs-sys-25th-t20i-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794559803540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794559803540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20133,
+            "title": "Australia vs England",
+            "header_name": "3rd ODI - England Tour of Australia 2026",
+            "description": "Watch England Tour of Australia 2026 live on tapmad. The AUS vs ENG brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd ODI is scheduled to be played on 18-Nov-2026 at 08:30 AM . Fans can watch England Tour of Australia 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-18 15:30:00",
+            "seo_title": "aus-vs-eng-3rd-odi-live",
+            "category_seo_title": "aus-vs-eng-3rd-odi-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794471454540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794471454540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
