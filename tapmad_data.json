@@ -2,25 +2,25 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "11:00:04 AM 16-11-2026",
-    "total_matches": 15,
-    "live_match": 0,
+    "last_update_time": "11:30:05 AM 16-11-2026",
+    "total_matches": 16,
+    "live_match": 1,
     "upcoming_match": 15,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19115,
             "title": "Afghanistan vs Zimbabwe",
             "header_name": "2nd Test - Afghanistan vs Zimbabwe 2026",
             "description": "Watch Afghanistan vs Zimbabwe 2026 live on tapmad. The AFG vs ZIM brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 13-Nov-2026 at 12:00 PM . Fans can watch Afghanistan vs Zimbabwe 2026live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-16 18:00:00",
+            "start_time_bd": "2026-11-13 18:00:00",
             "seo_title": "afg-vs-zim-2nd-test-live",
             "category_seo_title": "afg-vs-zim-2nd-test-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1793865704540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1793865704540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a9fb90c15fc60e91e1786b061\/01a14a9feb881ea540a81c2b41b75e\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -228,6 +228,21 @@
             "category_seo_title": "aus-vs-eng-3rd-odi-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794471454540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794471454540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19065,
+            "title": "New Zealand vs India",
+            "header_name": "1st Test - India Tour of New Zealand 2026",
+            "description": "Watch India Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 19-Nov-2026 at 03:00 AM . Fans can watch India Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-19 10:00:00",
+            "seo_title": "nz-vs-ind-1st-test-live",
+            "category_seo_title": "nz-vs-ind-1st-test-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794553818540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794553818540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
