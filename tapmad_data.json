@@ -2,13 +2,13 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "01:30:06 AM 18-11-2026",
-    "total_matches": 15,
-    "live_match": 0,
+    "last_update_time": "02:00:20 AM 18-11-2026",
+    "total_matches": 23,
+    "live_match": 8,
     "upcoming_match": 15,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20106,
             "title": "Israel vs Austria",
             "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
@@ -20,10 +20,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794817996540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a4cd93615fc600b1e3e9683e8\/01a14a5761541567ee931e109fa576\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20105,
             "title": "Poland vs Sweden",
             "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
@@ -35,10 +35,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794817890540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20104,
             "title": "Hungary vs Northern Ireland",
             "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
@@ -50,10 +50,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794817762540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145d823d515fc600b1e3e9683de\/01a145dc15751ea540a81c2b41b754\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20103,
             "title": "Ukraine vs Georgia",
             "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
@@ -65,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794816602540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145b15ce115fc600b1e3e9683db\/01a145b24db11ea557841e1612cf4c\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20102,
             "title": "Ireland vs Kosovo",
             "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
@@ -80,10 +80,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794816464540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145abfb3a1ea540a81c2b41b751\/01a145ae0ac115fc600b1e3e9683da\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20101,
             "title": "Wales vs Portugal",
             "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
@@ -95,10 +95,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794816345540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20100,
             "title": "Bosnia and Herzegovina vs Romania",
             "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
@@ -110,10 +110,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794816047540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20099,
             "title": "Denmark vs Norway",
             "header_name": "MATCHDAY 6 - UEFA Nations League 2026\/27",
@@ -125,7 +125,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794815712540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a9fb90c15fc60e91e1786b061\/01a14a9feb881ea540a81c2b41b75e\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -228,6 +228,126 @@
             "category_seo_title": "qualifying-race---macau,-china",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794810430540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794810430540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19205,
+            "title": "Adelaide Strikers vs Melbourne Renegades",
+            "header_name": "Group Stage - Women's Big Bash League 2026",
+            "description": "Watch Women's Big Bash League 2026 live on tapmad. The ADS vs MLR brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 28th T20I is scheduled to be played on 20-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-20 20:10:00",
+            "seo_title": "ads-vs-mlr-28th-t20i-live",
+            "category_seo_title": "ads-vs-mlr-28th-t20i-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794812519540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794812519540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19968,
+            "title": "Troyes vs Le Havre",
+            "header_name": "MATCHDAY 11 - French Ligue 1 2026\/27",
+            "description": "Watch Troyes vs Le Havre live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Troyes vs Le Havre match will take place on 21-Nov, Saturday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-21 07:45:00",
+            "seo_title": "troyes-vs-le-havre-ligue-one-live-match",
+            "category_seo_title": "troyes-vs-le havre-ligue-one-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794900862540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794900862540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19206,
+            "title": "Hobart Hurricanes vs Sydney Thunder",
+            "header_name": "Group Stage - Women's Big Bash League 2026",
+            "description": "Watch Women's Big Bash League 2026 live on tapmad. The HH vs SCT brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 29th T20I is scheduled to be played on 21-Nov-2026 at 06:00 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-21 13:00:00",
+            "seo_title": "hh-vs-sct-29th-t20i-live",
+            "category_seo_title": "hh-vs-sct-29th-t20i-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794829739540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794829739540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19207,
+            "title": "Sydney Sixers vs Perth Scorchers",
+            "header_name": "Group Stage - Women's Big Bash League 2026",
+            "description": "Watch Women's Big Bash League 2026 live on tapmad. The SYS vs PER brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 30th T20I is scheduled to be played on 21-Nov-2026 at 09:30 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-21 16:30:00",
+            "seo_title": "sys-vs-per-30th-t20i-live",
+            "category_seo_title": "sys-vs-per-30th-t20i-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794829865540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794829865540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20226,
+            "title": "Round 19 - Race 1",
+            "header_name": "Race 1 - Kumho FIA TCR World Tour Euro Series 2026",
+            "description": "Live Stream Round 19 - Race 1 online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-21 17:05:00",
+            "seo_title": "round-19-race-1",
+            "category_seo_title": "round-19---race-1",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794819825540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794819825540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20134,
+            "title": "Australia vs England",
+            "header_name": "1st T20I - England Tour of Australia 2026",
+            "description": "Watch England Tour of Australia 2026 live on tapmad. The AUS vs ENG brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st T20I is scheduled to be played on 21-Nov-2026 at 01:15 PM . Fans can watch England Tour of Australia 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-21 20:15:00",
+            "seo_title": "aus-vs-eng-1st-t20i-live",
+            "category_seo_title": "aus-vs-eng-1st-t20i-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794812851540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794812851540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19969,
+            "title": "Nice vs PSG",
+            "header_name": "MATCHDAY 11 - French Ligue 1 2026\/27",
+            "description": "Watch Nice vs PSG live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Nice vs PSG match will take place on 21-Nov, Saturday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-22 04:15:00",
+            "seo_title": "nice-vs-psg-ligue-one-live-match",
+            "category_seo_title": "nice-vs-psg-ligue-one-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794901051540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794901051540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19318,
+            "title": "Prochazka vs Stirling",
+            "header_name": "Fight Night - UFC 2026",
+            "description": "UFC Fight Night Live: Watch Prochazka vs Stirling live online on tapmad. Enjoy watching Prochazka vs Stirling live streaming online in Pakistan with full match highlights. The fight will start at 11:00 PM on 21-Nov. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Pakistan via app, web, or smart tv.",
+            "start_time_bd": "2026-11-22 06:00:00",
+            "seo_title": "ufc-fight-night-prochazka-vs-stirling-live",
+            "category_seo_title": "ufc fight night-prochazka vs stirling-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794811799540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794811799540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
