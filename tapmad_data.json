@@ -2,13 +2,13 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:30:05 AM 17-11-2026",
-    "total_matches": 15,
-    "live_match": 0,
+    "last_update_time": "10:00:05 AM 17-11-2026",
+    "total_matches": 16,
+    "live_match": 1,
     "upcoming_match": 15,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19997,
             "title": "Pakistan vs Sri Lanka",
             "header_name": "2nd Test - Sri Lanka Tour of Pakistan 2026",
@@ -20,7 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794475686540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -228,6 +228,21 @@
             "category_seo_title": "brh-vs-sct-27th-t20i-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794831038540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794831038540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20238,
+            "title": "AFC Annual Awards Bangkok 2026",
+            "header_name": "Show - AFC Bangkok 2026",
+            "description": "Watch the AFC Annual Awards Bangkok 2026 celebrates excellence in Asian football, bringing together leading players, coaches, teams, and football personalities from across the continent. The ceremony recognises outstanding performances, achievements, and contributions to the development of Asian football. Watch the AFC Women's Asian Cup on 19-Nov at 06:00 PM on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-20 00:00:00",
+            "seo_title": "afc-annual-awards-bangkok-2026",
+            "category_seo_title": "afc-annual-awards-bangkok-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794570228540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794570228540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
