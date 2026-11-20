@@ -2,13 +2,13 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "11:00:05 PM 20-11-2026",
-    "total_matches": 15,
-    "live_match": 0,
+    "last_update_time": "11:30:05 PM 20-11-2026",
+    "total_matches": 16,
+    "live_match": 1,
     "upcoming_match": 15,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20262,
             "title": "Al-Ahli vs Al-Nassr",
             "header_name": "MATCHDAY 9 - Saudi Pro League 2026\/27",
@@ -20,7 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795159021540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/t-prod-bd.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -228,6 +228,21 @@
             "category_seo_title": "laliga--sevilla-vs-betis-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795172317540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795172317540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19318,
+            "title": "Prochazka vs Stirling",
+            "header_name": "Fight Night - UFC 2026",
+            "description": "UFC Fight Night Live: Watch Prochazka vs Stirling live online on tapmad. Enjoy watching Prochazka vs Stirling live streaming online in Pakistan with full match highlights. The fight will start at 11:00 PM on 21-Nov. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Pakistan via app, web, or smart tv.",
+            "start_time_bd": "2026-11-22 06:00:00",
+            "seo_title": "ufc-fight-night-prochazka-vs-stirling-live",
+            "category_seo_title": "ufc fight night-prochazka vs stirling-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794811799540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794811799540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
