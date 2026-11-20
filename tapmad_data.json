@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "02:00:05 PM 20-11-2026",
-    "total_matches": 18,
-    "live_match": 3,
+    "last_update_time": "02:30:06 PM 20-11-2026",
+    "total_matches": 19,
+    "live_match": 4,
     "upcoming_match": 15,
     "matches": [
         {
@@ -53,7 +53,7 @@
             "stream_url": "https:\/\/serieAleague.akamaized.net\/hls\/live\/2107107\/A1@25853-tapmad\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20296,
             "title": "FIA GT World Cup - Qualifying - Q2 - Super Pole",
             "header_name": "Qualifying 2 - Macau Grand Prix 2026",
@@ -65,7 +65,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794985782540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -273,6 +273,21 @@
             "category_seo_title": "lens-vs-toulouse-ligue-one-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794902084540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794902084540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19971,
+            "title": "LOSC vs OL",
+            "header_name": "MATCHDAY 11 - French Ligue 1 2026\/27",
+            "description": "Watch LOSC vs OL live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The LOSC vs OL match will take place on 22-Nov, Sunday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-22 07:45:00",
+            "seo_title": "losc-vs-ol-ligue-one-live-match",
+            "category_seo_title": "losc-vs-ol-ligue-one-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794901956540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794901956540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
