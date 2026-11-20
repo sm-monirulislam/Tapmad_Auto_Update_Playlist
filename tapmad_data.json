@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "04:00:04 PM 20-11-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "04:30:05 PM 20-11-2026",
+    "total_matches": 16,
+    "live_match": 1,
     "upcoming_match": 15,
     "matches": [
         {
@@ -21,21 +21,6 @@
             "is_sports": true,
             "is_channel": true,
             "stream_url": "https:\/\/serieAleague.akamaized.net\/hls\/live\/2107107\/A1@25853-tapmad\/master.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 20296,
-            "title": "FIA GT World Cup - Qualifying - Q2 - Super Pole",
-            "header_name": "Qualifying 2 - Macau Grand Prix 2026",
-            "description": "Watch the Macau Grand Prix 2026 live on tapmad and experience thrilling motorsport action, high-speed racing, and exciting moments from the track. Stream the Macau Grand Prix 2026 in HD on tapmad via the mobile app, TV, and web. Enjoy live racing anytime, anywhere on tapmad!",
-            "start_time_bd": "2026-11-20 20:40:00",
-            "seo_title": "macau-grand-prix-2026",
-            "category_seo_title": "macau-grand-prix-2026",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794985782540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794985782540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
         },
         {
             "status": "UPCOMING",
