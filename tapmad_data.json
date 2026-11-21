@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "10:30:06 PM 21-11-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "11:00:05 PM 21-11-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "upcoming_match": 15,
     "matches": [
         {
@@ -38,7 +38,7 @@
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145b15ce115fc600b1e3e9683db\/01a145b24db11ea557841e1612cf4c\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20243,
             "title": "Sevilla vs Betis",
             "header_name": "MATCHDAY 13 - LaLiga 2026\/27",
@@ -50,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795172317540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/LALIGA2026\/LaligaPromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -258,6 +258,21 @@
             "category_seo_title": "sta-vs-mlr-32nd-t20i-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794830300540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794830300540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20245,
+            "title": "Barcelona vs Villarreal",
+            "header_name": "MATCHDAY 13 - LaLiga 2026\/27",
+            "description": "The  match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Barcelona vs Villarreal live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-23 01:00:00",
+            "seo_title": "laliga-barcelona-vs-villarreal-live",
+            "category_seo_title": "laliga--barcelona-vs-villarreal-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795172545540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795172545540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
