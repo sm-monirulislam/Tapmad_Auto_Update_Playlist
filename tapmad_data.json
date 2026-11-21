@@ -2,25 +2,25 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "03:30:06 AM 22-11-2026",
+    "last_update_time": "04:00:08 AM 22-11-2026",
     "total_matches": 21,
     "live_match": 6,
     "upcoming_match": 15,
     "matches": [
         {
             "status": "LIVE",
-            "content_entity_id": 19318,
-            "title": "Prochazka vs Stirling",
-            "header_name": "Fight Night - UFC 2026",
-            "description": "UFC Fight Night Live: Watch Prochazka vs Stirling live online on tapmad. Enjoy watching Prochazka vs Stirling live streaming online in Pakistan with full match highlights. The fight will start at 11:00 PM on 21-Nov. Boost your adrenaline by watching the  contenders fighting for the title. Witness the fastest knockouts, deadliest fight nights, and bloodiest battles of renowned superstars of mixed martial arts. tapmad will be streaming UFC fights live in Pakistan via app, web, or smart tv.",
-            "start_time_bd": "2026-11-22 06:00:00",
-            "seo_title": "ufc-fight-night-prochazka-vs-stirling-live",
-            "category_seo_title": "ufc fight night-prochazka vs stirling-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794811799540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794811799540x302.jpg",
+            "content_entity_id": 19065,
+            "title": "New Zealand vs India",
+            "header_name": "1st Test - India Tour of New Zealand 2026",
+            "description": "Watch India Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 19-Nov-2026 at 03:00 AM . Fans can watch India Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-19 10:00:00",
+            "seo_title": "nz-vs-ind-1st-test-live",
+            "category_seo_title": "nz-vs-ind-1st-test-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794553818540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794553818540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8"
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a9fb90c15fc60e91e1786b061\/01a14a9feb881ea540a81c2b41b75e\/main.m3u8"
         },
         {
             "status": "LIVE",
@@ -35,7 +35,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794902560540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a4cd93615fc600b1e3e9683e8\/01a14a5761541567ee931e109fa576\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -50,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794902084540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145b15ce115fc600b1e3e9683db\/01a145b24db11ea557841e1612cf4c\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -65,7 +65,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794901956540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145d823d515fc600b1e3e9683de\/01a145dc15751ea540a81c2b41b754\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -80,7 +80,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794901695540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a5b5bd11ea540a81c2b41b75b\/01a14a5b94ea15fc600b1e3e9683eb\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
@@ -96,21 +96,6 @@
             "is_sports": true,
             "is_channel": true,
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145abfb3a1ea540a81c2b41b751\/01a145ae0ac115fc600b1e3e9683da\/main.m3u8"
-        },
-        {
-            "status": "UPCOMING",
-            "content_entity_id": 19065,
-            "title": "New Zealand vs India",
-            "header_name": "1st Test - India Tour of New Zealand 2026",
-            "description": "Watch India Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 1st Test is scheduled to be played on 19-Nov-2026 at 03:00 AM . Fans can watch India Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-22 10:00:00",
-            "seo_title": "nz-vs-ind-1st-test-live",
-            "category_seo_title": "nz-vs-ind-1st-test-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794553818540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794553818540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
         },
         {
             "status": "UPCOMING",
@@ -318,6 +303,21 @@
             "category_seo_title": "laliga--getafe-vs-atletico-madrid-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795172829540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795172829540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19728,
+            "title": "PFC Neftchi (UZB) vs Al Hilal SFC (KSA)",
+            "header_name": "MATCHDAY 5 - AFC Champions League Elite 2026\/27",
+            "description": "Watch PFC Neftchi vs Al Hilal SFC live online on tapmad. The AFC Champions League Elite PFC Neftchi vs Al Hilal SFC match is scheduled to take place on 23-Nov,  at 07:45 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-24 01:45:00",
+            "seo_title": "afc-champions-league-elite-pfc-neftchi-vs-al-hilal-sfc",
+            "category_seo_title": "afc-champions-league-elite-PFC Neftchi vs Al Hilal SFC",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795072198540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795072198540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
