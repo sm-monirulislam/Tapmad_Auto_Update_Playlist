@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "10:30:05 AM 22-11-2026",
-    "total_matches": 20,
-    "live_match": 5,
+    "last_update_time": "11:00:06 AM 22-11-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "upcoming_match": 15,
     "matches": [
         {
@@ -21,36 +21,6 @@
             "is_sports": true,
             "is_channel": true,
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a9fb90c15fc60e91e1786b061\/01a14a9feb881ea540a81c2b41b75e\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 20338,
-            "title": "FEI NAL - LA Arcadia \/ USA",
-            "header_name": "Race - Longines FEI Jumping World Cup 2026",
-            "description": "The Longines FEI Jumping World Cup North American League 2026 brings together elite riders and horses for high-level international show jumping competition. Featuring challenging courses, precise jumping, speed, skill, and intense competition, every event delivers exciting equestrian action. Watch Longines FEI Jumping World Cup NAL 2026 live in HD on tapmad via app, web, or Smart TV. Catch every round, jump, clear round, and thrilling finish live on tapmad.",
-            "start_time_bd": "2026-11-22 14:00:00",
-            "seo_title": "longines-fei-jumping-world-cup-2026",
-            "category_seo_title": "longines-fei-jumping-world-cup-2026",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794905786540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794905786540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154a641d51567ee931e109fa59f\/01a154a676281ea557841e1612cf77\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 20232,
-            "title": "Round 20 - Race 2",
-            "header_name": "Race 2 - Kumho FIA TCR World Tour Euro Series 2026",
-            "description": "Live Stream Round 20 - Race 2 online on tapmad and experience high-intensity touring car racing featuring some of the world’s top drivers and manufacturers. From aggressive overtakes to wheel-to-wheel battles, every race delivers nonstop motorsport excitement across iconic European circuits. Stream all the live action in HD anytime and anywhere on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-22 15:05:00",
-            "seo_title": "round-20-race-2",
-            "category_seo_title": "round-20---race-2",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794820083540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794820083540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
         },
         {
             "status": "LIVE",
