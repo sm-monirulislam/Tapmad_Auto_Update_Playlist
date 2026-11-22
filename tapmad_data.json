@@ -2,26 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "12:30:05 AM 23-11-2026",
+    "last_update_time": "01:00:05 AM 23-11-2026",
     "total_matches": 17,
     "live_match": 2,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 19975,
-            "title": "Lorient vs Rennes",
-            "header_name": "MATCHDAY 11 - French Ligue 1 2026\/27",
-            "description": "Watch Lorient vs Rennes live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Lorient vs Rennes match will take place on 22-Nov, Sunday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-23 04:15:00",
-            "seo_title": "lorient-vs-rennes-ligue-one-live-match",
-            "category_seo_title": "lorient-vs-rennes-ligue-one-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794902830540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794902830540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
         {
             "status": "LIVE",
             "content_entity_id": 20247,
@@ -38,7 +23,7 @@
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145b15ce115fc600b1e3e9683db\/01a145b24db11ea557841e1612cf4c\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19976,
             "title": "Marseille vs Le Mans",
             "header_name": "MATCHDAY 11 - French Ligue 1 2026\/27",
@@ -50,7 +35,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794902947540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/promos\/Ligue1\/ImLovinIt\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -258,6 +243,21 @@
             "category_seo_title": "afc-champions-league-elite-Cong An Ha Noi vs Vissel Kobe",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795165692540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795165692540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19778,
+            "title": "Ratchaburi FC (THA) vs Johor Darul Ta'zim FC (MAS)",
+            "header_name": "MATCHDAY 5 - AFC Champions League Elite 2026\/27",
+            "description": "Watch Ratchaburi FC vs Johor Darul Ta'zim FC live online on tapmad. The AFC Champions League Elite Ratchaburi FC vs Johor Darul Ta'zim FC match is scheduled to take place on 24-Nov,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-25 00:15:00",
+            "seo_title": "afc-champions-league-elite-ratchaburi-fc-vs-johor-darul-ta-zim-fc",
+            "category_seo_title": "afc-champions-league-elite-Ratchaburi FC vs Johor Darul Ta'zim FC",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795166022540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795166022540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
