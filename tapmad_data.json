@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:30:05 AM 22-11-2026",
-    "total_matches": 18,
-    "live_match": 3,
+    "last_update_time": "10:00:06 AM 22-11-2026",
+    "total_matches": 20,
+    "live_match": 5,
     "upcoming_match": 15,
     "matches": [
         {
@@ -53,7 +53,7 @@
             "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20326,
             "title": "FIA GT World Cup - Day 2",
             "header_name": "Race - Macau Grand Prix 2026",
@@ -65,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794996391540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19208,
             "title": "Brisbane Heat vs Adelaide Strikers",
             "header_name": "Group Stage - Women's Big Bash League 2026",
@@ -80,7 +80,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794830136540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -273,6 +273,36 @@
             "category_seo_title": "afc-champions-league-elite-Al Ain FC vs Esteghlal FC",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795077200540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795077200540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19753,
+            "title": "Air Force SC (IRQ) vs Al-Gharafa SC (QAT)",
+            "header_name": "MATCHDAY 5 - AFC Champions League Elite 2026\/27",
+            "description": "Watch Air Force SC vs Al-Gharafa SC live online on tapmad. The AFC Champions League Elite Air Force SC vs Al-Gharafa SC match is scheduled to take place on 24-Nov,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-24 06:15:00",
+            "seo_title": "afc-champions-league-elite-air-force-sc-vs-al-gharafa-sc",
+            "category_seo_title": "afc-champions-league-elite-Air Force SC vs Al-Gharafa SC",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795080084540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795080084540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19748,
+            "title": "Al Ittihad Club (KSA) vs Pakhtakor (UZB)",
+            "header_name": "MATCHDAY 5 - AFC Champions League Elite 2026\/27",
+            "description": "Watch Al Ittihad Club vs Pakhtakor live online on tapmad. The AFC Champions League Elite Al Ittihad Club vs Pakhtakor match is scheduled to take place on 24-Nov,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-24 06:15:00",
+            "seo_title": "afc-champions-league-elite-al-ittihad-club-vs-pakhtakor",
+            "category_seo_title": "afc-champions-league-elite-Al Ittihad Club vs Pakhtakor",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795160574540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795160575540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
