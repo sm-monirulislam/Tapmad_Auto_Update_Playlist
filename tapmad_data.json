@@ -2,26 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "02:00:05 AM 23-11-2026",
+    "last_update_time": "02:30:04 AM 23-11-2026",
     "total_matches": 17,
     "live_match": 2,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 20247,
-            "title": "Osasuna vs Malaga",
-            "header_name": "MATCHDAY 13 - LaLiga 2026\/27",
-            "description": "The  match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Osasuna vs Malaga live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-23 05:30:00",
-            "seo_title": "laliga-osasuna-vs-malaga-live",
-            "category_seo_title": "laliga--osasuna-vs-malaga-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795172688540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795172688540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
         {
             "status": "LIVE",
             "content_entity_id": 19976,
@@ -38,7 +23,7 @@
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20249,
             "title": "Getafe vs Atletico Madrid",
             "header_name": "MATCHDAY 13 - LaLiga 2026\/27",
@@ -50,7 +35,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795172829540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145b15ce115fc600b1e3e9683db\/01a145b24db11ea557841e1612cf4c\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -258,6 +243,21 @@
             "category_seo_title": "afc-champions-league-elite-Ratchaburi FC vs Johor Darul Ta'zim FC",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795166022540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795166022540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19773,
+            "title": "Shanghai Port FC (CHN) vs Buriram United (THA)",
+            "header_name": "MATCHDAY 5 - AFC Champions League Elite 2026\/27",
+            "description": "Watch Shanghai Port FC vs Buriram United live online on tapmad. The AFC Champions League Elite Shanghai Port FC vs Buriram United match is scheduled to take place on 24-Nov,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-25 00:15:00",
+            "seo_title": "afc-champions-league-elite-shanghai-port-fc-vs-buriram-united",
+            "category_seo_title": "afc-champions-league-elite-Shanghai Port FC vs Buriram United",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795166319540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795166319540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
