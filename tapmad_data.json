@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:00:04 PM 23-11-2026",
-    "total_matches": 16,
-    "live_match": 1,
+    "last_update_time": "09:30:06 PM 23-11-2026",
+    "total_matches": 19,
+    "live_match": 4,
     "upcoming_match": 15,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19743,
             "title": "Al Shamal SC (QAT) vs Al Ahli Saudi FC (KSA)",
             "header_name": "MATCHDAY 5 - AFC Champions League Elite 2026\/27",
@@ -35,10 +35,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795075626540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19738,
             "title": "Tractor FC (IRN) vs Al Wasl FC (UAE)",
             "header_name": "MATCHDAY 5 - AFC Champions League Elite 2026\/27",
@@ -50,10 +50,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795075101540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19733,
             "title": "Al Ain FC (UAE) vs Esteghlal FC (IRN)",
             "header_name": "MATCHDAY 5 - AFC Champions League Elite 2026\/27",
@@ -65,7 +65,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795077200540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -243,6 +243,51 @@
             "category_seo_title": "afc-champions-league-elite-Shabab Al Ahli vs Al Qadsiah Club",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795166627540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795166627540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19573,
+            "title": "Al Seeb Club (OMA) vs Al Shorta (IRQ)",
+            "header_name": "MATCHDAY 5 - AFC Champions League Two 2026\/27",
+            "description": "Watch Al Seeb Club vs Al Shorta live online on tapmad. The AFC Champions League Two Al Seeb Club vs Al Shorta match is scheduled to take place on 24-Nov,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-25 04:00:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795160140540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795160140540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19394,
+            "title": "Galatasaray vs Aston Villa",
+            "header_name": "MATCHDAY 5 - UEFA Champions League 2026\/27",
+            "description": "Watch Galatasaray vs Aston Villa live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Galatasaray vs Aston Villa match will take place on 24-Nov, Tuesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-25 05:45:00",
+            "seo_title": "galatasaray-vs-aston-villa-ucl-live-match",
+            "category_seo_title": "galatasaray-vs-aston villa-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795425504540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795425504540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19393,
+            "title": "Bodo\/Glimt vs LASK",
+            "header_name": "MATCHDAY 5 - UEFA Champions League 2026\/27",
+            "description": "Watch Bodo\/Glimt vs LASK live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Bodo\/Glimt vs LASK match will take place on 24-Nov, Tuesday, at 10:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-25 05:45:00",
+            "seo_title": "bodo-glimt-vs-lask-ucl-live-match",
+            "category_seo_title": "bodo\/glimt-vs-lask-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795425356540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795425356540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
