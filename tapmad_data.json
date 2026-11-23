@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "02:00:05 AM 24-11-2026",
-    "total_matches": 18,
-    "live_match": 3,
+    "last_update_time": "02:30:05 AM 24-11-2026",
+    "total_matches": 17,
+    "live_match": 2,
     "upcoming_match": 15,
     "matches": [
         {
@@ -20,22 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795080084540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19748,
-            "title": "Al Ittihad Club (KSA) vs Pakhtakor (UZB)",
-            "header_name": "MATCHDAY 5 - AFC Champions League Elite 2026\/27",
-            "description": "Watch Al Ittihad Club vs Pakhtakor live online on tapmad. The AFC Champions League Elite Al Ittihad Club vs Pakhtakor match is scheduled to take place on 24-Nov,  at 12:15 AM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-24 06:15:00",
-            "seo_title": "afc-champions-league-elite-al-ittihad-club-vs-pakhtakor",
-            "category_seo_title": "afc-champions-league-elite-Al Ittihad Club vs Pakhtakor",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795160574540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795160575540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
+            "stream_url": ""
         },
         {
             "status": "LIVE",
