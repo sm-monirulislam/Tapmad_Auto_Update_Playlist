@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "03:00:06 PM 24-11-2026",
-    "total_matches": 20,
-    "live_match": 5,
+    "last_update_time": "03:30:07 PM 24-11-2026",
+    "total_matches": 22,
+    "live_match": 7,
     "upcoming_match": 15,
     "matches": [
         {
@@ -83,7 +83,7 @@
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a4cd93615fc600b1e3e9683e8\/01a14a5761541567ee931e109fa576\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19768,
             "title": "Kyoto Sanga F.C. (JPN) vs FC Pohang Steelers (KOR)",
             "header_name": "MATCHDAY 5 - AFC Champions League Elite 2026\/27",
@@ -95,10 +95,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795165240540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/AFC2026\/Elite\/PERVIEW\/AfcElitepromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19763,
             "title": "Daejeon Hana Citizen FC (KOR) vs Beijing FC (CHN)",
             "header_name": "MATCHDAY 5 - AFC Champions League Elite 2026\/27",
@@ -110,7 +110,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795164518540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/AFC2026\/Elite\/PERVIEW\/AfcElitepromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -303,6 +303,36 @@
             "category_seo_title": "manchester city-vs-napoli-ucl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795503709540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795503709540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19397,
+            "title": "Feyenoord vs Porto",
+            "header_name": "MATCHDAY 5 - UEFA Champions League 2026\/27",
+            "description": "Watch Feyenoord vs Porto live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Feyenoord vs Porto match will take place on 25-Nov, Wednesday, at 02:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-25 08:00:00",
+            "seo_title": "feyenoord-vs-porto-ucl-live-match",
+            "category_seo_title": "feyenoord-vs-porto-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795503574540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795503574540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19396,
+            "title": "Como vs AEK Athens",
+            "header_name": "MATCHDAY 5 - UEFA Champions League 2026\/27",
+            "description": "Watch Como vs AEK Athens live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Como vs AEK Athens match will take place on 25-Nov, Wednesday, at 02:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-25 08:00:00",
+            "seo_title": "como-vs-aek-athens-ucl-live-match",
+            "category_seo_title": "como-vs-aek athens-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795503442540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795503442540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
