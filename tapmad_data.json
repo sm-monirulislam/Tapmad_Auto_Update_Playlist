@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "09:30:05 PM 24-11-2026",
-    "total_matches": 16,
-    "live_match": 1,
+    "last_update_time": "10:00:06 PM 24-11-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "upcoming_match": 15,
     "matches": [
         {
@@ -20,10 +20,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795159818540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
+            "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19788,
             "title": "Shabab Al Ahli (UAE) vs Al Qadsiah Club (KSA)",
             "header_name": "MATCHDAY 5 - AFC Champions League Elite 2026\/27",
@@ -35,10 +35,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795166627540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154de56151ea540a81c2b41b77a\/01a154de85c41567ee931e109fa5a5\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19573,
             "title": "Al Seeb Club (OMA) vs Al Shorta (IRQ)",
             "header_name": "MATCHDAY 5 - AFC Champions League Two 2026\/27",
@@ -50,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795160140540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154a641d51567ee931e109fa59f\/01a154a676281ea557841e1612cf77\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -243,6 +243,36 @@
             "category_seo_title": "afc-champions-league-elite-Gamba Osaka vs Port FC",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795364190540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795364190540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19798,
+            "title": "Kashima Antlers (JPN) vs Jeonbuk Hyundai Motors FC (KOR)",
+            "header_name": "MATCHDAY 5 - AFC Champions League Elite 2026\/27",
+            "description": "Watch Kashima Antlers vs Jeonbuk Hyundai Motors FC live online on tapmad. The AFC Champions League Elite Kashima Antlers vs Jeonbuk Hyundai Motors FC match is scheduled to take place on 25-Nov,  at 03:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Elite in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-25 22:00:00",
+            "seo_title": "afc-champions-league-elite-kashima-antlers-vs-jeonbuk-hyundai-motors-fc",
+            "category_seo_title": "afc-champions-league-elite-Kashima Antlers vs Jeonbuk Hyundai Motors FC",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795364535540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795364535540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19613,
+            "title": "Persib Bandung (IDN) vs FC Seoul (KOR)",
+            "header_name": "MATCHDAY 5 - AFC Champions League Two 2026\/27",
+            "description": "Watch Persib Bandung vs FC Seoul live online on tapmad. The AFC Champions League Two Persib Bandung vs FC Seoul match is scheduled to take place on 25-Nov,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-26 00:15:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795510387540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795510387540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
