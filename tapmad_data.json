@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "01:30:04 PM 25-11-2026",
-    "total_matches": 16,
-    "live_match": 1,
+    "last_update_time": "02:00:05 PM 25-11-2026",
+    "total_matches": 17,
+    "live_match": 2,
     "upcoming_match": 15,
     "matches": [
         {
@@ -23,7 +23,7 @@
             "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19210,
             "title": "Melbourne Renegades vs Brisbane Heat",
             "header_name": "Group Stage - Women's Big Bash League 2026",
@@ -35,7 +35,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795071505540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -243,6 +243,21 @@
             "category_seo_title": "lille-vs-bayern munchen-ucl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795507631540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795507631540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19407,
+            "title": "Shakhtar Donetsk vs Fenerbahce",
+            "header_name": "MATCHDAY 5 - UEFA Champions League 2026\/27",
+            "description": "Watch Shakhtar Donetsk vs Fenerbahce live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Shakhtar Donetsk vs Fenerbahce match will take place on 26-Nov, Thursday, at 01:00 AM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-26 08:00:00",
+            "seo_title": "shakhtar-donetsk-vs-fenerbahce-ucl-live-match",
+            "category_seo_title": "shakhtar donetsk-vs-fenerbahce-ucl-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795507415540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795507415540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
