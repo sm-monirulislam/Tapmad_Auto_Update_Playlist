@@ -2,41 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "01:30:05 AM 26-11-2026",
-    "total_matches": 18,
-    "live_match": 3,
+    "last_update_time": "02:00:08 AM 26-11-2026",
+    "total_matches": 23,
+    "live_match": 8,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 19403,
-            "title": "Slavia Praha vs Villarreal",
-            "header_name": "MATCHDAY 5 - UEFA Champions League 2026\/27",
-            "description": "Watch Slavia Praha vs Villarreal live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Slavia Praha vs Villarreal match will take place on 25-Nov, Wednesday, at 11:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-26 05:45:00",
-            "seo_title": "slavia-praha-vs-villarreal-ucl-live-match",
-            "category_seo_title": "slavia praha-vs-villarreal-ucl-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795504567540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795504567540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19402,
-            "title": "Sabah vs Barcelona",
-            "header_name": "MATCHDAY 5 - UEFA Champions League 2026\/27",
-            "description": "Watch Sabah vs Barcelona live match online on tapmad. The UEFA Champions League is the most-watched club competition in the world. The winners of this league play the UEFA Super Cup final against Europa League winners. The Sabah vs Barcelona match will take place on 25-Nov, Wednesday, at 11:45 PM. Stream all UCL matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-26 05:45:00",
-            "seo_title": "sabah-vs-barcelona-ucl-live-match",
-            "category_seo_title": "sabah-vs-barcelona-ucl-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795504435540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795504435540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8"
-        },
         {
             "status": "LIVE",
             "content_entity_id": 19608,
@@ -53,22 +23,7 @@
             "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154a641d51567ee931e109fa59f\/01a154a676281ea557841e1612cf77\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
-            "content_entity_id": 19598,
-            "title": "Al Muharraq SC (BHR) vs FC Arkadag (TKM)",
-            "header_name": "MATCHDAY 5 - AFC Champions League Two 2026\/27",
-            "description": "Watch Al Muharraq SC vs FC Arkadag live online on tapmad. The AFC Champions League Two Al Muharraq SC vs FC Arkadag match is scheduled to take place on 25-Nov,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-26 04:00:00",
-            "seo_title": "afc-champions-league-two",
-            "category_seo_title": "afc-champions-league-two",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795511769540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795511769540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19410,
             "title": "Sporting CP vs Manchester United",
             "header_name": "MATCHDAY 5 - UEFA Champions League 2026\/27",
@@ -80,10 +35,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795507907540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19409,
             "title": "Paris Saint-Germain vs Roma",
             "header_name": "MATCHDAY 5 - UEFA Champions League 2026\/27",
@@ -95,10 +50,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795507769540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145abfb3a1ea540a81c2b41b751\/01a145ae0ac115fc600b1e3e9683da\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19408,
             "title": "Lille vs Bayern Munchen",
             "header_name": "MATCHDAY 5 - UEFA Champions League 2026\/27",
@@ -110,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795507631540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145b15ce115fc600b1e3e9683db\/01a145b24db11ea557841e1612cf4c\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19407,
             "title": "Shakhtar Donetsk vs Fenerbahce",
             "header_name": "MATCHDAY 5 - UEFA Champions League 2026\/27",
@@ -125,10 +80,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795507415540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145d823d515fc600b1e3e9683de\/01a145dc15751ea540a81c2b41b754\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19406,
             "title": "Inter vs Stuttgart",
             "header_name": "MATCHDAY 5 - UEFA Champions League 2026\/27",
@@ -140,10 +95,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795506911540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a4cd93615fc600b1e3e9683e8\/01a14a5761541567ee931e109fa576\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19405,
             "title": "Club Brugge vs Liverpool",
             "header_name": "MATCHDAY 5 - UEFA Champions League 2026\/27",
@@ -155,10 +110,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795506747540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a5b5bd11ea540a81c2b41b75b\/01a14a5b94ea15fc600b1e3e9683eb\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19404,
             "title": "Atletico Madrid vs Viking",
             "header_name": "MATCHDAY 5 - UEFA Champions League 2026\/27",
@@ -168,6 +123,21 @@
             "category_seo_title": "atletico madrid-vs-viking-ucl-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795506147540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795506147540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a80166b1ea557841e1612cf55\/01a14a8047211ea557841e1612cf58\/main.m3u8"
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19598,
+            "title": "Al Muharraq SC (BHR) vs FC Arkadag (TKM)",
+            "header_name": "MATCHDAY 5 - AFC Champions League Two 2026\/27",
+            "description": "Watch Al Muharraq SC vs FC Arkadag live online on tapmad. The AFC Champions League Two Al Muharraq SC vs FC Arkadag match is scheduled to take place on 25-Nov,  at 10:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-26 04:00:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795511769540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795511769540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
@@ -273,6 +243,111 @@
             "category_seo_title": "afc-champions-league-two",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795597094540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795597094540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19633,
+            "title": "Preah Khan Reach Svay Rieng FC (CAM) vs FC Machida Zelvia (JPN)",
+            "header_name": "MATCHDAY 5 - AFC Champions League Two 2026\/27",
+            "description": "Watch Preah Khan Reach Svay Rieng FC vs FC Machida Zelvia live online on tapmad. The AFC Champions League Two Preah Khan Reach Svay Rieng FC vs FC Machida Zelvia match is scheduled to take place on 26-Nov,  at 06:15 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-27 00:15:00",
+            "seo_title": "afc-champions-league-two",
+            "category_seo_title": "afc-champions-league-two",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795596770540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795596770540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19866,
+            "title": "Celta vs Bournemouth",
+            "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
+            "description": "Watch Celta vs Bournemouth live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Celta vs Bournemouth match will take place on 26-Nov, Thursday, at 10:45 PM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 05:45:00",
+            "seo_title": "celta-vs-bournemouth-uel-live-match",
+            "category_seo_title": "celta-vs-bournemouth-uel-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795368111540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795368111540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19865,
+            "title": "Olympiacos vs Milan",
+            "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
+            "description": "Watch Olympiacos vs Milan live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Olympiacos vs Milan match will take place on 26-Nov, Thursday, at 10:45 PM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 05:45:00",
+            "seo_title": "olympiacos-vs-milna-uel-live-match",
+            "category_seo_title": "olympiacos-vs-milna-uel-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795367819540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795367819540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19864,
+            "title": "RB Salzburg vs Ararat-Armenia",
+            "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
+            "description": "Watch RB Salzburg vs Ararat-Armenia live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The RB Salzburg vs Ararat-Armenia match will take place on 26-Nov, Thursday, at 10:45 PM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 05:45:00",
+            "seo_title": "rb-salzburg-vs-ararat-armenia-uel-live-match",
+            "category_seo_title": "rb salzburg-vs-ararat-armenia-uel-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795367391540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795367391540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19863,
+            "title": "Dinamo Zagreb vs Leverkusen",
+            "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
+            "description": "Watch Dinamo Zagreb vs Leverkusen live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Dinamo Zagreb vs Leverkusen match will take place on 26-Nov, Thursday, at 10:45 PM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 05:45:00",
+            "seo_title": "dinamo-zagreb-vs-leverkusen-uel-live-match",
+            "category_seo_title": "dinamo-zagreb-vs-leverkusen-uel-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795367145540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795367145540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19862,
+            "title": "Union vs Lech Poznan",
+            "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
+            "description": "Watch Union  vs Lech Poznan live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Union vs Lech Poznan match will take place on 26-Nov, Thursday, at 10:45 PM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 05:45:00",
+            "seo_title": "union-vs-lech-poznan-uel-live-match",
+            "category_seo_title": "union-vs-lech-poznan-uel-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795366912540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795366912540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19861,
+            "title": "Viktoria Plzen vs Benfica",
+            "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
+            "description": "Watch Viktoria Plzen vs Benfica live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Viktoria Plzen vs Benfica match will take place on 26-Nov, Thursday, at 10:45 PM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 05:45:00",
+            "seo_title": "vikrtoia-plzen-vs-benfica-uel-live-match",
+            "category_seo_title": "vikrtoia-plzen-vs-benfica-uel-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795366665540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795366665540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
