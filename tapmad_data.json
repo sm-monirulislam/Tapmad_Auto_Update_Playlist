@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "01:00:09 AM 27-11-2026",
-    "total_matches": 23,
-    "live_match": 8,
+    "last_update_time": "01:30:13 AM 27-11-2026",
+    "total_matches": 30,
+    "live_match": 15,
     "upcoming_match": 15,
     "matches": [
         {
@@ -128,7 +128,7 @@
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19876,
             "title": "Ferencvaros vs Celje",
             "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
@@ -140,10 +140,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795370623540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19875,
             "title": "OFI vs Anderlecht",
             "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
@@ -155,10 +155,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795370381540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19874,
             "title": "OL vs Lillestrom",
             "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
@@ -170,10 +170,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795370005540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19873,
             "title": "Hoffenheim vs Sturm Graz",
             "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
@@ -185,10 +185,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795369796540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19872,
             "title": "NEC vs Rennes",
             "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
@@ -200,10 +200,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795369502540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19871,
             "title": "Sparta Praha vs AZ Alkmaar",
             "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
@@ -215,10 +215,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795369390540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19870,
             "title": "Juventus vs Omonoia",
             "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
@@ -230,52 +230,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795369207540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "UPCOMING",
-            "content_entity_id": 19869,
-            "title": "Palace vs Real Sociedad",
-            "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
-            "description": "Watch Palace vs Real Sociedad live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Palace vs Real Sociedad match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-27 08:00:00",
-            "seo_title": "palace-vs-real-sociedad-uel-live-match",
-            "category_seo_title": "palace-vs-real-sociedad-uel-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795368933540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795368933540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "UPCOMING",
-            "content_entity_id": 19868,
-            "title": "Sunderland vs Jagiellonia Bialystok",
-            "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
-            "description": "Watch Sunderland vs Jagiellonia Bialystok live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Sunderland vs Jagiellonia Bialystok match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-27 08:00:00",
-            "seo_title": "sunderland-vs-jagiellonia-bialystok-uel-live-match",
-            "category_seo_title": "sunderland-vs-jagiellonia-bialystok-uel-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795368712540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795368712540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "UPCOMING",
-            "content_entity_id": 19867,
-            "title": "Torreense vs Celtic",
-            "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
-            "description": "Watch Torreense vs Celtic live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Torreense vs Celtic match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-27 08:00:00",
-            "seo_title": "torreense-vs-celtic-uel-live-match",
-            "category_seo_title": "torreense-vs-celtic-uel-live-match",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795368451540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795368451540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodnewv2.in-maa-1.linodeobjects.com\/promos\/Tapmadpromo\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -288,6 +243,36 @@
             "category_seo_title": "nz-vs-ind-2nd-test-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794815049540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794815049540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20518,
+            "title": "GT1 Race Club - Qualifying Round - Adelaide, Australia",
+            "header_name": "Qualifying Race - GT World Challenge EU & Asia 2026",
+            "description": "The  GT1 Race Club - Qualifying Round - Adelaide, Australia. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 10:45:00",
+            "seo_title": "gt1-race-club-qualifying-round-adelaide-australia-live",
+            "category_seo_title": "-gt1-race-club---qualifying-round---adelaide,-australia--live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795720174540456.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795720174540456.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20521,
+            "title": "GTWCA - Qualifying Round - Part 1 - Adelaide, Australia",
+            "header_name": "Qualifying Race - GT World Challenge EU & Asia 2026",
+            "description": "The  GTWCA - Qualifying Round - Part 1 - Adelaide, Australia. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 12:45:00",
+            "seo_title": "gtwca-qualifying-round-part-1-adelaide-australia-live",
+            "category_seo_title": "-gtwca---qualifying-round---part-1---adelaide,-australia--live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795720773540456.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795720773540456.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
@@ -348,6 +333,126 @@
             "category_seo_title": "bangladesh-football-league-2026",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795679248540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795679248540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19213,
+            "title": "Perth Scorchers vs Hobart Hurricanes",
+            "header_name": "Group Stage - Women's Big Bash League 2026",
+            "description": "Watch Women's Big Bash League 2026 live on tapmad. The PER vs HH brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 36th T20I is scheduled to be played on 27-Nov-2026 at 03:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-27 22:10:00",
+            "seo_title": "per-vs-hh-36th-t20i-live",
+            "category_seo_title": "per-vs-hh-36th-t20i-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795415254540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795415254540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20368,
+            "title": "Bashundhara Kings vs Fortis FC Ltd.",
+            "header_name": "Round 6 - Bangladesh Football League 2026\/27",
+            "description": "Watch Bashundhara Kings vs Fortis FC Ltd. in the Bangladesh Football League 2026\/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Bashundhara Kings vs Fortis FC Ltd. match will take place on 27-Nov, at 05:30 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 23:30:00",
+            "seo_title": "bangladesh-football-league-2026",
+            "category_seo_title": "bangladesh-football-league-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795679329540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795679329540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20263,
+            "title": "Al Qadsiah vs Al-Fayha",
+            "header_name": "MATCHDAY 13 - Saudi Pro League 2026\/27",
+            "description": "The  match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al Qadsiah vs Al-Fayha live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-28 02:20:00",
+            "seo_title": "saudi-pro-league-al-qadsiah-vs-al-fayha-live",
+            "category_seo_title": "saudi-pro-league--al-qadsiah-vs-al-fayha-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795677537540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795677537540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20264,
+            "title": "Al-Ittihad vs Neom",
+            "header_name": "MATCHDAY 13 - Saudi Pro League 2026\/27",
+            "description": "The  match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Ittihad vs Neom live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-28 05:30:00",
+            "seo_title": "saudi-pro-league-al-ittihad-vs-neom-live",
+            "category_seo_title": "saudi-pro-league--al-ittihad-vs-neom-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795677605540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795677605540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19977,
+            "title": "Brest vs Paris FC",
+            "header_name": "MATCHDAY 12 - French Ligue 1 2026\/27",
+            "description": "Watch Brest vs Paris FC live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Brest vs Paris FC match will take place on 28-Nov, Saturday, at 12:45 AM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-28 07:45:00",
+            "seo_title": "brest-vs-paris-fc-ligue-one-live-match",
+            "category_seo_title": "brest-vs-paris fc-ligue-one-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795598315540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795598315540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20250,
+            "title": "Levante vs Racing Santander",
+            "header_name": "MATCHDAY 14 - LaLiga 2026\/27",
+            "description": "The  match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Levante vs Racing Santander live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-28 08:00:00",
+            "seo_title": "laliga-levante-vs-racing-santander-live",
+            "category_seo_title": "laliga--levante-vs-racing-santander-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795680381540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795680381540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19214,
+            "title": "Melbourne Renegades vs Melbourne Stars",
+            "header_name": "Group Stage - Women's Big Bash League 2026",
+            "description": "Watch Women's Big Bash League 2026 live on tapmad. The MLR vs STA brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 37th T20I is scheduled to be played on 28-Nov-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-28 16:40:00",
+            "seo_title": "mlr-vs-sta-37th-t20i-live",
+            "category_seo_title": "mlr-vs-sta-37th-t20i-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795415432540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795415432540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19215,
+            "title": "Sydney Thunder vs Sydney Sixers",
+            "header_name": "Group Stage - Women's Big Bash League 2026",
+            "description": "Watch Women's Big Bash League 2026 live on tapmad. The SCT vs SYS brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 38th T20I is scheduled to be played on 28-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-28 20:10:00",
+            "seo_title": "sct-vs-sys-38th-t20i-live",
+            "category_seo_title": "sct-vs-sys-38th-t20i-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795415568540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795415568540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
