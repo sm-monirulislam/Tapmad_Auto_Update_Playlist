@@ -2,26 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "05:00:07 PM 26-11-2026",
-    "total_matches": 19,
-    "live_match": 4,
+    "last_update_time": "05:30:07 PM 26-11-2026",
+    "total_matches": 21,
+    "live_match": 6,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 19212,
-            "title": "Sydney Sixers vs Melbourne Stars",
-            "header_name": "Group Stage - Women's Big Bash League 2026",
-            "description": "Watch Women's Big Bash League 2026 live on tapmad. The SYS vs STA brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 35th T20I is scheduled to be played on 26-Nov-2026 at 01:10 PM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-26 20:10:00",
-            "seo_title": "sys-vs-sta-35th-t20i-live",
-            "category_seo_title": "sys-vs-sta-35th-t20i-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795415099540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795415099540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
-        },
         {
             "status": "LIVE",
             "content_entity_id": 19628,
@@ -68,7 +53,7 @@
             "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19643,
             "title": "Tai Po FC (HKG) vs Adelaide United FC (AUS)",
             "header_name": "MATCHDAY 5 - AFC Champions League Two 2026\/27",
@@ -80,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795597546540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/promos\/AFCTWOPROMO\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19638,
             "title": "BG Pathum United (THA) vs Lion City Sailors FC (SGP)",
             "header_name": "MATCHDAY 5 - AFC Champions League Two 2026\/27",
@@ -95,10 +80,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795597094540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/promos\/AFCTWOPROMO\/master.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19633,
             "title": "Preah Khan Reach Svay Rieng FC (CAM) vs FC Machida Zelvia (JPN)",
             "header_name": "MATCHDAY 5 - AFC Champions League Two 2026\/27",
@@ -110,7 +95,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795596770540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/promos\/AFCTWOPROMO\/master.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -288,6 +273,51 @@
             "category_seo_title": "hoffenheim-vs-sturm graz-uel-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795369796540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795369796540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19872,
+            "title": "NEC vs Rennes",
+            "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
+            "description": "Watch NEC vs Rennes live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The NEC vs Rennes match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 08:00:00",
+            "seo_title": "nec-vs-rennes-uel-live-match",
+            "category_seo_title": "nec-vs-rennes-uel-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795369502540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795369502540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19871,
+            "title": "Sparta Praha vs AZ Alkmaar",
+            "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
+            "description": "Watch Sparta Praha vs AZ Alkmaar live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Sparta Praha vs AZ Alkmaar match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 08:00:00",
+            "seo_title": "sparta-praha-vs-az-alkmaar-uel-live-match",
+            "category_seo_title": "sparta praha-vs-az alkmaar-uel-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795369389540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795369390540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19870,
+            "title": "Juventus vs Omonoia",
+            "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
+            "description": "Watch Juventus vs Omonoia live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Juventus vs Omonoia match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 08:00:00",
+            "seo_title": "juventus-vs-omonoia-uel-live-match",
+            "category_seo_title": "juventus-vs-omonoia-uel-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795369207540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795369207540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
