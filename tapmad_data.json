@@ -2,28 +2,13 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "02:00:04 PM 26-11-2026",
+    "last_update_time": "02:30:03 PM 26-11-2026",
     "total_matches": 16,
     "live_match": 1,
     "upcoming_match": 15,
     "matches": [
         {
             "status": "LIVE",
-            "content_entity_id": 19211,
-            "title": "Sydney Thunder vs Adelaide Strikers",
-            "header_name": "Group Stage - Women's Big Bash League 2026",
-            "description": "Watch Women's Big Bash League 2026 live on tapmad. The SCT vs ADS brings three competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 34th T20I is scheduled to be played on 26-Nov-2026 at 09:40 AM . Fans can watch Women's Big Bash League 2026live on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-26 16:40:00",
-            "seo_title": "sct-vs-ads-34th-t20i-live",
-            "category_seo_title": "sct-vs-ads-34th-t20i-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795414950540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795414950540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "UPCOMING",
             "content_entity_id": 19212,
             "title": "Sydney Sixers vs Melbourne Stars",
             "header_name": "Group Stage - Women's Big Bash League 2026",
@@ -35,7 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795415099540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -243,6 +228,21 @@
             "category_seo_title": "marseille-vs-levski sofia-uel-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795366129540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795366129540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19876,
+            "title": "Ferencvaros vs Celje",
+            "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
+            "description": "Watch Ferencvaros vs Celje live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Ferencvaros vs Celje match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 08:00:00",
+            "seo_title": "ferencvaros-vs-celje-uel-live-match",
+            "category_seo_title": "ferencvaros-vs-celje-uel-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795370623540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795370623540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
