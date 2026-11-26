@@ -2,56 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "06:00:07 PM 26-11-2026",
-    "total_matches": 21,
-    "live_match": 6,
+    "last_update_time": "06:30:06 PM 26-11-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 19628,
-            "title": "Tampines Rovers FC (SGP) vs Shanghai Shenhua FC (CHN)",
-            "header_name": "MATCHDAY 5 - AFC Champions League Two 2026\/27",
-            "description": "Watch Tampines Rovers FC vs Shanghai Shenhua FC live online on tapmad. The AFC Champions League Two Tampines Rovers FC vs Shanghai Shenhua FC match is scheduled to take place on 26-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-26 22:00:00",
-            "seo_title": "afc-champions-league-two",
-            "category_seo_title": "afc-champions-league-two",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795596439540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795596439540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19623,
-            "title": "Kuching City FC (MAS) vs Phnom Penh Crown FC (CAM)",
-            "header_name": "MATCHDAY 5 - AFC Champions League Two 2026\/27",
-            "description": "Watch Kuching City FC vs Phnom Penh Crown FC live online on tapmad. The AFC Champions League Two Kuching City FC vs Phnom Penh Crown FC match is scheduled to take place on 26-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-26 22:00:00",
-            "seo_title": "afc-champions-league-two",
-            "category_seo_title": "afc-champions-league-two",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795596106540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795596106540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 19618,
-            "title": "Gangwon FC (KOR) vs Kitchee SC (HKG)",
-            "header_name": "MATCHDAY 5 - AFC Champions League Two 2026\/27",
-            "description": "Watch Gangwon FC vs Kitchee SC live online on tapmad. The AFC Champions League Two Gangwon FC vs Kitchee SC match is scheduled to take place on 26-Nov,  at 04:00 PM. The ACL Two is an annual continental club football competition organised by the Asian Football Confederation and contested by Asia's top-division football clubs. Football fans can watch the AFC Champions League Two in HD quality on tapmad via web, app, or smart TV.",
-            "start_time_bd": "2026-11-26 22:00:00",
-            "seo_title": "afc-champions-league-two",
-            "category_seo_title": "afc-champions-league-two",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795595685540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795595685540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
         {
             "status": "LIVE",
             "content_entity_id": 19643,
@@ -65,7 +20,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795597546540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/promos\/AFCTWOPROMO\/master.m3u8"
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154de56151ea540a81c2b41b77a\/01a154de85c41567ee931e109fa5a5\/main.m3u8"
         },
         {
             "status": "LIVE",
@@ -80,7 +35,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795597094540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/promos\/AFCTWOPROMO\/master.m3u8"
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a154a641d51567ee931e109fa59f\/01a154a676281ea557841e1612cf77\/main.m3u8"
         },
         {
             "status": "LIVE",
@@ -95,7 +50,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795596770540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": "https:\/\/vodintlv2.in-maa-1.linodeobjects.com\/promos\/AFCTWOPROMO\/master.m3u8"
+            "stream_url": "https:\/\/multiregion-asia-cdn.tapmad.com\/v1\/01a1548c4faf15fc600b1e3e968408\/01a1548c7fde1ea557841e1612cf76\/main.m3u8"
         },
         {
             "status": "UPCOMING",
