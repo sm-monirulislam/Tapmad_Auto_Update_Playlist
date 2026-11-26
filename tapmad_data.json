@@ -2,13 +2,13 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "11:00:04 PM 26-11-2026",
-    "total_matches": 15,
-    "live_match": 0,
+    "last_update_time": "11:30:08 PM 26-11-2026",
+    "total_matches": 23,
+    "live_match": 8,
     "upcoming_match": 15,
     "matches": [
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19866,
             "title": "Celta vs Bournemouth",
             "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
@@ -20,10 +20,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795368111540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a9fb90c15fc60e91e1786b061\/01a14a9feb881ea540a81c2b41b75e\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19865,
             "title": "Olympiacos vs Milan",
             "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
@@ -35,10 +35,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795367819540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a80166b1ea557841e1612cf55\/01a14a8047211ea557841e1612cf58\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19864,
             "title": "RB Salzburg vs Ararat-Armenia",
             "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
@@ -50,10 +50,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795367391540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a5b5bd11ea540a81c2b41b75b\/01a14a5b94ea15fc600b1e3e9683eb\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19863,
             "title": "Dinamo Zagreb vs Leverkusen",
             "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
@@ -65,10 +65,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795367145540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14a4cd93615fc600b1e3e9683e8\/01a14a5761541567ee931e109fa576\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19862,
             "title": "Union vs Lech Poznan",
             "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
@@ -80,10 +80,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795366912540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145d823d515fc600b1e3e9683de\/01a145dc15751ea540a81c2b41b754\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19861,
             "title": "Viktoria Plzen vs Benfica",
             "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
@@ -95,10 +95,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795366665540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145b15ce115fc600b1e3e9683db\/01a145b24db11ea557841e1612cf4c\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19860,
             "title": "Besiktas vs H. Beer-Sheva",
             "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
@@ -110,10 +110,10 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795366388540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a145abfb3a1ea540a81c2b41b751\/01a145ae0ac115fc600b1e3e9683da\/main.m3u8"
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 19859,
             "title": "Marseille vs Levski Sofia",
             "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
@@ -125,7 +125,7 @@
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795366129540x302.jpg",
             "is_sports": true,
             "is_channel": true,
-            "stream_url": ""
+            "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a1456f124d15fc600b1e3e9683d7\/01a145990eba15fc60e91e1786b054\/main.m3u8"
         },
         {
             "status": "UPCOMING",
@@ -228,6 +228,126 @@
             "category_seo_title": "juventus-vs-omonoia-uel-live-match",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795369207540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795369207540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19869,
+            "title": "Palace vs Real Sociedad",
+            "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
+            "description": "Watch Palace vs Real Sociedad live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Palace vs Real Sociedad match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 08:00:00",
+            "seo_title": "palace-vs-real-sociedad-uel-live-match",
+            "category_seo_title": "palace-vs-real-sociedad-uel-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795368933540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795368933540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19868,
+            "title": "Sunderland vs Jagiellonia Bialystok",
+            "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
+            "description": "Watch Sunderland vs Jagiellonia Bialystok live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Sunderland vs Jagiellonia Bialystok match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 08:00:00",
+            "seo_title": "sunderland-vs-jagiellonia-bialystok-uel-live-match",
+            "category_seo_title": "sunderland-vs-jagiellonia-bialystok-uel-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795368712540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795368712540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19867,
+            "title": "Torreense vs Celtic",
+            "header_name": "MATCHDAY 5 - UEFA Europa League 2026\/27",
+            "description": "Watch Torreense vs Celtic live match online on tapmad. The UEFA Europa League is one of Europe's premier club football competitions, bringing together top teams from across the continent for high-intensity matches and unforgettable moments. The winners of this league play the UEFA Super Cup final against Uefa Europa League winners. The Torreense vs Celtic match will take place on 27-Nov, Friday, at 01:00 AM. Stream all UEL matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 08:00:00",
+            "seo_title": "torreense-vs-celtic-uel-live-match",
+            "category_seo_title": "torreense-vs-celtic-uel-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795368451540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795368451540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19066,
+            "title": "New Zealand vs India",
+            "header_name": "2nd Test - India Tour of New Zealand 2026",
+            "description": "Watch India Tour of New Zealand 2026 live on tapmad. The NZ vs IND brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 2nd Test is scheduled to be played on 27-Nov-2026 at 03:00 AM . Fans can watch India Tour of New Zealand 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-27 10:00:00",
+            "seo_title": "nz-vs-ind-2nd-test-live",
+            "category_seo_title": "nz-vs-ind-2nd-test-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794815049540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794815049540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20136,
+            "title": "Australia vs England",
+            "header_name": "3rd T20I - England Tour of Australia 2026",
+            "description": "Watch England Tour of Australia 2026 live on tapmad. The AUS vs ENG brings two competitive cricket sides together for an exciting international series. Featuring quality batting, disciplined bowling, powerful hitting, and intense matchups, every game delivers thrilling cricket action. The 3rd T20I is scheduled to be played on 27-Nov-2026 at 01:15 PM . Fans can watch England Tour of Australia 2026live on tapmad via web, app, or smart TV.",
+            "start_time_bd": "2026-11-27 20:15:00",
+            "seo_title": "aus-vs-eng-3rd-t20i-live",
+            "category_seo_title": "aus-vs-eng-3rd-t20i-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1794813228540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1794813228540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20370,
+            "title": "Dhaka Wanderers Club vs Arambagh Krira Shangha",
+            "header_name": "Round 6 - Bangladesh Football League 2026\/27",
+            "description": "Watch Dhaka Wanderers Club vs Arambagh Krira Shangha in the Bangladesh Football League 2026\/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Dhaka Wanderers Club vs Arambagh Krira Shangha match will take place on 27-Nov, at 02:30 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 20:30:00",
+            "seo_title": "bangladesh-football-league-2026",
+            "category_seo_title": "bangladesh-football-league-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795679479540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795679479540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20369,
+            "title": "Rahamatgonj MFS vs Mohammedan SC Ltd",
+            "header_name": "Round 6 - Bangladesh Football League 2026\/27",
+            "description": "Watch Rahamatgonj MFS vs Mohammedan SC Ltd in the Bangladesh Football League 2026\/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Rahamatgonj MFS vs Mohammedan SC Ltd match will take place on 27-Nov, at 02:30 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 20:30:00",
+            "seo_title": "bangladesh-football-league-2026",
+            "category_seo_title": "bangladesh-football-league-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795679400540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795679400540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20367,
+            "title": "Bangladesh Police FC vs Abahani Ltd. Dhaka",
+            "header_name": "Round 6 - Bangladesh Football League 2026\/27",
+            "description": "Watch Bangladesh Police FC vs Abahani Ltd. Dhaka in the Bangladesh Football League 2026\/27. The match brings exciting domestic football action, featuring attacking play, tactical battles, defensive challenges, and goal-scoring opportunities. The Bangladesh Police FC vs Abahani Ltd. Dhaka match will take place on 27-Nov, at 02:30 PM. Stream all Bangladesh Football League 2026 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-27 20:30:00",
+            "seo_title": "bangladesh-football-league-2026",
+            "category_seo_title": "bangladesh-football-league-2026",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795679248540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795679248540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
