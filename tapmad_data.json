@@ -2,26 +2,11 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "10:30:05 PM 28-11-2026",
-    "total_matches": 18,
-    "live_match": 3,
+    "last_update_time": "11:00:06 PM 28-11-2026",
+    "total_matches": 19,
+    "live_match": 4,
     "upcoming_match": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "content_entity_id": 20266,
-            "title": "Al-Ettifaq vs Al-Hilal",
-            "header_name": "MATCHDAY 13 - Saudi Pro League 2026\/27",
-            "description": "The  match of the Saudi Pro League  brings together some of the biggest football clubs and stars for another exciting season of top-flight Saudi football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Al-Ettifaq vs Al-Hilal live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-29 02:20:00",
-            "seo_title": "saudi-pro-league-al-ettifaq-vs-al-hilal-live",
-            "category_seo_title": "saudi-pro-league--al-ettifaq-vs-al-hilal-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795677914540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795677914540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
-        },
         {
             "status": "LIVE",
             "content_entity_id": 20252,
@@ -53,7 +38,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20267,
             "title": "Al-Ahli vs Al-Taawoun",
             "header_name": "MATCHDAY 13 - Saudi Pro League 2026\/27",
@@ -68,7 +53,7 @@
             "stream_url": ""
         },
         {
-            "status": "UPCOMING",
+            "status": "LIVE",
             "content_entity_id": 20253,
             "title": "Elche vs Atletico Madrid",
             "header_name": "MATCHDAY 14 - LaLiga 2026\/27",
@@ -273,6 +258,36 @@
             "category_seo_title": "laliga--deportivo-vs-barcelona-live",
             "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795682358540x302.jpg",
             "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795682358540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 19984,
+            "title": "Toulouse vs Rennes",
+            "header_name": "MATCHDAY 12 - French Ligue 1 2026\/27",
+            "description": "Watch Toulouse vs Rennes live match online on tapmad. Follow exciting French football action featuring attacking play, tactical battles, goal-scoring opportunities, and key moments throughout the match. The Toulouse vs Rennes match will take place on 29-Nov, Sunday, at 09:15 PM. Stream all Ligue 1 matches online on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-30 04:15:00",
+            "seo_title": "toulouse-vs-rennes-ligue-one-live-match",
+            "category_seo_title": "toulouse-vs-rennes-ligue-one-live-match",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795602534540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795602534540x302.jpg",
+            "is_sports": true,
+            "is_channel": true,
+            "stream_url": ""
+        },
+        {
+            "status": "UPCOMING",
+            "content_entity_id": 20257,
+            "title": "Celta vs Villarreal",
+            "header_name": "MATCHDAY 14 - LaLiga 2026\/27",
+            "description": "The  match of the LaLiga  brings together some of the biggest football clubs and stars for another exciting campaign of top-flight Spanish football. Featuring fast-paced attacks, skillful defending, world-class talent, and thrilling goals, every match promises intense competition throughout the season. Watch Celta vs Villarreal live in HD on tapmad with official match coverage and uninterrupted streaming. Catch every goal, assist, save, and match-defining moment live on tapmad via app, web, or smart TV.",
+            "start_time_bd": "2026-11-30 05:30:00",
+            "seo_title": "laliga-celta-vs-villarreal-live",
+            "category_seo_title": "laliga--celta-vs-villarreal-live",
+            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795682429540x302.jpg",
+            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795682429540x302.jpg",
             "is_sports": true,
             "is_channel": true,
             "stream_url": ""
