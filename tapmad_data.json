@@ -2,9 +2,9 @@
     "name": "Tapmad Auto Update Playlist",
     "owner": "Monirul Islam",
     "telegram_channel": "https:\/\/t.me\/sm_iptv_bd",
-    "last_update_time": "06:30:05 AM 28-11-2026",
-    "total_matches": 18,
-    "live_match": 3,
+    "last_update_time": "07:00:07 AM 28-11-2026",
+    "total_matches": 17,
+    "live_match": 2,
     "upcoming_match": 15,
     "matches": [
         {
@@ -21,21 +21,6 @@
             "is_sports": true,
             "is_channel": true,
             "stream_url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14ab8af8915fc600b1e3e9683f0\/01a14ab953dd1ea540a81c2b41b75f\/main.m3u8"
-        },
-        {
-            "status": "LIVE",
-            "content_entity_id": 20530,
-            "title": "GTWCA - Race 1 - Adelaide, Australia",
-            "header_name": "Race 1 - GT World Challenge EU & Asia 2026",
-            "description": "The  GTWCA - Race 1 - Adelaide, Australia match is scheduled to take place on 30-Dec, at 12:00 AM. Experience high-speed action, elite drivers, and top manufacturers competing in intense endurance battles and sprint races. Stream all races live in HD with seamless coverage, anytime and anywhere on tapmad via app, web, or smart TV.",
-            "start_time_bd": "2026-11-28 10:40:00",
-            "seo_title": "gtwca-race-1-adelaide-australia-live",
-            "category_seo_title": "gtwca---race-1---adelaide,-australia-live",
-            "thumbnail": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelFeaturedAppthumb\/1795763914540x302.jpg",
-            "tv_image": "https:\/\/d34080pnh6e62j.cloudfront.net\/images\/channels\/ChannelTVImage\/1795763914540x302.jpg",
-            "is_sports": true,
-            "is_channel": true,
-            "stream_url": ""
         },
         {
             "status": "LIVE",
